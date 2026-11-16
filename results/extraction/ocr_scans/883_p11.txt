@@ -1,0 +1,50 @@
+Payable Register
+
+Type Count
+Credit Memo 3
+Invoice 132
+
+Grand Total:
+
+Gross
+-175.43
+101,718.20
+101,542.77
+
+Payable Summary
+
+Tax
+0.00
+0.00
+0.00
+
+Shipping
+0.00
+0.00
+0.00
+
+Discount
+0.00
+0.00
+0.00
+
+Total
+-175.43
+101,718.20
+101,542.77
+
+Packet: APPKT01375 - Audit 3/15/21
+
+Manual Payment
+0.00
+0.00
+0.00
+
+Balance
+-175.43
+101,718.20
+101,542.77
+
+3/10/2021 1:12:19 PM
+
+Page 26 of 29

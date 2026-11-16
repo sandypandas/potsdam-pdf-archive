@@ -1,0 +1,11 @@
+Payable Register Packet: APPKT01592 - Audit 10/4/21
+
+Payable Summary
+
+Type Count Gross Tax Shipping Discount Total Manual Payment Balance
+Invoice 28 88,384.90 0.00 0.00 0.00 88,384.90 0.00 88,384.90
+Grand Total: 88,384.90 0.00 0.00 0.00 88,384.90 0.00 88,384.90
+
+9/29/2021
+
+Page 22 of 23

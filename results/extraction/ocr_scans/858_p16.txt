@@ -1,0 +1,56 @@
+Payable Register Packet: APPKT01253 - Audit 12/7/20
+
+Account Summary
+
+PCCOU ..Name jount
+Q5-1230-200 Equipment 70.83
+05-1410-200 Equipment 79.99
+0$-1410-430 Books, Subscriptions 1,195.00
+05-1620-470 Building Maintenance 7.00
+05-1640-470 Building Maintenance 31.58
+05-1640-488 Small Tools 7.99
+0S-1640-491 Chemicals 74.50
+05-1910-465 Software/IT Services 2,250.00
+05-1910-474 Contribution To Res.Squad 8,750.00
+Q5-3120-464 Vehicle Maintenance 20.00
+Q5-3120-492 Gas, Oil And Lube 500.00
+05-3120-493 Police Station Lease 6,874.57
+05-3620-492 Gas, Oil And Lube 30.00
+Q5-5110-425 Clothing 356.26
+0Q5-5610-480 Special Services 425.00
+05-7450-490 Office Supplies 88.53
+05-9060-800 Health Insurance 19,439.29
+Q5-9189-800 FSA Admin 244.26
+
+total ov “aa
+Account Name Amount
+19-8330-200 Equipment 21,600.17
+10-8330-480 Special Services 2,440.00
+10-8330-487 Laboratory Supplies 241.95
+10-8330-488 Small Tools 102.29
+10-8330-491 Chemicals 8,303.16
+10-8340-425 Clothes 200.00
+10-8340-465 Equipment Maintenance 454.82
+10-8340-467 Water Line Repairs 2,508.64
+10-8340-483 Paving Materials 912.38
+10-8340-488 Small Tools 22.99
+10-8340-492 Gas, Oil And Lube 155.92
+10-9189-800 FSA Administration 62.37
+
+itl ae Sua
+Account | Name Amount
+1S-8120-480 Special Services 250.00
+15-8120-492 Gas, Oil & Lube 155.92
+15-8130-480 Special Services 300.00
+15-9189-000 Excess Fringes 62.37
+ae eek a
+Account Name Amount
+30-0025-000 Towing Service Deposits 375.00
+
+Total: 375.00
+Account Name Amount
+31-7140-464 Vehicle Maintenance 358.26
+
+Tota: "358.26
+
+12/2/2020 LOr13:14 AM

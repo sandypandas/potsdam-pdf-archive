@@ -1,0 +1,23 @@
+issue_code,category,severity,description
+NO_TEXT_LAYER,text,high,"Image-only PDF; not searchable, needs OCR"
+TITLE_MISSING,metadata,medium,Title field empty
+TITLE_TEMPLATE,metadata,medium,Title carried over from a reused template; describes another document
+TITLE_FILENAME,metadata,low,Title is a source filename or software string
+AUTHOR_MISSING,metadata,low,Author field empty
+AUTHOR_INCONSISTENT,metadata,low,Author written in non-standard form (e.g. all caps)
+NO_CONTENT_DATE,identity,medium,No meeting/document date could be read from the text
+CREATION_DATE_RESAVED,metadata,medium,"CreationDate reflects a later batch re-save, not origin"
+CREATION_DATE_FAR,metadata,low,CreationDate more than 1 year from the document's own date
+FONTS_NOT_EMBEDDED,format,medium,One or more fonts not embedded; blocks PDF/A conformance
+NOT_PDFA,format,low,No PDF/A identification in XMP
+LOW_RES_SCAN,format,high,Scanned image below 200 ppi; OCR quality at risk
+EXACT_DUPLICATE,integrity,medium,Byte-identical to another file in the archive
+PDF_SYNTAX_WARNING,integrity,low,pdfinfo reported a syntax error (file still opens)
+TYPE_UNCLASSIFIED,identity,low,Document type not determined by rules; needs review
+TEXT_LAYER_DEFECTIVE,text,high,Text layer exists but drops characters (e.g. all digits); fails OCR cross-check
+IMAGE_ONLY_PAGES,text,medium,"Born-digital file contains pages that are images only (maps, inserts)"
+TEXT_IN_IMAGES,text,low,Charts or graphics carry text only as images
+ROTATED_PAGES,format,medium,Scanned pages stored sideways/upside down; OCR fails unless auto-rotated
+OCR_HARD_CONTENT,text,medium,"Tables, maps, colour-coded or graphic content; OCR text incomplete or scrambled"
+HALFTONE_BACKGROUND,text,high,Text printed on a grey/dotted background; plain OCR recovers almost nothing
+HANDWRITING,text,high,Handwritten entries; OCR cannot read them

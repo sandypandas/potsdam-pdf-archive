@@ -1,0 +1,222 @@
+Payable Register
+
+Account
+
+05-1410-490
+Q5-1620-420
+
+05-1620-429
+05-1620-470
+05-1620-480
+O5-1620-488
+
+05-1640-480
+
+05-1640-481
+Q5-1640-4388
+05-1640-492
+05-1910-455
+05-1910-465
+05-1910-4380
+05-3120-425
+05-3120-464
+OS-3120-480
+05-3120-490
+05-3120-492
+
+05-3410-420
+
+05-3410-464
+05-3410-465
+0S-3620-490
+O5-3620-492
+05-4020-480
+05-4020-490
+05-5010-425
+05-5010-490
+05-5110-425
+OS-5110-465
+05-5110-492
+05-5142-425
+05-5142-454
+05-5142-461
+05-5142-464
+05-5142-465
+05-5142-492
+05-5610-428
+05-5610-465
+05-7110-407
+05-7450-200
+05-7450-463
+05-7450-465
+05-7450-480
+O5-7450-484
+05-7450-490
+05-8170-492
+05-9060-800
+05-9189-800
+05-9620-401
+
+Account
+
+10-1620-429
+10-1640-470
+10-1910-455
+10-8330-465
+10-8330-480
+10-8330-488
+
+Account Summary
+
+Name
+
+Office Supplies
+
+Janitorial Supplies
+
+Trash service
+
+Building Maintenance
+Specials Services
+
+Small Tools
+
+Special Services
+
+Misc. Supplies
+
+Small Tools
+
+Gas, Oil And Lube
+Uniform Rental
+Software/IT Services
+Misc Expense
+
+Clothing & Uniform Allow.
+Vehicle Maintenance
+Special Services
+
+Office Supplies
+
+Gas, Oil And Lube
+Janitorial Supplies
+Vehicle Maintenance
+Equip.Maint.& Supplies
+Office Supplies
+
+Gas, Oil And Lube
+Special Servics-Preservation
+Office Supplies
+
+Clothing Allowance
+Office Supplies
+
+Clothing
+
+Equipment Maintenance
+Gas, Oil And Lube
+Clothing
+
+Equipment Rental
+Advertising
+
+Vehicle Maintenance
+Equipment Maintenance
+Gas, Oil And Lube
+Propane
+
+Equipment Maint.&Supplies
+Garner Park Project
+Equipment
+
+Comestibles
+
+Equipment Maintenance
+Special Services
+Preservation Supplies
+Office Supplies
+
+Gas, Oil And Lube
+Health Insurance
+
+FSA Admin
+
+Other Budgetary Purposes
+
+Name
+
+Trash service
+
+Building Maintenance
+Uniform Contract
+Equipment Maintenance
+Special Services
+
+Small Tools
+
+Packet: APPKT01375 - Audit 3/15/21
+
+Amount
+31.05
+128.63
+2,323.80
+273.99
+349.94
+121.93
+78.00
+50.72
+9.98
+294.17
+129.12
+2,548.00
+387.72
+24.81
+1,175.67
+595.00
+155.00
+730.34
+100.96
+1,747.00
+13.98
+23:33
+30.55
+178.47
+186.55
+33.30
+93.40
+164.50
+71.70
+1,793.41
+33.30
+3,500.00
+56.34
+3,271.62
+14,040.61
+576.80
+1,211.75
+149.25
+1,701.55
+399.54
+2.75
+79.98
+300.00
+331.28
+9.10
+85.36
+18,837.07
+462.26
+3,694.05
+Total: 62,587.63
+
+Amount
+333.33
+101.55
+
+38.68
+11.99
+257.00
+19.99
+
+3/10/2021 1:12:19 PM
+
+Page 27 of 29

@@ -1,0 +1,8 @@
+Payable Register Packet: APPKT02102 - Audit 1/3/23
+
+Payable Summary
+Type Count Gross Tax Shipping Discount Total Manual Payment Balance
+Invoice 39 29,638.54 0.00 0.00 0.00 29,638.54 0.00 29,638.54
+Grand Total: 29,638.54 0.00 0.00 0.00 29,638.54 0.00 29,638.54
+
+Page 280

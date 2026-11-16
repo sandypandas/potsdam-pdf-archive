@@ -1,0 +1,52 @@
+Table 8 presents fatal crashes by county. Clinton County showed a greater rate of fatal crashes
+relative to total crashes along Route 11. It is assumed that high crash rates and fatalities can be
+
+attributed to factors such as geometric deficiencies along Route 11 and driver error.
+
+Table 8: 1999-2002 Fatal Crashes by County
+
+County Total Crashes Fatal Crashes Percentage
+Jefferson 579 4 0.69%
+St. Lawrence 908 p) 0.55%
+Franklin 767 0.13%
+Clinton 300 0 1.00%
+Total 2,994 13 0.51%
+
+Source: NYSDOT Accident Location Information System — Dated 12/2014, 01/2015.
+
+C.. Environmental
+
+Major environmental resources and constraints were identified in conservatively defined study
+areas where potential impacts due to the new roadway alternative could occur. Existing
+environmental resources and constraints are described below and include noise-sensitive land
+uses, wetlands, environmental justice (EJ) areas, resources governed under 23 Code of Federal
+Regulations part 774 (Section 4(f) resources), and lands or facilities acquired with Land and
+Water Conservation Act funds (Section 6(f) resources).
+
+1. Noise-Sensitive Land Use
+
+Noise sensitive receptors in the vicinity of Route 11 were identified based on guidance in the
+NYSDOT Environmental Procedures Manual. \dentified receptors included residential land
+uses; public and community facilities (including educational facilities, health facilities, cultural
+facilities, and religious-facilities); and recreational and entertainment facilities (including
+theaters, auditoriums, playgrounds, athletic fields, and outdoor sports facilities; recreational
+facilities such as nature trails and bike paths; state-owned forest lands; and public parks). Land
+use categories comprising noise-sensitive receptors are shown in Figure 4, “Land Use” and
+Figure 5, “Public Parks/Recreation Resources.”
+
+2. Wetlands
+
+National Wetland Inventory (NWI) freshwater wetlands and New York State Department of
+Environmental Conservation (NYSDEC) wetlands are mapped in Figure 6, “NWI and NYSDEC
+Wetlands,” which indicates the presence of large NWI and NYSDEC wetlands along major
+
+portions of the study area.
+
+Wetlands measuring 12.4 acres (5 hectares) or larger are protected under the New York State
+Freshwater Wetlands Act, and are under the jurisdiction of NYSDEC. Smaller wetlands may
+also be protected if they are considered of unusual local importance. Around every wetland is an
+“adjacent area” of 100 feet that is also regulated to provide protection for the wetland. The U.S.
+Army Corps of Engineers (USACE) also protects wetlands, irrespective of size, under Section
+404 of the Clean Water Act.
+
+13

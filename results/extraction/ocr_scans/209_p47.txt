@@ -1,0 +1,61 @@
+When conducting a BCA, a minimum of two project alternatives are considered. A base case, or
+no-build, scenario is typically one of the alternatives. A second alternative, the build, assumes
+that the project will move forward. Capital costs are estimated for this second alternative, and a
+schedule for construction is developed. In addition, the operating and maintenance costs are
+estimated, as is their timing. Other variables incorporated into the build alternative for a
+highway project include anticipated traffic diversions and changes to the overall levels of traffic
+in the area. It is the difference between these alternatives that forms the basis of the BCA.
+
+In general, BCA results in two standard metrics where the streams of future benefits and costs
+are discounted to today’s dollars:
+
+e NPV = Discounted Benefits — Discounted Costs
+e BCR = Discounted Benefits / Discounted Costs
+
+A structure and logic diagram showing the relationship between the input and output metrics is
+presented below. General information is combined with vehicle miles traveled (VMT) and
+vehicle hours traveled (VHT) to estimate transportation benefits. These are compared to costs to
+calculate the NPV and BCR.
+
+Figure 12: Structure and Logic of Benefit-Cost Analysis for Freeway Investment
+
+General Information
+Current Year
+
+# Years for Analysis
+Real Discount Rate
+
+VMT and VHT
+Base Case
+Altemative Case
+
+Fi
+
+Ol, Tre Wear Rates
+Costs
+
+v
+
+Value ef Time
+
+Emission Vaiues per Unt
+
+Difference in the base case and alternative case costs are the
+overall! benefits in the alternative case
+
+Overall Project Construction Costs
+Costs Capital Costs
+Base Case O&M Coals
+Key Abbreviations: Altemative Case / ROW Costs
+O&M — Operating and y Other Costs
+Maintenance :
+PDO - Property Damage Only Se Sie
+ROW - Right of Way Net Present Value
+VHT — Vehicle Hours Traveled Benefit-Cost Ratio
+VMT - Vehicle Miles Traveled
+j
+}
+tas
+43
+
+—

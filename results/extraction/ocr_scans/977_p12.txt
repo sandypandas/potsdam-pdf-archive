@@ -1,0 +1,214 @@
+Payable Register
+
+Account.
+
+05-1410-430
+
+O5-1410-461
+05-1620-420
+Q5-1620-480
+05-1640-420
+0S-1640-465
+Q5-1640-480
+05-19 10-465
+QS-1910-480
+05-3120-421
+05-3120-424
+05-3120-425
+05-3120-464
+Q5-3120-470
+05-3120-480
+05-3120-492
+05-3120-493
+0S-3410-470
+05-3410-480
+05-3410-492
+Q5-3620-460
+05-3620-464
+05-3620-492
+05-5010-460
+05-5110-464
+05-S110-492
+0S-5110-497
+05-5110-498
+05-5 142-464
+0S-5142-465
+05-5142-495
+05-5610-465
+05-5610-470
+0S-6326-460
+05-7110-200
+05-7110-481
+Q5-7450-200
+0S-7450-463
+05-8010-460
+05-8020-460
+0S-8170-492
+
+Account
+
+10-1620-429
+40-1640-470
+10-1910-455
+10-8330-200
+10-8330-464
+1£0-8330-468
+10-8330-481
+10-8330-488
+
+10-8330-491
+
+Account Summary
+
+_.Name
+
+Books, Subscriptions
+Advertising
+Janitorial Supplies
+Trash service
+Specials Services
+Janitorial Supplies
+Equipment Maintenance
+Building Maintenance
+Special Services
+
+Uniform Rental
+Software/IT Services
+
+Misc Expense
+
+Equipment
+
+Postage
+
+Travel & Training Expense
+Clothing & Uniform Allow.
+Vehicle Maintenance
+Building Maintenance
+Special Services
+
+Gas, Oil And Lube
+
+Police Station Lease
+Equip.Maint.& Supplies
+Building Maintenance
+Special Services
+
+Gas, Oil And Lube
+
+Dues & Memberships
+Vehicle Maintenance
+
+Gas, Oil And Lube
+
+Dues & Memberships
+Vehicle Maintenance
+
+Gas, Oil And Lube
+
+Signs
+
+Gravel
+
+Vehicle Maintenance
+Equipment Maintenance
+Salt
+
+Equipment Maint.&Supplies
+Property Maintenance
+Dues & Memberships
+Equipment
+
+Celebrations
+
+Equipment
+
+Comestibles
+Dues,Licenses, Memberships
+Dues,Licenses,Memberships
+Gas, Oil And Lube
+
+Name
+
+Trash service
+
+Building Maintenance
+Uniform Contract
+Equipment
+
+Vehicle Maintenance
+Water Tank Repairs
+Misc. Supplies
+
+Small Tools
+Chemicals
+
+Packet: APPKT01661 - Audit 12/20/21
+
+on. Amount
+
+3,244.06
+89.64
+40.98
+3,099.17
+349.98
+283.80
+398.16
+106.49
+78.00
+157.86
+304.00
+387.72
+4,858.99
+17.95
+78.10
+86.71
+712.74
+53.30
+1,211.87
+1,519.30
+7,498.12
+3,026.00
+163.05
+1,507.25
+682.50
+87.50
+421.58
+74.19
+200.00
+680.00
+2,747.92
+206.25
+735.34
+154.78
+958.75
+2,413.79
+223.23
+106.59
+87.50
+71.96
+151.92
+273.47
+69.15
+60.00
+60.00
+
+1,596.21
+
+Total: 41,335.87
+
+333.33
+35.34
+50.75
+44.99
+
+116.57
+
+4,500.00
+3.99
+12.99
+8,090.43
+
+L2/15/2021 11:41:12 AM
+
+Page 69 of 70

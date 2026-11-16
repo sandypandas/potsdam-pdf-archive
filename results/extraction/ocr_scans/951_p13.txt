@@ -1,0 +1,205 @@
+Payable Register
+
+Account
+
+Account Summary
+
+Name
+
+05-1210-460
+05-1230-490
+05-1410-426
+05-1410-490
+05-1620-429
+05-1620-470
+05-1620-480
+05-1620-490
+05-1640-465
+05-1640-480
+05-1910-426
+
+Q5-1990-479
+OS-3120-420
+
+05-3120-470
+05-3120-480
+05-3120-490
+05-3320-200
+05-3410-420
+05-3410-426
+Q5-3410-465
+
+05-3410-480
+05-3410-484
+
+0Q5-3410-492
+0$-3620-426
+
+05-3620-490
+
+05-5010-426
+
+05-8010-465
+
+05-5010-480
+05-5010-490
+05-5110-466
+05-5110-467
+05-5110-492
+05-5142-464
+05-5142-465
+05-5142-492
+Q5-5610-426
+05-5610-429
+05-5610-465
+05-5610-476
+05-6326-200
+05-6326-426
+05-7110-407
+05-7110-465
+Q5-7450-426
+
+Telephone Service
+Office Supplies
+Telephone
+
+Office Supplies
+Janitorial Supplies
+Trash service
+
+Building Maintenance
+Specials Services
+Office Supplies
+Equipment Maintenance
+Special Services
+Telephone Service
+Uniform Rental
+Software/IT Services
+Internet
+
+Contingency
+Janitorial Supplies
+Postage
+
+Clothing & Uniform Allow.
+
+Telephone Service
+Vehicle Maintenance
+Building Maintenance
+Special Services
+
+Office Supplies
+
+Gas, Oil And Lube
+Equipment
+
+Janitorial Supplies
+Telephone Service
+Equip.Maint.& Supplies
+Special Services
+Misc.Supplies
+
+Small Tools
+
+Office Supplies
+
+Gas, Oil And Lube
+Telephone Service
+Office Supplies
+Telephone Service
+Equipment Maintenance
+Special Services
+
+Office Supplies
+Materials Sidewalks
+Materials For Repairs
+Chips Capital Expense
+Gas, Oil And Lube
+Vehicle Maintenance
+Equipment Maintenance
+Gas, Oil And Lube
+Airport Telephone
+
+AV Fuel for resale
+
+Equipment Maint.&Supplies
+
+Property Maintenance
+Real Estate Taxes
+Equipment
+
+Telephone
+
+Equipment
+
+Garner Park Project
+Equipment Maintenance
+Telephone Service
+
+Packet: APPKT01559 - Audit 9/20/21
+
+Amoun
+
+225.00
+76.02
+4.59
+50.68
+99.34
+269.21
+2,825.58
+241.44
+349.94
+22.24
+93.88
+329.45
+428.94
+362.99
+2,250.00
+399;95
+414.72
+24,99
+33.95
+77.05
+202.72
+1,467.56
+46.96
+3,190.57
+22.95
+951.21
+3,434.59
+56.94
+76.02
+7,043.98
+375.00
+24.90
+600.00
+92.13
+51,51
+25.34
+9.18
+50.68
+41.36
+21.00
+93.55
+1,094.00
+15.96
+144,317.85
+627.99
+70.50
+47.13
+163.65
+50.68
+12,304.85
+27.55
+25.99
+990.64
+1,513.45
+76.02
+71.96
+1,299.35
+312.91
+25.34
+
+O/15/2021 1:37:01 PM
+
+Page ?3 of ?5

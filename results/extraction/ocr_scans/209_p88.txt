@@ -1,0 +1,45 @@
+Conceptual Cost Estimate for NCAI Mainline Alternative - SUMMARY
+
+No. | Description |Units| Quantity] UnitPrice | ltemCost | Remarks
+en WAY ;
+Roadway along new alignment from interchange
+1 Roadway MILE 140} $4,129,096.00} $578,073,440.00jat I-781 to interchange at I-87, minus one mile for
+each interchange.
+TEaherae Dy
+‘ a Bee . . et ee =
+1 Interchange at !-781 In Watertown EACH 1 $6,818,763.00) Unit price from Interchange estimate
+2 Interchange at SR 26 in Philadelphia EACH 1] $6,818,763.00 $6,818,763.00) Unit price from Interchange estimate
+3 Interchange at SR 58 in Gouverneur EACH 1] $6,818,763.00) $6,818,763.00) Unit price from Interchange estimate
+4 Interchange at CR 17 in De Kalb EACH 1| $6,818,763.00 $6,818,763.00) Unit price from Interchange estimate
+5 Interchange at SR 68 In Canton EACH 1} $6,818,763.00) $6,818,763.00] Unit price from Interchange estimate
+6 Interchange at CR 35 in Potsdam EACH 1} $6,818,763.00 $6,818,763.00) Unit price from Interchange estimate
+7 Interchange at SR 420 in Massena EACH 1| $6,818,763.00 $6,818,763.00) Unit price from Interchange estimate
+8 Interchange at SR 95 In Molra EACH 1] $6,818,763.00 $6,818,763.00) Unit price from Interchange estimate
+9 Interchange at US 11 in Malone EACH 1] $6,818,763.00) $6,818,763.00) Unit price from Interchange estimate
+10__| Interchange at CR 5 in Ellenberg EACH 1] $6,818,763.00) $6,818,763.00) Unit price from Interchange estimate
+11 | Interchange at I-87 in Plattsburgh EACH 1} $6,818,763.00} $6,818,763.00] Unit price from Interchange estimate
+GRADE SEPERA UT INTERCHANGE aes
+Assuming 50% of the grade seperations are
+1 Structures over Local Roads EACH 104 $550,000.00 $57,200,000.00} mainline over local roads, with single span dual
+structures
+Assuming 50% of the grade seperations are
+2 Structures over Mainline EACH 52 $980,000.00) $50,960,000.00} mainline under loca! roads, with one two-span
+structure.
+i! Structures over Water EACH 154 $550,000.00; $84,700,000.00) Assuming dual structures at each crossing
+AINTENANCE DE TRAFFIC —
+Assuming 3.5% of the total cost for new
+1 MAINTENANCE OF TRAFFIC LS 1] $29,608,000.00) $29,608,000.00} construction
+SURVEW AND STAKE OUT
+Assuming 2% of the total cost for new
+1 SURVEY AND STAKEQUT LS 1] $16,919,000.00}  $16,919,000.00) construction
+MOBI
+1. |MOBILIZATION LS 1} $35,699,000.00} _$35,699,000.00| Assuming 4% of all items above
+SUBTOTAL: $928,165,833.00)
+CONTINGENCY: $232,041,458.2 25% for Scoping Phase (HDM Table 21-9)
+CONSTRUCTION TOTAL: $1,160,207,291.2
+RIGHT-OF-WAY
+. Assuming 5280'x250' for regular roadway section,
+Right-of-Way ACRE 5,042 $2,000.00 $10,084,000.00} 5280'x600' for interchanges.
+
+7
+

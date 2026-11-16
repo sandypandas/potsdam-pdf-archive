@@ -1,0 +1,22 @@
+verify_id,file_no,page,method,verified_by,verified_at,result,error_count,error_notes
+1,544,1,pdftotext layer,Claude (proofread vs page image; LLM pages cross-checked in zoomed crops),2026-11-16T16:37:05+00:00,accurate,0,born-digital minutes
+2,521,1,pdftotext layer,Claude (proofread vs page image; LLM pages cross-checked in zoomed crops),2026-11-16T16:37:05+00:00,accurate,0,keeps source typo 'Execution Session'
+3,496,1,pdftotext layer,Claude (proofread vs page image; LLM pages cross-checked in zoomed crops),2026-11-16T16:37:05+00:00,accurate,0,hidden private-use bullet glyph at start
+4,3,1,pdftotext layer,Claude (proofread vs page image; LLM pages cross-checked in zoomed crops),2026-11-16T16:37:05+00:00,minor errors,5,logo text exists only as image [rule said 'major errors'; overridden: only logo/header image text missing]
+5,43,57,pdftotext layer,Claude (proofread vs page image; LLM pages cross-checked in zoomed crops),2026-11-16T16:37:05+00:00,accurate,0,report page
+6,916,1,pdftotext layer,Claude (proofread vs page image; LLM pages cross-checked in zoomed crops),2026-11-16T16:37:05+00:00,minor errors,11,logo/header text and date in images; stray 'FD' [rule said 'major errors'; overridden: only logo/header image text missing]
+7,885,5,pdftotext layer,Claude (proofread vs page image; LLM pages cross-checked in zoomed crops),2026-11-16T16:37:05+00:00,major errors,56,defective layer: digits and t/r/s in italic font dropped
+8,249,8,tesseract 300ppi psm3,Claude (proofread vs page image; LLM pages cross-checked in zoomed crops),2026-11-16T16:37:05+00:00,accurate,0,"scan 200 ppi, minutes with money table"
+9,249,12,tesseract 300ppi psm3,Claude (proofread vs page image; LLM pages cross-checked in zoomed crops),2026-11-16T16:37:05+00:00,minor errors,1,"scan 200 ppi, minutes"
+10,960,1,tesseract 300ppi psm3,Claude (proofread vs page image; LLM pages cross-checked in zoomed crops),2026-11-16T16:37:05+00:00,accurate,0,"scan 300 ppi, minutes"
+11,611,17,tesseract 300ppi psm3,Claude (proofread vs page image; LLM pages cross-checked in zoomed crops),2026-11-16T16:37:05+00:00,major errors,51,"scan 200 ppi, budget table"
+12,977,11,tesseract 300ppi psm3,Claude (proofread vs page image; LLM pages cross-checked in zoomed crops),2026-11-16T16:37:05+00:00,major errors,16,"scan 300 ppi, payables table; reading order scrambled"
+13,232,35,tesseract 300ppi psm3,Claude (proofread vs page image; LLM pages cross-checked in zoomed crops),2026-11-16T16:37:05+00:00,unusable,30,printed form with handwritten entries
+14,615,1,tesseract 300ppi psm3,Claude (proofread vs page image; LLM pages cross-checked in zoomed crops),2026-11-16T16:37:05+00:00,unusable,892,dense text on halftone grey background
+15,292,49,tesseract 300ppi psm3,Claude (proofread vs page image; LLM pages cross-checked in zoomed crops),2026-11-16T16:37:05+00:00,unusable,706,page stored sideways; OSD missed it
+16,292,49,tesseract 300ppi psm3 after rotation,Claude (proofread vs page image; LLM pages cross-checked in zoomed crops),2026-11-16T16:37:05+00:00,unusable,164,same page rotated upright first
+17,190,21,tesseract 300ppi psm1 (auto-rotate),Claude (proofread vs page image; LLM pages cross-checked in zoomed crops),2026-11-16T16:37:05+00:00,unusable,68,scored on top half of page only (reference covers top half)
+18,190,21,LLM vision transcription,Claude (proofread vs page image; LLM pages cross-checked in zoomed crops),2026-11-16T16:37:05+00:00,accurate,0,all values re-checked in 300 ppi crops; 0 discrepancies
+19,982,1,LLM vision transcription,Claude (proofread vs page image; LLM pages cross-checked in zoomed crops),2026-11-16T16:37:05+00:00,accurate,0,52 colour-coded dates re-checked in 200 ppi crops; 0 discrepancies
+20,982,1,tesseract 300ppi psm3,Claude (proofread vs page image; LLM pages cross-checked in zoomed crops),2026-11-16T16:37:05+00:00,unusable,373,colour meaning lost; B-week street column dropped
+21,209,69,tesseract 300ppi psm3,Claude (visual check),2026-11-16T16:37:05+00:00,unusable,,"sideways colour map; output is unreadable fragments; maps need metadata description, not OCR"

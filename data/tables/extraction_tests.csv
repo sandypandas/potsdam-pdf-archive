@@ -1,0 +1,1293 @@
+test_id,file_no,page,method,tool_version,chars,mean_word_conf,cer,word_miss_rate,output_path,run_at,notes
+1,33,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",126,95.6,,,out/ocr/33_p1.txt,2026-11-16T16:18:46+00:00,
+2,33,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",643,93.4,,,out/ocr/33_p2.txt,2026-11-16T16:18:46+00:00,
+3,33,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",914,92.9,,,out/ocr/33_p3.txt,2026-11-16T16:18:46+00:00,
+4,33,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",851,76.0,,,out/ocr/33_p4.txt,2026-11-16T16:18:46+00:00,
+5,33,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1813,95.9,,,out/ocr/33_p5.txt,2026-11-16T16:18:46+00:00,
+6,33,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1477,96.1,,,out/ocr/33_p6.txt,2026-11-16T16:18:46+00:00,
+7,33,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1960,94.2,,,out/ocr/33_p7.txt,2026-11-16T16:18:46+00:00,
+8,33,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1958,93.8,,,out/ocr/33_p8.txt,2026-11-16T16:18:46+00:00,
+9,33,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1213,95.9,,,out/ocr/33_p9.txt,2026-11-16T16:18:46+00:00,
+10,33,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1720,91.4,,,out/ocr/33_p10.txt,2026-11-16T16:18:46+00:00,
+11,33,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2068,95.7,,,out/ocr/33_p11.txt,2026-11-16T16:18:46+00:00,
+12,33,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1739,94.3,,,out/ocr/33_p12.txt,2026-11-16T16:18:46+00:00,
+13,33,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1770,95.5,,,out/ocr/33_p13.txt,2026-11-16T16:18:46+00:00,
+14,33,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",705,95.2,,,out/ocr/33_p14.txt,2026-11-16T16:18:46+00:00,
+15,33,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1539,95.9,,,out/ocr/33_p15.txt,2026-11-16T16:18:46+00:00,
+16,33,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1385,95.4,,,out/ocr/33_p16.txt,2026-11-16T16:18:46+00:00,
+17,33,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2212,92.8,,,out/ocr/33_p17.txt,2026-11-16T16:18:46+00:00,
+18,33,18,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1789,93.6,,,out/ocr/33_p18.txt,2026-11-16T16:18:46+00:00,
+19,33,19,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",3000,95.8,,,out/ocr/33_p19.txt,2026-11-16T16:18:46+00:00,
+20,33,20,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2398,96.0,,,out/ocr/33_p20.txt,2026-11-16T16:18:46+00:00,
+21,33,21,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1643,95.4,,,out/ocr/33_p21.txt,2026-11-16T16:18:46+00:00,
+22,33,22,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",866,95.6,,,out/ocr/33_p22.txt,2026-11-16T16:18:46+00:00,
+23,33,23,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2090,95.8,,,out/ocr/33_p23.txt,2026-11-16T16:18:46+00:00,
+24,33,24,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1610,95.3,,,out/ocr/33_p24.txt,2026-11-16T16:18:46+00:00,
+25,33,25,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1755,95.3,,,out/ocr/33_p25.txt,2026-11-16T16:18:46+00:00,
+26,33,26,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1997,95.7,,,out/ocr/33_p26.txt,2026-11-16T16:18:46+00:00,
+27,33,27,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1421,95.3,,,out/ocr/33_p27.txt,2026-11-16T16:18:46+00:00,
+28,33,28,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",164,95.2,,,out/ocr/33_p28.txt,2026-11-16T16:18:46+00:00,
+29,33,29,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2149,95.6,,,out/ocr/33_p29.txt,2026-11-16T16:18:46+00:00,
+30,33,30,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2489,96.0,,,out/ocr/33_p30.txt,2026-11-16T16:18:46+00:00,
+31,33,31,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1705,95.4,,,out/ocr/33_p31.txt,2026-11-16T16:18:46+00:00,
+32,33,32,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1883,95.5,,,out/ocr/33_p32.txt,2026-11-16T16:18:46+00:00,
+33,33,33,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1976,96.1,,,out/ocr/33_p33.txt,2026-11-16T16:18:46+00:00,
+34,33,34,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",430,95.3,,,out/ocr/33_p34.txt,2026-11-16T16:18:46+00:00,
+35,33,35,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1932,95.5,,,out/ocr/33_p35.txt,2026-11-16T16:18:46+00:00,
+36,33,36,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1857,94.8,,,out/ocr/33_p36.txt,2026-11-16T16:18:46+00:00,
+37,33,37,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1736,95.3,,,out/ocr/33_p37.txt,2026-11-16T16:18:46+00:00,
+38,33,38,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2364,93.4,,,out/ocr/33_p38.txt,2026-11-16T16:18:46+00:00,
+39,33,39,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1841,95.7,,,out/ocr/33_p39.txt,2026-11-16T16:18:46+00:00,
+40,33,40,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",515,95.0,,,out/ocr/33_p40.txt,2026-11-16T16:18:46+00:00,
+41,33,41,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2453,95.5,,,out/ocr/33_p41.txt,2026-11-16T16:18:46+00:00,
+42,33,42,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",861,91.9,,,out/ocr/33_p42.txt,2026-11-16T16:18:46+00:00,
+43,33,43,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1103,95.4,,,out/ocr/33_p43.txt,2026-11-16T16:18:46+00:00,
+44,44,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",604,42.0,,,out/ocr/44_p1.txt,2026-11-16T16:18:46+00:00,
+45,48,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",24,96.0,,,out/ocr/48_p1.txt,2026-11-16T16:18:46+00:00,
+46,48,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",127,69.3,,,out/ocr/48_p2.txt,2026-11-16T16:18:46+00:00,
+47,48,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1938,96.0,,,out/ocr/48_p3.txt,2026-11-16T16:18:46+00:00,
+48,48,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",749,83.2,,,out/ocr/48_p4.txt,2026-11-16T16:18:46+00:00,
+49,48,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2649,95.7,,,out/ocr/48_p5.txt,2026-11-16T16:18:46+00:00,
+50,48,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1173,95.6,,,out/ocr/48_p6.txt,2026-11-16T16:18:46+00:00,
+51,48,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1861,95.7,,,out/ocr/48_p7.txt,2026-11-16T16:18:46+00:00,
+52,48,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2169,94.9,,,out/ocr/48_p8.txt,2026-11-16T16:18:46+00:00,
+53,48,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2229,95.3,,,out/ocr/48_p9.txt,2026-11-16T16:18:46+00:00,
+54,48,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2116,94.7,,,out/ocr/48_p10.txt,2026-11-16T16:18:46+00:00,
+55,48,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1057,94.1,,,out/ocr/48_p11.txt,2026-11-16T16:18:46+00:00,
+56,48,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1688,94.8,,,out/ocr/48_p12.txt,2026-11-16T16:18:46+00:00,
+57,48,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2040,95.7,,,out/ocr/48_p13.txt,2026-11-16T16:18:46+00:00,
+58,48,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",3136,96.1,,,out/ocr/48_p14.txt,2026-11-16T16:18:46+00:00,
+59,48,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2782,90.1,,,out/ocr/48_p15.txt,2026-11-16T16:18:46+00:00,
+60,48,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1965,95.3,,,out/ocr/48_p16.txt,2026-11-16T16:18:46+00:00,
+61,48,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2343,93.2,,,out/ocr/48_p17.txt,2026-11-16T16:18:46+00:00,
+62,48,18,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2412,95.7,,,out/ocr/48_p18.txt,2026-11-16T16:18:46+00:00,
+63,48,19,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2106,94.0,,,out/ocr/48_p19.txt,2026-11-16T16:18:46+00:00,
+64,48,20,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2069,95.1,,,out/ocr/48_p20.txt,2026-11-16T16:18:46+00:00,
+65,48,21,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2454,93.7,,,out/ocr/48_p21.txt,2026-11-16T16:18:46+00:00,
+66,48,22,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2450,95.2,,,out/ocr/48_p22.txt,2026-11-16T16:18:46+00:00,
+67,48,23,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2503,95.1,,,out/ocr/48_p23.txt,2026-11-16T16:18:46+00:00,
+68,48,24,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",635,93.0,,,out/ocr/48_p24.txt,2026-11-16T16:18:46+00:00,
+69,57,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2678,94.5,,,out/ocr/57_p1.txt,2026-11-16T16:18:46+00:00,
+70,57,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",530,93.7,,,out/ocr/57_p2.txt,2026-11-16T16:18:46+00:00,
+71,57,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",800,91.2,,,out/ocr/57_p3.txt,2026-11-16T16:18:46+00:00,
+72,57,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",634,92.5,,,out/ocr/57_p4.txt,2026-11-16T16:18:46+00:00,
+73,57,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",640,92.0,,,out/ocr/57_p5.txt,2026-11-16T16:18:46+00:00,
+74,57,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1457,90.0,,,out/ocr/57_p6.txt,2026-11-16T16:18:46+00:00,
+75,57,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1413,93.1,,,out/ocr/57_p7.txt,2026-11-16T16:18:46+00:00,
+76,70,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",806,95.3,,,out/ocr/70_p1.txt,2026-11-16T16:18:46+00:00,
+77,70,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1157,95.8,,,out/ocr/70_p2.txt,2026-11-16T16:18:46+00:00,
+78,70,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1451,94.7,,,out/ocr/70_p3.txt,2026-11-16T16:18:46+00:00,
+79,70,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1355,95.2,,,out/ocr/70_p4.txt,2026-11-16T16:18:46+00:00,
+80,70,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",299,94.6,,,out/ocr/70_p5.txt,2026-11-16T16:18:46+00:00,
+81,71,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",806,95.3,,,out/ocr/71_p1.txt,2026-11-16T16:18:46+00:00,
+82,71,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1157,95.8,,,out/ocr/71_p2.txt,2026-11-16T16:18:46+00:00,
+83,71,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1451,94.7,,,out/ocr/71_p3.txt,2026-11-16T16:18:46+00:00,
+84,71,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1355,95.2,,,out/ocr/71_p4.txt,2026-11-16T16:18:46+00:00,
+85,71,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",299,94.6,,,out/ocr/71_p5.txt,2026-11-16T16:18:46+00:00,
+86,71,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",652,96.0,,,out/ocr/71_p6.txt,2026-11-16T16:18:46+00:00,
+87,71,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1323,95.0,,,out/ocr/71_p7.txt,2026-11-16T16:18:46+00:00,
+88,71,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1095,95.2,,,out/ocr/71_p8.txt,2026-11-16T16:18:46+00:00,
+89,71,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1156,95.6,,,out/ocr/71_p9.txt,2026-11-16T16:18:46+00:00,
+90,71,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1496,95.6,,,out/ocr/71_p10.txt,2026-11-16T16:18:46+00:00,
+91,71,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1327,94.9,,,out/ocr/71_p11.txt,2026-11-16T16:18:46+00:00,
+92,71,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",332,95.7,,,out/ocr/71_p12.txt,2026-11-16T16:18:46+00:00,
+93,71,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",739,95.5,,,out/ocr/71_p13.txt,2026-11-16T16:18:46+00:00,
+94,71,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1053,95.0,,,out/ocr/71_p14.txt,2026-11-16T16:18:46+00:00,
+95,71,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",751,94.6,,,out/ocr/71_p15.txt,2026-11-16T16:18:46+00:00,
+96,71,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1587,95.3,,,out/ocr/71_p16.txt,2026-11-16T16:18:46+00:00,
+97,71,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1353,95.3,,,out/ocr/71_p17.txt,2026-11-16T16:18:46+00:00,
+98,71,18,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",767,93.4,,,out/ocr/71_p18.txt,2026-11-16T16:18:46+00:00,
+99,71,19,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1666,94.4,,,out/ocr/71_p19.txt,2026-11-16T16:18:46+00:00,
+100,71,20,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1727,95.3,,,out/ocr/71_p20.txt,2026-11-16T16:18:46+00:00,
+101,71,21,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1508,95.0,,,out/ocr/71_p21.txt,2026-11-16T16:18:46+00:00,
+102,71,22,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1268,95.8,,,out/ocr/71_p22.txt,2026-11-16T16:18:46+00:00,
+103,71,23,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1126,93.4,,,out/ocr/71_p23.txt,2026-11-16T16:18:46+00:00,
+104,71,24,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",684,90.8,,,out/ocr/71_p24.txt,2026-11-16T16:18:46+00:00,
+105,71,25,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1180,93.1,,,out/ocr/71_p25.txt,2026-11-16T16:18:46+00:00,
+106,71,26,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",678,93.0,,,out/ocr/71_p26.txt,2026-11-16T16:18:46+00:00,
+107,71,27,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",779,91.8,,,out/ocr/71_p27.txt,2026-11-16T16:18:46+00:00,
+108,71,28,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1543,90.6,,,out/ocr/71_p28.txt,2026-11-16T16:18:46+00:00,
+109,71,29,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",962,72.4,,,out/ocr/71_p29.txt,2026-11-16T16:18:46+00:00,
+110,71,30,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1030,91.6,,,out/ocr/71_p30.txt,2026-11-16T16:18:46+00:00,
+111,71,31,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",516,71.8,,,out/ocr/71_p31.txt,2026-11-16T16:18:46+00:00,
+112,71,32,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",426,95.5,,,out/ocr/71_p32.txt,2026-11-16T16:18:46+00:00,
+113,110,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",426,94.1,,,out/ocr/110_p1.txt,2026-11-16T16:18:46+00:00,
+114,110,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",987,93.3,,,out/ocr/110_p2.txt,2026-11-16T16:18:46+00:00,
+115,110,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1219,91.0,,,out/ocr/110_p3.txt,2026-11-16T16:18:46+00:00,
+116,110,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1405,95.5,,,out/ocr/110_p4.txt,2026-11-16T16:18:46+00:00,
+117,110,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1511,95.9,,,out/ocr/110_p5.txt,2026-11-16T16:18:46+00:00,
+118,110,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1867,95.3,,,out/ocr/110_p6.txt,2026-11-16T16:18:46+00:00,
+119,110,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1784,96.1,,,out/ocr/110_p7.txt,2026-11-16T16:18:46+00:00,
+120,110,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1944,96.1,,,out/ocr/110_p8.txt,2026-11-16T16:18:46+00:00,
+121,110,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1215,95.8,,,out/ocr/110_p9.txt,2026-11-16T16:18:46+00:00,
+122,110,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1772,94.8,,,out/ocr/110_p10.txt,2026-11-16T16:18:46+00:00,
+123,110,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1081,92.2,,,out/ocr/110_p11.txt,2026-11-16T16:18:46+00:00,
+124,110,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1791,95.5,,,out/ocr/110_p12.txt,2026-11-16T16:18:46+00:00,
+125,110,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1386,93.6,,,out/ocr/110_p13.txt,2026-11-16T16:18:46+00:00,
+126,110,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",969,94.6,,,out/ocr/110_p14.txt,2026-11-16T16:18:46+00:00,
+127,110,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1072,95.9,,,out/ocr/110_p15.txt,2026-11-16T16:18:46+00:00,
+128,110,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2329,93.4,,,out/ocr/110_p16.txt,2026-11-16T16:18:46+00:00,
+129,110,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",427,89.6,,,out/ocr/110_p17.txt,2026-11-16T16:18:46+00:00,
+130,110,18,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",712,34.5,,,out/ocr/110_p18.txt,2026-11-16T16:18:46+00:00,
+131,110,19,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1146,91.0,,,out/ocr/110_p19.txt,2026-11-16T16:18:46+00:00,
+132,110,20,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",720,83.3,,,out/ocr/110_p20.txt,2026-11-16T16:18:46+00:00,
+133,110,21,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",601,91.1,,,out/ocr/110_p21.txt,2026-11-16T16:18:46+00:00,
+134,110,22,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",380,82.9,,,out/ocr/110_p22.txt,2026-11-16T16:18:46+00:00,
+135,110,23,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",982,80.2,,,out/ocr/110_p23.txt,2026-11-16T16:18:46+00:00,
+136,110,24,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2321,33.7,,,out/ocr/110_p24.txt,2026-11-16T16:18:46+00:00,
+137,110,25,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1054,44.4,,,out/ocr/110_p25.txt,2026-11-16T16:18:46+00:00,
+138,110,26,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",370,63.8,,,out/ocr/110_p26.txt,2026-11-16T16:18:46+00:00,
+139,110,27,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1898,94.4,,,out/ocr/110_p27.txt,2026-11-16T16:18:46+00:00,
+140,110,28,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1024,92.9,,,out/ocr/110_p28.txt,2026-11-16T16:18:46+00:00,
+141,110,29,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1149,94.8,,,out/ocr/110_p29.txt,2026-11-16T16:18:46+00:00,
+142,110,30,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1255,92.4,,,out/ocr/110_p30.txt,2026-11-16T16:18:46+00:00,
+143,110,31,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1789,95.6,,,out/ocr/110_p31.txt,2026-11-16T16:18:46+00:00,
+144,110,32,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1989,93.6,,,out/ocr/110_p32.txt,2026-11-16T16:18:46+00:00,
+145,110,33,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",758,88.1,,,out/ocr/110_p33.txt,2026-11-16T16:18:46+00:00,
+146,110,34,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2204,95.5,,,out/ocr/110_p34.txt,2026-11-16T16:18:46+00:00,
+147,110,35,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1736,94.7,,,out/ocr/110_p35.txt,2026-11-16T16:18:46+00:00,
+148,110,36,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1625,94.6,,,out/ocr/110_p36.txt,2026-11-16T16:18:46+00:00,
+149,110,37,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2801,94.5,,,out/ocr/110_p37.txt,2026-11-16T16:18:46+00:00,
+150,110,38,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1751,94.2,,,out/ocr/110_p38.txt,2026-11-16T16:18:46+00:00,
+151,110,39,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2029,94.0,,,out/ocr/110_p39.txt,2026-11-16T16:18:46+00:00,
+152,110,40,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",387,94.9,,,out/ocr/110_p40.txt,2026-11-16T16:18:46+00:00,
+153,110,41,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",670,93.7,,,out/ocr/110_p41.txt,2026-11-16T16:18:46+00:00,
+154,110,42,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",916,90.1,,,out/ocr/110_p42.txt,2026-11-16T16:18:46+00:00,
+155,110,43,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",530,86.8,,,out/ocr/110_p43.txt,2026-11-16T16:18:46+00:00,
+156,110,44,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",873,93.4,,,out/ocr/110_p44.txt,2026-11-16T16:18:46+00:00,
+157,110,45,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2186,96.1,,,out/ocr/110_p45.txt,2026-11-16T16:18:46+00:00,
+158,110,46,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",264,91.9,,,out/ocr/110_p46.txt,2026-11-16T16:18:46+00:00,
+159,110,47,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",840,93.3,,,out/ocr/110_p47.txt,2026-11-16T16:18:46+00:00,
+160,110,48,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1309,94.8,,,out/ocr/110_p48.txt,2026-11-16T16:18:46+00:00,
+161,110,49,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",784,42.6,,,out/ocr/110_p49.txt,2026-11-16T16:18:46+00:00,
+162,110,50,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2731,94.1,,,out/ocr/110_p50.txt,2026-11-16T16:18:46+00:00,
+163,110,51,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1297,95.4,,,out/ocr/110_p51.txt,2026-11-16T16:18:46+00:00,
+164,110,52,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1087,93.0,,,out/ocr/110_p52.txt,2026-11-16T16:18:46+00:00,
+165,110,53,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",982,93.7,,,out/ocr/110_p53.txt,2026-11-16T16:18:46+00:00,
+166,110,54,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1128,95.5,,,out/ocr/110_p54.txt,2026-11-16T16:18:46+00:00,
+167,190,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",316,93.5,,,out/ocr/190_p1.txt,2026-11-16T16:18:46+00:00,
+168,190,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",494,94.8,,,out/ocr/190_p2.txt,2026-11-16T16:18:46+00:00,
+169,190,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",367,94.7,,,out/ocr/190_p3.txt,2026-11-16T16:18:46+00:00,
+170,190,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1081,92.1,,,out/ocr/190_p4.txt,2026-11-16T16:18:46+00:00,
+171,190,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1425,93.0,,,out/ocr/190_p5.txt,2026-11-16T16:18:46+00:00,
+172,190,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1221,92.2,,,out/ocr/190_p6.txt,2026-11-16T16:18:46+00:00,
+173,190,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2041,95.4,,,out/ocr/190_p7.txt,2026-11-16T16:18:46+00:00,
+174,190,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1883,96.2,,,out/ocr/190_p8.txt,2026-11-16T16:18:46+00:00,
+175,190,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1789,93.8,,,out/ocr/190_p9.txt,2026-11-16T16:18:46+00:00,
+176,190,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2046,95.7,,,out/ocr/190_p10.txt,2026-11-16T16:18:46+00:00,
+177,190,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1000,95.1,,,out/ocr/190_p11.txt,2026-11-16T16:18:46+00:00,
+178,190,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1724,93.5,,,out/ocr/190_p12.txt,2026-11-16T16:18:46+00:00,
+179,190,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1151,94.1,,,out/ocr/190_p13.txt,2026-11-16T16:18:46+00:00,
+180,190,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1234,95.1,,,out/ocr/190_p14.txt,2026-11-16T16:18:46+00:00,
+181,190,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",446,94.7,,,out/ocr/190_p15.txt,2026-11-16T16:18:46+00:00,
+182,190,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",654,82.5,,,out/ocr/190_p16.txt,2026-11-16T16:18:46+00:00,
+183,190,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",776,93.3,,,out/ocr/190_p17.txt,2026-11-16T16:18:46+00:00,
+184,190,18,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",964,92.6,,,out/ocr/190_p18.txt,2026-11-16T16:18:46+00:00,
+185,190,19,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1219,91.1,,,out/ocr/190_p19.txt,2026-11-16T16:18:46+00:00,
+186,190,20,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",870,71.7,,,out/ocr/190_p20.txt,2026-11-16T16:18:46+00:00,
+187,190,21,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1081,26.8,,,out/ocr/190_p21.txt,2026-11-16T16:18:46+00:00,
+188,190,22,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1128,91.7,,,out/ocr/190_p22.txt,2026-11-16T16:18:46+00:00,
+189,190,23,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",701,85.5,,,out/ocr/190_p23.txt,2026-11-16T16:18:46+00:00,
+190,190,24,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",813,28.8,,,out/ocr/190_p24.txt,2026-11-16T16:18:46+00:00,
+191,190,25,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",782,90.9,,,out/ocr/190_p25.txt,2026-11-16T16:18:46+00:00,
+192,190,26,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",789,71.5,,,out/ocr/190_p26.txt,2026-11-16T16:18:46+00:00,
+193,190,27,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",722,91.8,,,out/ocr/190_p27.txt,2026-11-16T16:18:46+00:00,
+194,190,28,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",389,60.5,,,out/ocr/190_p28.txt,2026-11-16T16:18:46+00:00,
+195,190,29,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",456,55.7,,,out/ocr/190_p29.txt,2026-11-16T16:18:46+00:00,
+196,190,30,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",446,60.1,,,out/ocr/190_p30.txt,2026-11-16T16:18:46+00:00,
+197,190,31,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",488,60.1,,,out/ocr/190_p31.txt,2026-11-16T16:18:46+00:00,
+198,190,32,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",536,51.3,,,out/ocr/190_p32.txt,2026-11-16T16:18:46+00:00,
+199,190,33,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",387,64.4,,,out/ocr/190_p33.txt,2026-11-16T16:18:46+00:00,
+200,190,34,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",413,52.7,,,out/ocr/190_p34.txt,2026-11-16T16:18:46+00:00,
+201,190,35,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",143,55.3,,,out/ocr/190_p35.txt,2026-11-16T16:18:46+00:00,
+202,190,36,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",355,82.8,,,out/ocr/190_p36.txt,2026-11-16T16:18:46+00:00,
+203,190,37,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",335,93.1,,,out/ocr/190_p37.txt,2026-11-16T16:18:46+00:00,
+204,205,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",373,93.9,,,out/ocr/205_p1.txt,2026-11-16T16:18:46+00:00,
+205,205,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",941,93.2,,,out/ocr/205_p2.txt,2026-11-16T16:18:46+00:00,
+206,205,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1655,95.5,,,out/ocr/205_p3.txt,2026-11-16T16:18:46+00:00,
+207,205,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1927,96.1,,,out/ocr/205_p4.txt,2026-11-16T16:18:46+00:00,
+208,205,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1162,95.7,,,out/ocr/205_p5.txt,2026-11-16T16:18:46+00:00,
+209,205,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1027,91.4,,,out/ocr/205_p6.txt,2026-11-16T16:18:46+00:00,
+210,209,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",152,95.8,,,out/ocr/209_p1.txt,2026-11-16T16:18:46+00:00,
+211,209,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",4179,72.4,,,out/ocr/209_p2.txt,2026-11-16T16:18:46+00:00,
+212,209,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",3937,79.0,,,out/ocr/209_p3.txt,2026-11-16T16:18:46+00:00,
+213,209,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",143,87.8,,,out/ocr/209_p4.txt,2026-11-16T16:18:46+00:00,
+214,209,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2254,95.8,,,out/ocr/209_p5.txt,2026-11-16T16:18:46+00:00,
+215,209,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2764,96.1,,,out/ocr/209_p6.txt,2026-11-16T16:18:46+00:00,
+216,209,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2534,96.2,,,out/ocr/209_p7.txt,2026-11-16T16:18:46+00:00,
+217,209,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1318,96.0,,,out/ocr/209_p8.txt,2026-11-16T16:18:46+00:00,
+218,209,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",407,30.6,,,out/ocr/209_p9.txt,2026-11-16T16:18:46+00:00,
+219,209,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2237,96.0,,,out/ocr/209_p10.txt,2026-11-16T16:18:46+00:00,
+220,209,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",575,95.1,,,out/ocr/209_p11.txt,2026-11-16T16:18:46+00:00,
+221,209,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1340,94.5,,,out/ocr/209_p12.txt,2026-11-16T16:18:46+00:00,
+222,209,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1045,94.6,,,out/ocr/209_p13.txt,2026-11-16T16:18:46+00:00,
+223,209,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",345,30.8,,,out/ocr/209_p14.txt,2026-11-16T16:18:46+00:00,
+224,209,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1368,95.9,,,out/ocr/209_p15.txt,2026-11-16T16:18:46+00:00,
+225,209,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",615,31.6,,,out/ocr/209_p16.txt,2026-11-16T16:18:46+00:00,
+226,209,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2249,94.7,,,out/ocr/209_p17.txt,2026-11-16T16:18:46+00:00,
+227,209,18,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",532,29.1,,,out/ocr/209_p18.txt,2026-11-16T16:18:46+00:00,
+228,209,19,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",598,31.7,,,out/ocr/209_p19.txt,2026-11-16T16:18:46+00:00,
+229,209,20,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",519,31.1,,,out/ocr/209_p20.txt,2026-11-16T16:18:46+00:00,
+230,209,21,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2315,95.9,,,out/ocr/209_p21.txt,2026-11-16T16:18:46+00:00,
+231,209,22,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",391,28.2,,,out/ocr/209_p22.txt,2026-11-16T16:18:46+00:00,
+232,209,23,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1199,28.8,,,out/ocr/209_p23.txt,2026-11-16T16:18:46+00:00,
+233,209,24,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1139,94.3,,,out/ocr/209_p24.txt,2026-11-16T16:18:46+00:00,
+234,209,25,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1355,34.9,,,out/ocr/209_p25.txt,2026-11-16T16:18:46+00:00,
+235,209,26,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1137,36.2,,,out/ocr/209_p26.txt,2026-11-16T16:18:46+00:00,
+236,209,27,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1508,94.8,,,out/ocr/209_p27.txt,2026-11-16T16:18:46+00:00,
+237,209,28,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2690,96.0,,,out/ocr/209_p28.txt,2026-11-16T16:18:46+00:00,
+238,209,29,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2582,95.3,,,out/ocr/209_p29.txt,2026-11-16T16:18:46+00:00,
+239,209,30,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1935,94.7,,,out/ocr/209_p30.txt,2026-11-16T16:18:46+00:00,
+240,209,31,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",315,34.4,,,out/ocr/209_p31.txt,2026-11-16T16:18:46+00:00,
+241,209,32,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",381,28.4,,,out/ocr/209_p32.txt,2026-11-16T16:18:46+00:00,
+242,209,33,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",171,31.4,,,out/ocr/209_p33.txt,2026-11-16T16:18:46+00:00,
+243,209,34,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2341,95.9,,,out/ocr/209_p34.txt,2026-11-16T16:18:46+00:00,
+244,209,35,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1085,35.9,,,out/ocr/209_p35.txt,2026-11-16T16:18:46+00:00,
+245,209,36,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",571,35.8,,,out/ocr/209_p36.txt,2026-11-16T16:18:46+00:00,
+246,209,37,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1227,36.2,,,out/ocr/209_p37.txt,2026-11-16T16:18:46+00:00,
+247,209,38,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1068,37.9,,,out/ocr/209_p38.txt,2026-11-16T16:18:46+00:00,
+248,209,39,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2903,96.1,,,out/ocr/209_p39.txt,2026-11-16T16:18:46+00:00,
+249,209,40,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1496,95.3,,,out/ocr/209_p40.txt,2026-11-16T16:18:46+00:00,
+250,209,41,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2540,96.0,,,out/ocr/209_p41.txt,2026-11-16T16:18:46+00:00,
+251,209,42,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",725,95.8,,,out/ocr/209_p42.txt,2026-11-16T16:18:46+00:00,
+252,209,43,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2634,96.1,,,out/ocr/209_p43.txt,2026-11-16T16:18:46+00:00,
+253,209,44,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2553,96.1,,,out/ocr/209_p44.txt,2026-11-16T16:18:46+00:00,
+254,209,45,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2405,95.7,,,out/ocr/209_p45.txt,2026-11-16T16:18:46+00:00,
+255,209,46,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2690,95.5,,,out/ocr/209_p46.txt,2026-11-16T16:18:46+00:00,
+256,209,47,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1588,90.2,,,out/ocr/209_p47.txt,2026-11-16T16:18:46+00:00,
+257,209,48,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2399,95.2,,,out/ocr/209_p48.txt,2026-11-16T16:18:46+00:00,
+258,209,49,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2655,95.8,,,out/ocr/209_p49.txt,2026-11-16T16:18:46+00:00,
+259,209,50,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2118,96.0,,,out/ocr/209_p50.txt,2026-11-16T16:18:46+00:00,
+260,209,51,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1881,94.7,,,out/ocr/209_p51.txt,2026-11-16T16:18:46+00:00,
+261,209,52,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1132,95.3,,,out/ocr/209_p52.txt,2026-11-16T16:18:46+00:00,
+262,209,53,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2199,94.7,,,out/ocr/209_p53.txt,2026-11-16T16:18:46+00:00,
+263,209,54,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",403,96.1,,,out/ocr/209_p54.txt,2026-11-16T16:18:46+00:00,
+264,209,55,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2286,96.3,,,out/ocr/209_p55.txt,2026-11-16T16:18:46+00:00,
+265,209,56,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",27,95.4,,,out/ocr/209_p56.txt,2026-11-16T16:18:46+00:00,
+266,209,57,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1190,32.6,,,out/ocr/209_p57.txt,2026-11-16T16:18:46+00:00,
+267,209,58,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",45,83.9,,,out/ocr/209_p58.txt,2026-11-16T16:18:46+00:00,
+268,209,59,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",169,32.5,,,out/ocr/209_p59.txt,2026-11-16T16:18:46+00:00,
+269,209,60,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",335,26.7,,,out/ocr/209_p60.txt,2026-11-16T16:18:46+00:00,
+270,209,61,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",321,27.1,,,out/ocr/209_p61.txt,2026-11-16T16:18:46+00:00,
+271,209,62,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",207,31.4,,,out/ocr/209_p62.txt,2026-11-16T16:18:46+00:00,
+272,209,63,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",123,31.3,,,out/ocr/209_p63.txt,2026-11-16T16:18:46+00:00,
+273,209,64,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",234,30.0,,,out/ocr/209_p64.txt,2026-11-16T16:18:46+00:00,
+274,209,65,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",219,21.1,,,out/ocr/209_p65.txt,2026-11-16T16:18:46+00:00,
+275,209,66,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",150,30.8,,,out/ocr/209_p66.txt,2026-11-16T16:18:46+00:00,
+276,209,67,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",228,32.6,,,out/ocr/209_p67.txt,2026-11-16T16:18:46+00:00,
+277,209,68,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",424,23.0,,,out/ocr/209_p68.txt,2026-11-16T16:18:46+00:00,
+278,209,69,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",326,29.5,,,out/ocr/209_p69.txt,2026-11-16T16:18:46+00:00,
+279,209,70,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",207,30.4,,,out/ocr/209_p70.txt,2026-11-16T16:18:46+00:00,
+280,209,71,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",265,30.0,,,out/ocr/209_p71.txt,2026-11-16T16:18:46+00:00,
+281,209,72,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",427,27.3,,,out/ocr/209_p72.txt,2026-11-16T16:18:46+00:00,
+282,209,73,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",356,22.9,,,out/ocr/209_p73.txt,2026-11-16T16:18:46+00:00,
+283,209,74,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",210,33.3,,,out/ocr/209_p74.txt,2026-11-16T16:18:46+00:00,
+284,209,75,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",278,27.1,,,out/ocr/209_p75.txt,2026-11-16T16:18:46+00:00,
+285,209,76,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",277,28.6,,,out/ocr/209_p76.txt,2026-11-16T16:18:46+00:00,
+286,209,77,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",333,30.2,,,out/ocr/209_p77.txt,2026-11-16T16:18:46+00:00,
+287,209,78,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",466,25.9,,,out/ocr/209_p78.txt,2026-11-16T16:18:46+00:00,
+288,209,79,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",446,28.9,,,out/ocr/209_p79.txt,2026-11-16T16:18:46+00:00,
+289,209,80,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",234,30.6,,,out/ocr/209_p80.txt,2026-11-16T16:18:46+00:00,
+290,209,81,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",223,35.8,,,out/ocr/209_p81.txt,2026-11-16T16:18:46+00:00,
+291,209,82,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",413,27.7,,,out/ocr/209_p82.txt,2026-11-16T16:18:46+00:00,
+292,209,83,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",329,23.9,,,out/ocr/209_p83.txt,2026-11-16T16:18:46+00:00,
+293,209,84,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",380,26.9,,,out/ocr/209_p84.txt,2026-11-16T16:18:46+00:00,
+294,209,85,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",185,33.9,,,out/ocr/209_p85.txt,2026-11-16T16:18:46+00:00,
+295,209,86,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",99,28.1,,,out/ocr/209_p86.txt,2026-11-16T16:18:46+00:00,
+296,209,87,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",79,64.7,,,out/ocr/209_p87.txt,2026-11-16T16:18:46+00:00,
+297,209,88,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2261,83.0,,,out/ocr/209_p88.txt,2026-11-16T16:18:46+00:00,
+298,209,89,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2708,78.3,,,out/ocr/209_p89.txt,2026-11-16T16:18:46+00:00,
+299,209,90,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2267,78.0,,,out/ocr/209_p90.txt,2026-11-16T16:18:46+00:00,
+300,209,91,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2464,87.0,,,out/ocr/209_p91.txt,2026-11-16T16:18:46+00:00,
+301,209,92,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2710,77.4,,,out/ocr/209_p92.txt,2026-11-16T16:18:46+00:00,
+302,209,93,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",882,85.6,,,out/ocr/209_p93.txt,2026-11-16T16:18:46+00:00,
+303,210,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",402,94.4,,,out/ocr/210_p1.txt,2026-11-16T16:18:46+00:00,
+304,210,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",992,95.0,,,out/ocr/210_p2.txt,2026-11-16T16:18:46+00:00,
+305,210,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1194,94.9,,,out/ocr/210_p3.txt,2026-11-16T16:18:46+00:00,
+306,210,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",679,95.7,,,out/ocr/210_p4.txt,2026-11-16T16:18:46+00:00,
+307,232,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",495,93.5,,,out/ocr/232_p1.txt,2026-11-16T16:18:46+00:00,
+308,232,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1092,94.1,,,out/ocr/232_p2.txt,2026-11-16T16:18:46+00:00,
+309,232,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1454,93.9,,,out/ocr/232_p3.txt,2026-11-16T16:18:46+00:00,
+310,232,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1035,94.5,,,out/ocr/232_p4.txt,2026-11-16T16:18:46+00:00,
+311,232,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1400,93.7,,,out/ocr/232_p5.txt,2026-11-16T16:18:46+00:00,
+312,232,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1540,91.7,,,out/ocr/232_p6.txt,2026-11-16T16:18:46+00:00,
+313,232,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",738,94.3,,,out/ocr/232_p7.txt,2026-11-16T16:18:46+00:00,
+314,232,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1188,95.8,,,out/ocr/232_p8.txt,2026-11-16T16:18:46+00:00,
+315,232,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",703,95.7,,,out/ocr/232_p9.txt,2026-11-16T16:18:46+00:00,
+316,232,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1964,95.5,,,out/ocr/232_p10.txt,2026-11-16T16:18:46+00:00,
+317,232,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",897,95.3,,,out/ocr/232_p11.txt,2026-11-16T16:18:46+00:00,
+318,232,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1877,92.6,,,out/ocr/232_p12.txt,2026-11-16T16:18:46+00:00,
+319,232,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1419,95.0,,,out/ocr/232_p13.txt,2026-11-16T16:18:46+00:00,
+320,232,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1454,94.9,,,out/ocr/232_p14.txt,2026-11-16T16:18:46+00:00,
+321,232,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",626,95.1,,,out/ocr/232_p15.txt,2026-11-16T16:18:46+00:00,
+322,232,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",696,95.5,,,out/ocr/232_p16.txt,2026-11-16T16:18:46+00:00,
+323,232,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",922,84.5,,,out/ocr/232_p17.txt,2026-11-16T16:18:46+00:00,
+324,232,18,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",540,87.3,,,out/ocr/232_p18.txt,2026-11-16T16:18:46+00:00,
+325,232,19,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1126,93.1,,,out/ocr/232_p19.txt,2026-11-16T16:18:46+00:00,
+326,232,20,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",684,89.9,,,out/ocr/232_p20.txt,2026-11-16T16:18:46+00:00,
+327,232,21,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",667,92.0,,,out/ocr/232_p21.txt,2026-11-16T16:18:46+00:00,
+328,232,22,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",319,74.0,,,out/ocr/232_p22.txt,2026-11-16T16:18:46+00:00,
+329,232,23,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",333,74.9,,,out/ocr/232_p23.txt,2026-11-16T16:18:46+00:00,
+330,232,24,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",346,62.8,,,out/ocr/232_p24.txt,2026-11-16T16:18:46+00:00,
+331,232,25,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",319,67.4,,,out/ocr/232_p25.txt,2026-11-16T16:18:46+00:00,
+332,232,26,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",316,72.9,,,out/ocr/232_p26.txt,2026-11-16T16:18:46+00:00,
+333,232,27,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",323,72.4,,,out/ocr/232_p27.txt,2026-11-16T16:18:46+00:00,
+334,232,28,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",322,72.4,,,out/ocr/232_p28.txt,2026-11-16T16:18:46+00:00,
+335,232,29,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",337,73.2,,,out/ocr/232_p29.txt,2026-11-16T16:18:46+00:00,
+336,232,30,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",335,72.8,,,out/ocr/232_p30.txt,2026-11-16T16:18:46+00:00,
+337,232,31,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",309,72.7,,,out/ocr/232_p31.txt,2026-11-16T16:18:46+00:00,
+338,232,32,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",346,63.4,,,out/ocr/232_p32.txt,2026-11-16T16:18:46+00:00,
+339,232,33,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",331,57.8,,,out/ocr/232_p33.txt,2026-11-16T16:18:46+00:00,
+340,232,34,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",360,68.6,,,out/ocr/232_p34.txt,2026-11-16T16:18:46+00:00,
+341,232,35,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",353,68.7,,,out/ocr/232_p35.txt,2026-11-16T16:18:46+00:00,
+342,232,36,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",353,68.8,,,out/ocr/232_p36.txt,2026-11-16T16:18:46+00:00,
+343,232,37,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",355,68.3,,,out/ocr/232_p37.txt,2026-11-16T16:18:46+00:00,
+344,232,38,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",334,72.3,,,out/ocr/232_p38.txt,2026-11-16T16:18:46+00:00,
+345,232,39,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",407,60.8,,,out/ocr/232_p39.txt,2026-11-16T16:18:46+00:00,
+346,232,40,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",427,57.6,,,out/ocr/232_p40.txt,2026-11-16T16:18:46+00:00,
+347,232,41,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",338,63.6,,,out/ocr/232_p41.txt,2026-11-16T16:18:46+00:00,
+348,232,42,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",375,59.3,,,out/ocr/232_p42.txt,2026-11-16T16:18:46+00:00,
+349,232,43,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",370,57.3,,,out/ocr/232_p43.txt,2026-11-16T16:18:46+00:00,
+350,232,44,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",340,70.8,,,out/ocr/232_p44.txt,2026-11-16T16:18:46+00:00,
+351,232,45,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",342,65.8,,,out/ocr/232_p45.txt,2026-11-16T16:18:46+00:00,
+352,249,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",363,94.0,,,out/ocr/249_p1.txt,2026-11-16T16:18:46+00:00,
+353,249,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",820,91.7,,,out/ocr/249_p2.txt,2026-11-16T16:18:46+00:00,
+354,249,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1207,91.7,,,out/ocr/249_p3.txt,2026-11-16T16:18:46+00:00,
+355,249,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1450,94.7,,,out/ocr/249_p4.txt,2026-11-16T16:18:46+00:00,
+356,249,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",560,94.8,,,out/ocr/249_p5.txt,2026-11-16T16:18:46+00:00,
+357,249,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2253,95.5,,,out/ocr/249_p6.txt,2026-11-16T16:18:46+00:00,
+358,249,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1716,95.9,,,out/ocr/249_p7.txt,2026-11-16T16:18:46+00:00,
+359,249,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1286,95.6,,,out/ocr/249_p8.txt,2026-11-16T16:18:46+00:00,
+360,249,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1496,95.9,,,out/ocr/249_p9.txt,2026-11-16T16:18:46+00:00,
+361,249,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1386,95.8,,,out/ocr/249_p10.txt,2026-11-16T16:18:46+00:00,
+362,249,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",383,93.1,,,out/ocr/249_p11.txt,2026-11-16T16:18:46+00:00,
+363,249,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",690,95.8,,,out/ocr/249_p12.txt,2026-11-16T16:18:46+00:00,
+364,249,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",563,90.1,,,out/ocr/249_p13.txt,2026-11-16T16:18:46+00:00,
+365,249,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1096,88.4,,,out/ocr/249_p14.txt,2026-11-16T16:18:46+00:00,
+366,249,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",295,90.9,,,out/ocr/249_p15.txt,2026-11-16T16:18:46+00:00,
+367,249,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",776,92.2,,,out/ocr/249_p16.txt,2026-11-16T16:18:46+00:00,
+368,249,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",138,37.9,,,out/ocr/249_p17.txt,2026-11-16T16:18:46+00:00,
+369,249,18,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",891,89.9,,,out/ocr/249_p18.txt,2026-11-16T16:18:46+00:00,
+370,249,19,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",693,91.6,,,out/ocr/249_p19.txt,2026-11-16T16:18:46+00:00,
+371,249,20,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1073,91.8,,,out/ocr/249_p20.txt,2026-11-16T16:18:46+00:00,
+372,249,21,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",780,95.7,,,out/ocr/249_p21.txt,2026-11-16T16:18:46+00:00,
+373,254,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",491,94.5,,,out/ocr/254_p1.txt,2026-11-16T16:18:46+00:00,
+374,254,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",876,95.4,,,out/ocr/254_p2.txt,2026-11-16T16:18:46+00:00,
+375,254,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",565,95.1,,,out/ocr/254_p3.txt,2026-11-16T16:18:46+00:00,
+376,254,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1550,95.7,,,out/ocr/254_p4.txt,2026-11-16T16:18:46+00:00,
+377,254,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1404,94.9,,,out/ocr/254_p5.txt,2026-11-16T16:18:46+00:00,
+378,254,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1043,95.2,,,out/ocr/254_p6.txt,2026-11-16T16:18:46+00:00,
+379,254,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1101,95.3,,,out/ocr/254_p7.txt,2026-11-16T16:18:46+00:00,
+380,254,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1072,95.2,,,out/ocr/254_p8.txt,2026-11-16T16:18:46+00:00,
+381,254,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1855,95.9,,,out/ocr/254_p9.txt,2026-11-16T16:18:46+00:00,
+382,254,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1063,95.6,,,out/ocr/254_p10.txt,2026-11-16T16:18:46+00:00,
+383,254,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",149,95.7,,,out/ocr/254_p11.txt,2026-11-16T16:18:46+00:00,
+384,254,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",674,95.9,,,out/ocr/254_p12.txt,2026-11-16T16:18:46+00:00,
+385,254,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1793,95.3,,,out/ocr/254_p13.txt,2026-11-16T16:18:46+00:00,
+386,254,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1925,96.0,,,out/ocr/254_p14.txt,2026-11-16T16:18:46+00:00,
+387,254,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1578,95.5,,,out/ocr/254_p15.txt,2026-11-16T16:18:46+00:00,
+388,254,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",784,93.9,,,out/ocr/254_p16.txt,2026-11-16T16:18:46+00:00,
+389,254,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",843,95.9,,,out/ocr/254_p17.txt,2026-11-16T16:18:46+00:00,
+390,254,18,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1588,95.3,,,out/ocr/254_p18.txt,2026-11-16T16:18:46+00:00,
+391,254,19,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",228,94.9,,,out/ocr/254_p19.txt,2026-11-16T16:18:46+00:00,
+392,254,20,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",760,92.8,,,out/ocr/254_p20.txt,2026-11-16T16:18:46+00:00,
+393,254,21,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",976,88.2,,,out/ocr/254_p21.txt,2026-11-16T16:18:46+00:00,
+394,254,22,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",274,91.4,,,out/ocr/254_p22.txt,2026-11-16T16:18:46+00:00,
+395,263,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",541,93.8,,,out/ocr/263_p1.txt,2026-11-16T16:18:46+00:00,
+396,263,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",960,94.2,,,out/ocr/263_p2.txt,2026-11-16T16:18:46+00:00,
+397,263,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1272,94.7,,,out/ocr/263_p3.txt,2026-11-16T16:18:46+00:00,
+398,263,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",662,95.2,,,out/ocr/263_p4.txt,2026-11-16T16:18:46+00:00,
+399,263,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1871,95.4,,,out/ocr/263_p5.txt,2026-11-16T16:18:46+00:00,
+400,263,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1546,95.8,,,out/ocr/263_p6.txt,2026-11-16T16:18:46+00:00,
+401,263,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1011,95.0,,,out/ocr/263_p7.txt,2026-11-16T16:18:46+00:00,
+402,263,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1075,95.4,,,out/ocr/263_p8.txt,2026-11-16T16:18:46+00:00,
+403,263,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1446,95.3,,,out/ocr/263_p9.txt,2026-11-16T16:18:46+00:00,
+404,263,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1824,95.8,,,out/ocr/263_p10.txt,2026-11-16T16:18:46+00:00,
+405,263,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",371,95.1,,,out/ocr/263_p11.txt,2026-11-16T16:18:46+00:00,
+406,263,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",764,95.0,,,out/ocr/263_p12.txt,2026-11-16T16:18:46+00:00,
+407,263,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1269,95.8,,,out/ocr/263_p13.txt,2026-11-16T16:18:46+00:00,
+408,263,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",308,95.4,,,out/ocr/263_p14.txt,2026-11-16T16:18:46+00:00,
+409,263,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",859,95.3,,,out/ocr/263_p15.txt,2026-11-16T16:18:46+00:00,
+410,263,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",975,86.7,,,out/ocr/263_p16.txt,2026-11-16T16:18:46+00:00,
+411,263,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",566,88.8,,,out/ocr/263_p17.txt,2026-11-16T16:18:46+00:00,
+412,263,18,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",913,87.5,,,out/ocr/263_p18.txt,2026-11-16T16:18:46+00:00,
+413,263,19,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",270,87.9,,,out/ocr/263_p19.txt,2026-11-16T16:18:46+00:00,
+414,263,20,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",791,89.5,,,out/ocr/263_p20.txt,2026-11-16T16:18:46+00:00,
+415,263,21,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",676,83.9,,,out/ocr/263_p21.txt,2026-11-16T16:18:46+00:00,
+416,263,22,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",609,92.6,,,out/ocr/263_p22.txt,2026-11-16T16:18:46+00:00,
+417,263,23,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1372,84.0,,,out/ocr/263_p23.txt,2026-11-16T16:18:46+00:00,
+418,263,24,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2441,94.7,,,out/ocr/263_p24.txt,2026-11-16T16:18:46+00:00,
+419,263,25,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2806,95.5,,,out/ocr/263_p25.txt,2026-11-16T16:18:46+00:00,
+420,263,26,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1344,93.6,,,out/ocr/263_p26.txt,2026-11-16T16:18:46+00:00,
+421,263,27,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",986,93.8,,,out/ocr/263_p27.txt,2026-11-16T16:18:46+00:00,
+422,263,28,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1278,93.4,,,out/ocr/263_p28.txt,2026-11-16T16:18:46+00:00,
+423,263,29,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1998,91.9,,,out/ocr/263_p29.txt,2026-11-16T16:18:46+00:00,
+424,263,30,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",211,88.2,,,out/ocr/263_p30.txt,2026-11-16T16:18:46+00:00,
+425,263,31,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2830,95.4,,,out/ocr/263_p31.txt,2026-11-16T16:18:46+00:00,
+426,263,32,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1848,93.9,,,out/ocr/263_p32.txt,2026-11-16T16:18:46+00:00,
+427,263,33,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1711,94.0,,,out/ocr/263_p33.txt,2026-11-16T16:18:46+00:00,
+428,263,34,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",149,89.1,,,out/ocr/263_p34.txt,2026-11-16T16:18:46+00:00,
+429,263,35,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1842,35.4,,,out/ocr/263_p35.txt,2026-11-16T16:18:46+00:00,
+430,263,36,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",593,94.2,,,out/ocr/263_p36.txt,2026-11-16T16:18:46+00:00,
+431,263,37,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1590,94.9,,,out/ocr/263_p37.txt,2026-11-16T16:18:46+00:00,
+432,263,38,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1354,95.4,,,out/ocr/263_p38.txt,2026-11-16T16:18:46+00:00,
+433,263,39,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",769,93.1,,,out/ocr/263_p39.txt,2026-11-16T16:18:46+00:00,
+434,263,40,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2868,95.8,,,out/ocr/263_p40.txt,2026-11-16T16:18:46+00:00,
+435,263,41,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",3190,96.0,,,out/ocr/263_p41.txt,2026-11-16T16:18:46+00:00,
+436,263,42,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",400,95.9,,,out/ocr/263_p42.txt,2026-11-16T16:18:46+00:00,
+437,287,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",315,94.4,,,out/ocr/287_p1.txt,2026-11-16T16:18:46+00:00,
+438,292,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",502,94.5,,,out/ocr/292_p1.txt,2026-11-16T16:18:46+00:00,
+439,292,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",971,94.3,,,out/ocr/292_p2.txt,2026-11-16T16:18:46+00:00,
+440,292,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1442,95.6,,,out/ocr/292_p3.txt,2026-11-16T16:18:46+00:00,
+441,292,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1919,96.1,,,out/ocr/292_p4.txt,2026-11-16T16:18:46+00:00,
+442,292,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1692,96.1,,,out/ocr/292_p5.txt,2026-11-16T16:18:46+00:00,
+443,292,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1063,94.8,,,out/ocr/292_p6.txt,2026-11-16T16:18:46+00:00,
+444,292,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1212,95.5,,,out/ocr/292_p7.txt,2026-11-16T16:18:46+00:00,
+445,292,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",695,95.4,,,out/ocr/292_p8.txt,2026-11-16T16:18:46+00:00,
+446,292,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1679,94.8,,,out/ocr/292_p9.txt,2026-11-16T16:18:46+00:00,
+447,292,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1679,95.1,,,out/ocr/292_p10.txt,2026-11-16T16:18:46+00:00,
+448,292,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",920,95.6,,,out/ocr/292_p11.txt,2026-11-16T16:18:46+00:00,
+449,292,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1237,94.8,,,out/ocr/292_p12.txt,2026-11-16T16:18:46+00:00,
+450,292,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1774,95.9,,,out/ocr/292_p13.txt,2026-11-16T16:18:46+00:00,
+451,292,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2430,96.3,,,out/ocr/292_p14.txt,2026-11-16T16:18:46+00:00,
+452,292,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2376,95.9,,,out/ocr/292_p15.txt,2026-11-16T16:18:46+00:00,
+453,292,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2274,96.3,,,out/ocr/292_p16.txt,2026-11-16T16:18:46+00:00,
+454,292,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2259,96.3,,,out/ocr/292_p17.txt,2026-11-16T16:18:46+00:00,
+455,292,18,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1013,95.6,,,out/ocr/292_p18.txt,2026-11-16T16:18:46+00:00,
+456,292,19,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1059,95.8,,,out/ocr/292_p19.txt,2026-11-16T16:18:46+00:00,
+457,292,20,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",232,95.7,,,out/ocr/292_p20.txt,2026-11-16T16:18:46+00:00,
+458,292,21,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2089,96.0,,,out/ocr/292_p21.txt,2026-11-16T16:18:46+00:00,
+459,292,22,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1627,96.0,,,out/ocr/292_p22.txt,2026-11-16T16:18:46+00:00,
+460,292,23,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",671,89.1,,,out/ocr/292_p23.txt,2026-11-16T16:18:46+00:00,
+461,292,24,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",995,90.4,,,out/ocr/292_p24.txt,2026-11-16T16:18:46+00:00,
+462,292,25,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",993,86.6,,,out/ocr/292_p25.txt,2026-11-16T16:18:46+00:00,
+463,292,26,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",324,63.2,,,out/ocr/292_p26.txt,2026-11-16T16:18:46+00:00,
+464,292,27,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",311,71.8,,,out/ocr/292_p27.txt,2026-11-16T16:18:46+00:00,
+465,292,28,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",326,70.6,,,out/ocr/292_p28.txt,2026-11-16T16:18:46+00:00,
+466,292,29,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",743,86.8,,,out/ocr/292_p29.txt,2026-11-16T16:18:46+00:00,
+467,292,30,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",723,84.7,,,out/ocr/292_p30.txt,2026-11-16T16:18:46+00:00,
+468,292,31,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",508,88.1,,,out/ocr/292_p31.txt,2026-11-16T16:18:46+00:00,
+469,292,32,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2081,93.1,,,out/ocr/292_p32.txt,2026-11-16T16:18:46+00:00,
+470,292,33,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2157,88.9,,,out/ocr/292_p33.txt,2026-11-16T16:18:46+00:00,
+471,292,34,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",705,84.9,,,out/ocr/292_p34.txt,2026-11-16T16:18:46+00:00,
+472,292,35,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1731,92.3,,,out/ocr/292_p35.txt,2026-11-16T16:18:46+00:00,
+473,292,36,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1792,92.9,,,out/ocr/292_p36.txt,2026-11-16T16:18:46+00:00,
+474,292,37,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1008,83.7,,,out/ocr/292_p37.txt,2026-11-16T16:18:46+00:00,
+475,292,38,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1152,94.8,,,out/ocr/292_p38.txt,2026-11-16T16:18:46+00:00,
+476,292,39,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1320,91.4,,,out/ocr/292_p39.txt,2026-11-16T16:18:46+00:00,
+477,292,40,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",766,89.8,,,out/ocr/292_p40.txt,2026-11-16T16:18:46+00:00,
+478,292,41,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",766,92.7,,,out/ocr/292_p41.txt,2026-11-16T16:18:46+00:00,
+479,292,42,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",988,89.0,,,out/ocr/292_p42.txt,2026-11-16T16:18:46+00:00,
+480,292,43,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2083,93.1,,,out/ocr/292_p43.txt,2026-11-16T16:18:46+00:00,
+481,292,44,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2165,89.1,,,out/ocr/292_p44.txt,2026-11-16T16:18:46+00:00,
+482,292,45,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",725,84.5,,,out/ocr/292_p45.txt,2026-11-16T16:18:46+00:00,
+483,292,46,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",914,93.7,,,out/ocr/292_p46.txt,2026-11-16T16:18:46+00:00,
+484,292,47,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",839,95.3,,,out/ocr/292_p47.txt,2026-11-16T16:18:46+00:00,
+485,292,48,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",907,93.2,,,out/ocr/292_p48.txt,2026-11-16T16:18:46+00:00,
+486,292,49,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1896,29.5,,,out/ocr/292_p49.txt,2026-11-16T16:18:46+00:00,
+487,292,50,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2119,34.5,,,out/ocr/292_p50.txt,2026-11-16T16:18:46+00:00,
+488,292,51,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1782,36.9,,,out/ocr/292_p51.txt,2026-11-16T16:18:46+00:00,
+489,292,52,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1233,29.2,,,out/ocr/292_p52.txt,2026-11-16T16:18:46+00:00,
+490,311,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1546,95.6,,,out/ocr/311_p1.txt,2026-11-16T16:18:46+00:00,
+491,311,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",155,95.8,,,out/ocr/311_p2.txt,2026-11-16T16:18:46+00:00,
+492,311,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1342,95.1,,,out/ocr/311_p3.txt,2026-11-16T16:18:46+00:00,
+493,311,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1373,94.8,,,out/ocr/311_p4.txt,2026-11-16T16:18:46+00:00,
+494,315,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",683,95.2,,,out/ocr/315_p1.txt,2026-11-16T16:18:46+00:00,
+495,315,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",975,94.8,,,out/ocr/315_p2.txt,2026-11-16T16:18:46+00:00,
+496,315,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1237,95.8,,,out/ocr/315_p3.txt,2026-11-16T16:18:46+00:00,
+497,315,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1436,95.8,,,out/ocr/315_p4.txt,2026-11-16T16:18:46+00:00,
+498,315,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1344,94.1,,,out/ocr/315_p5.txt,2026-11-16T16:18:46+00:00,
+499,315,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",270,94.8,,,out/ocr/315_p6.txt,2026-11-16T16:18:46+00:00,
+500,316,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",714,95.2,,,out/ocr/316_p1.txt,2026-11-16T16:18:46+00:00,
+501,316,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1292,96.0,,,out/ocr/316_p2.txt,2026-11-16T16:18:46+00:00,
+502,316,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1196,95.5,,,out/ocr/316_p3.txt,2026-11-16T16:18:46+00:00,
+503,316,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",349,95.5,,,out/ocr/316_p4.txt,2026-11-16T16:18:46+00:00,
+504,319,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",807,94.9,,,out/ocr/319_p1.txt,2026-11-16T16:18:46+00:00,
+505,319,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",852,95.5,,,out/ocr/319_p2.txt,2026-11-16T16:18:46+00:00,
+506,319,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1610,95.9,,,out/ocr/319_p3.txt,2026-11-16T16:18:46+00:00,
+507,319,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1397,95.6,,,out/ocr/319_p4.txt,2026-11-16T16:18:46+00:00,
+508,319,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1367,95.9,,,out/ocr/319_p5.txt,2026-11-16T16:18:46+00:00,
+509,319,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1521,95.6,,,out/ocr/319_p6.txt,2026-11-16T16:18:46+00:00,
+510,319,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",464,95.3,,,out/ocr/319_p7.txt,2026-11-16T16:18:46+00:00,
+511,320,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",913,95.5,,,out/ocr/320_p1.txt,2026-11-16T16:18:46+00:00,
+512,320,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1403,95.4,,,out/ocr/320_p2.txt,2026-11-16T16:18:46+00:00,
+513,352,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1436,83.8,,,out/ocr/352_p1.txt,2026-11-16T16:18:46+00:00,
+514,352,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1493,92.4,,,out/ocr/352_p2.txt,2026-11-16T16:18:46+00:00,
+515,352,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1405,92.7,,,out/ocr/352_p3.txt,2026-11-16T16:18:46+00:00,
+516,352,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1773,93.3,,,out/ocr/352_p4.txt,2026-11-16T16:18:46+00:00,
+517,352,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1596,92.5,,,out/ocr/352_p5.txt,2026-11-16T16:18:46+00:00,
+518,352,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1907,91.7,,,out/ocr/352_p6.txt,2026-11-16T16:18:46+00:00,
+519,352,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1622,91.6,,,out/ocr/352_p7.txt,2026-11-16T16:18:46+00:00,
+520,352,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1707,92.9,,,out/ocr/352_p8.txt,2026-11-16T16:18:46+00:00,
+521,352,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1353,92.7,,,out/ocr/352_p9.txt,2026-11-16T16:18:46+00:00,
+522,352,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1755,91.6,,,out/ocr/352_p10.txt,2026-11-16T16:18:46+00:00,
+523,352,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1572,90.8,,,out/ocr/352_p11.txt,2026-11-16T16:18:46+00:00,
+524,352,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1657,90.6,,,out/ocr/352_p12.txt,2026-11-16T16:18:46+00:00,
+525,352,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1727,92.1,,,out/ocr/352_p13.txt,2026-11-16T16:18:46+00:00,
+526,352,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1356,92.9,,,out/ocr/352_p14.txt,2026-11-16T16:18:46+00:00,
+527,352,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1664,90.4,,,out/ocr/352_p15.txt,2026-11-16T16:18:46+00:00,
+528,352,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1858,91.2,,,out/ocr/352_p16.txt,2026-11-16T16:18:46+00:00,
+529,352,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2027,89.7,,,out/ocr/352_p17.txt,2026-11-16T16:18:46+00:00,
+530,352,18,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",686,83.4,,,out/ocr/352_p18.txt,2026-11-16T16:18:46+00:00,
+531,352,19,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1355,90.5,,,out/ocr/352_p19.txt,2026-11-16T16:18:46+00:00,
+532,352,20,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1426,93.1,,,out/ocr/352_p20.txt,2026-11-16T16:18:46+00:00,
+533,352,21,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1788,93.4,,,out/ocr/352_p21.txt,2026-11-16T16:18:46+00:00,
+534,352,22,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1643,93.5,,,out/ocr/352_p22.txt,2026-11-16T16:18:46+00:00,
+535,352,23,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1632,90.3,,,out/ocr/352_p23.txt,2026-11-16T16:18:46+00:00,
+536,352,24,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",821,84.9,,,out/ocr/352_p24.txt,2026-11-16T16:18:46+00:00,
+537,352,25,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1328,91.0,,,out/ocr/352_p25.txt,2026-11-16T16:18:46+00:00,
+538,352,26,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1372,88.7,,,out/ocr/352_p26.txt,2026-11-16T16:18:46+00:00,
+539,352,27,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1716,91.1,,,out/ocr/352_p27.txt,2026-11-16T16:18:46+00:00,
+540,352,28,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1679,93.4,,,out/ocr/352_p28.txt,2026-11-16T16:18:46+00:00,
+541,352,29,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1134,89.3,,,out/ocr/352_p29.txt,2026-11-16T16:18:46+00:00,
+542,352,30,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",750,89.2,,,out/ocr/352_p30.txt,2026-11-16T16:18:46+00:00,
+543,352,31,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1051,91.6,,,out/ocr/352_p31.txt,2026-11-16T16:18:46+00:00,
+544,352,32,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1216,90.4,,,out/ocr/352_p32.txt,2026-11-16T16:18:46+00:00,
+545,352,33,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",859,83.5,,,out/ocr/352_p33.txt,2026-11-16T16:18:46+00:00,
+546,352,34,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",357,87.5,,,out/ocr/352_p34.txt,2026-11-16T16:18:46+00:00,
+547,352,35,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1645,89.6,,,out/ocr/352_p35.txt,2026-11-16T16:18:46+00:00,
+548,352,36,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1671,90.8,,,out/ocr/352_p36.txt,2026-11-16T16:18:46+00:00,
+549,352,37,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1294,82.4,,,out/ocr/352_p37.txt,2026-11-16T16:18:46+00:00,
+550,352,38,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1364,83.4,,,out/ocr/352_p38.txt,2026-11-16T16:18:46+00:00,
+551,352,39,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1091,85.1,,,out/ocr/352_p39.txt,2026-11-16T16:18:46+00:00,
+552,352,40,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",569,91.2,,,out/ocr/352_p40.txt,2026-11-16T16:18:46+00:00,
+553,352,41,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1195,90.2,,,out/ocr/352_p41.txt,2026-11-16T16:18:46+00:00,
+554,352,42,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",650,84.2,,,out/ocr/352_p42.txt,2026-11-16T16:18:46+00:00,
+555,352,43,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",133,38.4,,,out/ocr/352_p43.txt,2026-11-16T16:18:46+00:00,
+556,387,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",424,93.9,,,out/ocr/387_p1.txt,2026-11-16T16:18:46+00:00,
+557,387,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",993,94.3,,,out/ocr/387_p2.txt,2026-11-16T16:18:46+00:00,
+558,387,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1215,94.4,,,out/ocr/387_p3.txt,2026-11-16T16:18:46+00:00,
+559,387,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1570,95.5,,,out/ocr/387_p4.txt,2026-11-16T16:18:46+00:00,
+560,387,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1347,95.1,,,out/ocr/387_p5.txt,2026-11-16T16:18:46+00:00,
+561,387,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1097,94.7,,,out/ocr/387_p6.txt,2026-11-16T16:18:46+00:00,
+562,387,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1276,95.4,,,out/ocr/387_p7.txt,2026-11-16T16:18:46+00:00,
+563,387,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2245,95.7,,,out/ocr/387_p8.txt,2026-11-16T16:18:46+00:00,
+564,387,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2197,95.6,,,out/ocr/387_p9.txt,2026-11-16T16:18:46+00:00,
+565,387,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",600,94.2,,,out/ocr/387_p10.txt,2026-11-16T16:18:46+00:00,
+566,611,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1411,90.5,,,out/ocr/611_p1.txt,2026-11-16T16:18:46+00:00,
+567,611,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1601,90.8,,,out/ocr/611_p2.txt,2026-11-16T16:18:46+00:00,
+568,611,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1531,92.5,,,out/ocr/611_p3.txt,2026-11-16T16:18:46+00:00,
+569,611,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1770,92.0,,,out/ocr/611_p4.txt,2026-11-16T16:18:46+00:00,
+570,611,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1745,91.1,,,out/ocr/611_p5.txt,2026-11-16T16:18:46+00:00,
+571,611,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1780,90.6,,,out/ocr/611_p6.txt,2026-11-16T16:18:46+00:00,
+572,611,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1749,92.6,,,out/ocr/611_p7.txt,2026-11-16T16:18:46+00:00,
+573,611,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1421,92.6,,,out/ocr/611_p8.txt,2026-11-16T16:18:46+00:00,
+574,611,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1622,90.7,,,out/ocr/611_p9.txt,2026-11-16T16:18:46+00:00,
+575,611,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1816,92.1,,,out/ocr/611_p10.txt,2026-11-16T16:18:46+00:00,
+576,611,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1569,91.1,,,out/ocr/611_p11.txt,2026-11-16T16:18:46+00:00,
+577,611,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1654,89.9,,,out/ocr/611_p12.txt,2026-11-16T16:18:46+00:00,
+578,611,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1474,92.4,,,out/ocr/611_p13.txt,2026-11-16T16:18:46+00:00,
+579,611,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1542,91.5,,,out/ocr/611_p14.txt,2026-11-16T16:18:46+00:00,
+580,611,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1622,88.7,,,out/ocr/611_p15.txt,2026-11-16T16:18:46+00:00,
+581,611,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2023,92.2,,,out/ocr/611_p16.txt,2026-11-16T16:18:46+00:00,
+582,611,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1309,86.9,,,out/ocr/611_p17.txt,2026-11-16T16:18:46+00:00,
+583,611,18,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1303,90.1,,,out/ocr/611_p18.txt,2026-11-16T16:18:46+00:00,
+584,611,19,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1461,89.6,,,out/ocr/611_p19.txt,2026-11-16T16:18:46+00:00,
+585,611,20,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1752,94.0,,,out/ocr/611_p20.txt,2026-11-16T16:18:46+00:00,
+586,611,21,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1719,92.5,,,out/ocr/611_p21.txt,2026-11-16T16:18:46+00:00,
+587,611,22,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1601,90.7,,,out/ocr/611_p22.txt,2026-11-16T16:18:46+00:00,
+588,611,23,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",840,86.9,,,out/ocr/611_p23.txt,2026-11-16T16:18:46+00:00,
+589,611,24,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1306,90.7,,,out/ocr/611_p24.txt,2026-11-16T16:18:46+00:00,
+590,611,25,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1420,88.3,,,out/ocr/611_p25.txt,2026-11-16T16:18:46+00:00,
+591,611,26,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1698,92.2,,,out/ocr/611_p26.txt,2026-11-16T16:18:46+00:00,
+592,611,27,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1629,91.6,,,out/ocr/611_p27.txt,2026-11-16T16:18:46+00:00,
+593,611,28,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1052,87.7,,,out/ocr/611_p28.txt,2026-11-16T16:18:46+00:00,
+594,611,29,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",800,89.5,,,out/ocr/611_p29.txt,2026-11-16T16:18:46+00:00,
+595,611,30,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1043,90.3,,,out/ocr/611_p30.txt,2026-11-16T16:18:46+00:00,
+596,611,31,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1176,90.1,,,out/ocr/611_p31.txt,2026-11-16T16:18:46+00:00,
+597,611,32,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",835,82.1,,,out/ocr/611_p32.txt,2026-11-16T16:18:46+00:00,
+598,611,33,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",357,87.5,,,out/ocr/611_p33.txt,2026-11-16T16:18:46+00:00,
+599,611,34,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1580,92.6,,,out/ocr/611_p34.txt,2026-11-16T16:18:46+00:00,
+600,611,35,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1665,92.2,,,out/ocr/611_p35.txt,2026-11-16T16:18:46+00:00,
+601,611,36,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1660,90.4,,,out/ocr/611_p36.txt,2026-11-16T16:18:46+00:00,
+602,611,37,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",789,91.3,,,out/ocr/611_p37.txt,2026-11-16T16:18:46+00:00,
+603,611,38,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1051,86.8,,,out/ocr/611_p38.txt,2026-11-16T16:18:46+00:00,
+604,611,39,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",545,93.5,,,out/ocr/611_p39.txt,2026-11-16T16:18:46+00:00,
+605,611,40,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1169,86.5,,,out/ocr/611_p40.txt,2026-11-16T16:18:46+00:00,
+606,611,41,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",653,83.3,,,out/ocr/611_p41.txt,2026-11-16T16:18:46+00:00,
+607,611,42,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",173,90.6,,,out/ocr/611_p42.txt,2026-11-16T16:18:46+00:00,
+608,611,43,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",337,87.5,,,out/ocr/611_p43.txt,2026-11-16T16:18:46+00:00,
+609,615,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",303,70.1,,,out/ocr/615_p1.txt,2026-11-16T16:18:46+00:00,
+610,615,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",908,75.2,,,out/ocr/615_p2.txt,2026-11-16T16:18:46+00:00,
+611,615,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",337,70.5,,,out/ocr/615_p3.txt,2026-11-16T16:18:46+00:00,
+612,615,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",55,67.1,,,out/ocr/615_p4.txt,2026-11-16T16:18:46+00:00,
+613,654,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",970,92.9,,,out/ocr/654_p1.txt,2026-11-16T16:18:46+00:00,
+614,743,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",581,94.2,,,out/ocr/743_p1.txt,2026-11-16T16:18:46+00:00,
+615,743,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1012,95.6,,,out/ocr/743_p2.txt,2026-11-16T16:18:46+00:00,
+616,743,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1124,95.7,,,out/ocr/743_p3.txt,2026-11-16T16:18:46+00:00,
+617,743,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",958,95.8,,,out/ocr/743_p4.txt,2026-11-16T16:18:46+00:00,
+618,743,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",841,95.6,,,out/ocr/743_p5.txt,2026-11-16T16:18:46+00:00,
+619,743,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",912,95.8,,,out/ocr/743_p6.txt,2026-11-16T16:18:46+00:00,
+620,793,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",388,94.6,,,out/ocr/793_p1.txt,2026-11-16T16:18:46+00:00,
+621,793,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1004,95.7,,,out/ocr/793_p2.txt,2026-11-16T16:18:46+00:00,
+622,793,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1314,95.9,,,out/ocr/793_p3.txt,2026-11-16T16:18:46+00:00,
+623,793,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1547,95.8,,,out/ocr/793_p4.txt,2026-11-16T16:18:46+00:00,
+624,793,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1152,96.1,,,out/ocr/793_p5.txt,2026-11-16T16:18:46+00:00,
+625,793,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",659,95.5,,,out/ocr/793_p6.txt,2026-11-16T16:18:46+00:00,
+626,804,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",317,94.0,,,out/ocr/804_p1.txt,2026-11-16T16:18:46+00:00,
+627,804,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1043,95.7,,,out/ocr/804_p2.txt,2026-11-16T16:18:46+00:00,
+628,804,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1481,96.1,,,out/ocr/804_p3.txt,2026-11-16T16:18:46+00:00,
+629,804,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1190,96.2,,,out/ocr/804_p4.txt,2026-11-16T16:18:46+00:00,
+630,804,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",783,96.1,,,out/ocr/804_p5.txt,2026-11-16T16:18:46+00:00,
+631,804,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",805,96.0,,,out/ocr/804_p6.txt,2026-11-16T16:18:46+00:00,
+632,804,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",795,95.9,,,out/ocr/804_p7.txt,2026-11-16T16:18:46+00:00,
+633,804,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1667,95.3,,,out/ocr/804_p8.txt,2026-11-16T16:18:46+00:00,
+634,804,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1024,94.1,,,out/ocr/804_p9.txt,2026-11-16T16:18:46+00:00,
+635,804,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1301,94.3,,,out/ocr/804_p10.txt,2026-11-16T16:18:46+00:00,
+636,804,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",475,95.6,,,out/ocr/804_p11.txt,2026-11-16T16:18:46+00:00,
+637,804,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1342,91.4,,,out/ocr/804_p12.txt,2026-11-16T16:18:46+00:00,
+638,804,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",715,89.5,,,out/ocr/804_p13.txt,2026-11-16T16:18:46+00:00,
+639,804,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",298,90.0,,,out/ocr/804_p14.txt,2026-11-16T16:18:46+00:00,
+640,804,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",37,96.4,,,out/ocr/804_p15.txt,2026-11-16T16:18:46+00:00,
+641,804,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",437,93.5,,,out/ocr/804_p16.txt,2026-11-16T16:18:46+00:00,
+642,804,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1073,95.1,,,out/ocr/804_p17.txt,2026-11-16T16:18:46+00:00,
+643,804,18,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1835,94.6,,,out/ocr/804_p18.txt,2026-11-16T16:18:46+00:00,
+644,804,19,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1460,94.9,,,out/ocr/804_p19.txt,2026-11-16T16:18:46+00:00,
+645,804,20,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2148,96.1,,,out/ocr/804_p20.txt,2026-11-16T16:18:46+00:00,
+646,804,21,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2407,95.7,,,out/ocr/804_p21.txt,2026-11-16T16:18:46+00:00,
+647,804,22,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1174,89.7,,,out/ocr/804_p22.txt,2026-11-16T16:18:46+00:00,
+648,804,23,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1491,88.1,,,out/ocr/804_p23.txt,2026-11-16T16:18:46+00:00,
+649,804,24,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1155,86.6,,,out/ocr/804_p24.txt,2026-11-16T16:18:46+00:00,
+650,804,25,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",707,87.7,,,out/ocr/804_p25.txt,2026-11-16T16:18:46+00:00,
+651,804,26,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1367,89.2,,,out/ocr/804_p26.txt,2026-11-16T16:18:46+00:00,
+652,804,27,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2154,89.9,,,out/ocr/804_p27.txt,2026-11-16T16:18:46+00:00,
+653,804,28,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1730,94.8,,,out/ocr/804_p28.txt,2026-11-16T16:18:46+00:00,
+654,804,29,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1360,94.7,,,out/ocr/804_p29.txt,2026-11-16T16:18:46+00:00,
+655,804,30,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2097,94.3,,,out/ocr/804_p30.txt,2026-11-16T16:18:46+00:00,
+656,804,31,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1649,94.9,,,out/ocr/804_p31.txt,2026-11-16T16:18:46+00:00,
+657,804,32,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2418,94.9,,,out/ocr/804_p32.txt,2026-11-16T16:18:46+00:00,
+658,804,33,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1689,91.6,,,out/ocr/804_p33.txt,2026-11-16T16:18:46+00:00,
+659,804,34,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2647,95.2,,,out/ocr/804_p34.txt,2026-11-16T16:18:46+00:00,
+660,804,35,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",185,95.0,,,out/ocr/804_p35.txt,2026-11-16T16:18:46+00:00,
+661,804,36,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2101,92.1,,,out/ocr/804_p36.txt,2026-11-16T16:18:46+00:00,
+662,804,37,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2547,95.5,,,out/ocr/804_p37.txt,2026-11-16T16:18:46+00:00,
+663,804,38,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1057,95.3,,,out/ocr/804_p38.txt,2026-11-16T16:18:46+00:00,
+664,804,39,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1086,28.7,,,out/ocr/804_p39.txt,2026-11-16T16:18:46+00:00,
+665,804,40,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1073,94.4,,,out/ocr/804_p40.txt,2026-11-16T16:18:46+00:00,
+666,804,41,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",758,91.9,,,out/ocr/804_p41.txt,2026-11-16T16:18:46+00:00,
+667,804,42,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1401,93.6,,,out/ocr/804_p42.txt,2026-11-16T16:18:46+00:00,
+668,804,43,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2552,96.4,,,out/ocr/804_p43.txt,2026-11-16T16:18:46+00:00,
+669,804,44,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1050,96.0,,,out/ocr/804_p44.txt,2026-11-16T16:18:46+00:00,
+670,804,45,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2187,91.2,,,out/ocr/804_p45.txt,2026-11-16T16:18:46+00:00,
+671,804,46,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1849,86.1,,,out/ocr/804_p46.txt,2026-11-16T16:18:46+00:00,
+672,804,47,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",979,93.1,,,out/ocr/804_p47.txt,2026-11-16T16:18:46+00:00,
+673,804,48,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",912,92.8,,,out/ocr/804_p48.txt,2026-11-16T16:18:46+00:00,
+674,804,49,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",864,94.9,,,out/ocr/804_p49.txt,2026-11-16T16:18:46+00:00,
+675,804,50,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",973,94.3,,,out/ocr/804_p50.txt,2026-11-16T16:18:46+00:00,
+676,804,51,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",698,93.5,,,out/ocr/804_p51.txt,2026-11-16T16:18:46+00:00,
+677,804,52,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",979,91.9,,,out/ocr/804_p52.txt,2026-11-16T16:18:46+00:00,
+678,804,53,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1008,94.2,,,out/ocr/804_p53.txt,2026-11-16T16:18:46+00:00,
+679,804,54,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2127,94.4,,,out/ocr/804_p54.txt,2026-11-16T16:18:46+00:00,
+680,804,55,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2352,95.7,,,out/ocr/804_p55.txt,2026-11-16T16:18:46+00:00,
+681,804,56,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1696,92.7,,,out/ocr/804_p56.txt,2026-11-16T16:18:46+00:00,
+682,804,57,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",891,94.8,,,out/ocr/804_p57.txt,2026-11-16T16:18:46+00:00,
+683,804,58,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",902,93.4,,,out/ocr/804_p58.txt,2026-11-16T16:18:46+00:00,
+684,804,59,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",735,92.8,,,out/ocr/804_p59.txt,2026-11-16T16:18:46+00:00,
+685,804,60,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1168,91.9,,,out/ocr/804_p60.txt,2026-11-16T16:18:46+00:00,
+686,804,61,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1574,94.0,,,out/ocr/804_p61.txt,2026-11-16T16:18:46+00:00,
+687,804,62,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",890,94.4,,,out/ocr/804_p62.txt,2026-11-16T16:18:46+00:00,
+688,804,63,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1185,95.3,,,out/ocr/804_p63.txt,2026-11-16T16:18:46+00:00,
+689,804,64,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",963,93.3,,,out/ocr/804_p64.txt,2026-11-16T16:18:46+00:00,
+690,804,65,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",577,90.6,,,out/ocr/804_p65.txt,2026-11-16T16:18:46+00:00,
+691,804,66,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",765,94.3,,,out/ocr/804_p66.txt,2026-11-16T16:18:46+00:00,
+692,804,67,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",986,92.8,,,out/ocr/804_p67.txt,2026-11-16T16:18:46+00:00,
+693,804,68,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1472,93.7,,,out/ocr/804_p68.txt,2026-11-16T16:18:46+00:00,
+694,804,69,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2163,95.0,,,out/ocr/804_p69.txt,2026-11-16T16:18:46+00:00,
+695,804,70,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1323,93.7,,,out/ocr/804_p70.txt,2026-11-16T16:18:46+00:00,
+696,804,71,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",766,92.3,,,out/ocr/804_p71.txt,2026-11-16T16:18:46+00:00,
+697,804,72,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",704,92.6,,,out/ocr/804_p72.txt,2026-11-16T16:18:46+00:00,
+698,820,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",533,94.2,,,out/ocr/820_p1.txt,2026-11-16T16:18:46+00:00,
+699,820,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",723,94.1,,,out/ocr/820_p2.txt,2026-11-16T16:18:46+00:00,
+700,820,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1341,95.6,,,out/ocr/820_p3.txt,2026-11-16T16:18:46+00:00,
+701,820,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1395,95.6,,,out/ocr/820_p4.txt,2026-11-16T16:18:46+00:00,
+702,820,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1359,95.8,,,out/ocr/820_p5.txt,2026-11-16T16:18:46+00:00,
+703,820,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1805,95.2,,,out/ocr/820_p6.txt,2026-11-16T16:18:46+00:00,
+704,820,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1337,96.3,,,out/ocr/820_p7.txt,2026-11-16T16:18:46+00:00,
+705,820,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",422,96.1,,,out/ocr/820_p8.txt,2026-11-16T16:18:46+00:00,
+706,844,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",862,94.5,,,out/ocr/844_p1.txt,2026-11-16T16:18:46+00:00,
+707,858,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",375,95.2,,,out/ocr/858_p1.txt,2026-11-16T16:18:46+00:00,
+708,858,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1242,96.2,,,out/ocr/858_p2.txt,2026-11-16T16:18:46+00:00,
+709,858,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1296,95.8,,,out/ocr/858_p3.txt,2026-11-16T16:18:46+00:00,
+710,858,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1267,96.5,,,out/ocr/858_p4.txt,2026-11-16T16:18:46+00:00,
+711,858,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1205,95.7,,,out/ocr/858_p5.txt,2026-11-16T16:18:46+00:00,
+712,858,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",963,95.7,,,out/ocr/858_p6.txt,2026-11-16T16:18:46+00:00,
+713,858,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1717,95.8,,,out/ocr/858_p7.txt,2026-11-16T16:18:46+00:00,
+714,858,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1391,94.6,,,out/ocr/858_p8.txt,2026-11-16T16:18:46+00:00,
+715,858,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1153,92.4,,,out/ocr/858_p9.txt,2026-11-16T16:18:46+00:00,
+716,858,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1236,93.8,,,out/ocr/858_p10.txt,2026-11-16T16:18:46+00:00,
+717,858,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1429,94.4,,,out/ocr/858_p11.txt,2026-11-16T16:18:46+00:00,
+718,858,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",657,91.9,,,out/ocr/858_p12.txt,2026-11-16T16:18:46+00:00,
+719,858,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",705,96.1,,,out/ocr/858_p13.txt,2026-11-16T16:18:46+00:00,
+720,858,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1819,93.0,,,out/ocr/858_p14.txt,2026-11-16T16:18:46+00:00,
+721,858,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",252,95.4,,,out/ocr/858_p15.txt,2026-11-16T16:18:46+00:00,
+722,858,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1344,83.6,,,out/ocr/858_p16.txt,2026-11-16T16:18:46+00:00,
+723,858,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",552,92.9,,,out/ocr/858_p17.txt,2026-11-16T16:18:46+00:00,
+724,858,18,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",779,92.4,,,out/ocr/858_p18.txt,2026-11-16T16:18:46+00:00,
+725,860,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1295,65.7,,,out/ocr/860_p1.txt,2026-11-16T16:18:46+00:00,
+726,865,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",369,94.4,,,out/ocr/865_p1.txt,2026-11-16T16:18:46+00:00,
+727,865,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1299,95.1,,,out/ocr/865_p2.txt,2026-11-16T16:18:46+00:00,
+728,865,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",418,95.8,,,out/ocr/865_p3.txt,2026-11-16T16:18:46+00:00,
+729,883,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",409,94.7,,,out/ocr/883_p1.txt,2026-11-16T16:18:46+00:00,
+730,883,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1156,96.1,,,out/ocr/883_p2.txt,2026-11-16T16:18:46+00:00,
+731,883,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1396,95.7,,,out/ocr/883_p3.txt,2026-11-16T16:18:46+00:00,
+732,883,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1493,95.6,,,out/ocr/883_p4.txt,2026-11-16T16:18:46+00:00,
+733,883,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",986,96.2,,,out/ocr/883_p5.txt,2026-11-16T16:18:46+00:00,
+734,883,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1659,95.0,,,out/ocr/883_p6.txt,2026-11-16T16:18:46+00:00,
+735,883,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1243,95.6,,,out/ocr/883_p7.txt,2026-11-16T16:18:46+00:00,
+736,883,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1474,94.0,,,out/ocr/883_p8.txt,2026-11-16T16:18:46+00:00,
+737,883,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",754,93.6,,,out/ocr/883_p9.txt,2026-11-16T16:18:46+00:00,
+738,883,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1505,96.3,,,out/ocr/883_p10.txt,2026-11-16T16:18:46+00:00,
+739,883,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",306,95.8,,,out/ocr/883_p11.txt,2026-11-16T16:18:46+00:00,
+740,883,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1915,90.8,,,out/ocr/883_p12.txt,2026-11-16T16:18:46+00:00,
+741,883,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1456,94.3,,,out/ocr/883_p13.txt,2026-11-16T16:18:46+00:00,
+742,883,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",154,93.6,,,out/ocr/883_p14.txt,2026-11-16T16:18:46+00:00,
+743,883,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",545,93.0,,,out/ocr/883_p15.txt,2026-11-16T16:18:46+00:00,
+744,883,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",719,95.3,,,out/ocr/883_p16.txt,2026-11-16T16:18:46+00:00,
+745,883,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",463,95.5,,,out/ocr/883_p17.txt,2026-11-16T16:18:46+00:00,
+746,883,18,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",780,92.0,,,out/ocr/883_p18.txt,2026-11-16T16:18:46+00:00,
+747,883,19,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",434,79.2,,,out/ocr/883_p19.txt,2026-11-16T16:18:46+00:00,
+748,883,20,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",172,39.3,,,out/ocr/883_p20.txt,2026-11-16T16:18:46+00:00,
+749,883,21,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",512,93.4,,,out/ocr/883_p21.txt,2026-11-16T16:18:46+00:00,
+750,883,22,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1216,87.8,,,out/ocr/883_p22.txt,2026-11-16T16:18:46+00:00,
+751,883,23,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",894,94.8,,,out/ocr/883_p23.txt,2026-11-16T16:18:46+00:00,
+752,883,24,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2131,37.6,,,out/ocr/883_p24.txt,2026-11-16T16:18:46+00:00,
+753,883,25,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2065,31.5,,,out/ocr/883_p25.txt,2026-11-16T16:18:46+00:00,
+754,883,26,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",797,92.2,,,out/ocr/883_p26.txt,2026-11-16T16:18:46+00:00,
+755,883,27,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1158,93.8,,,out/ocr/883_p27.txt,2026-11-16T16:18:46+00:00,
+756,883,28,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",289,93.8,,,out/ocr/883_p28.txt,2026-11-16T16:18:46+00:00,
+757,883,29,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",73,95.8,,,out/ocr/883_p29.txt,2026-11-16T16:18:46+00:00,
+758,938,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1260,94.9,,,out/ocr/938_p1.txt,2026-11-16T16:18:46+00:00,
+759,938,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1576,95.0,,,out/ocr/938_p2.txt,2026-11-16T16:18:46+00:00,
+760,938,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1658,95.3,,,out/ocr/938_p3.txt,2026-11-16T16:18:46+00:00,
+761,938,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1744,94.6,,,out/ocr/938_p4.txt,2026-11-16T16:18:46+00:00,
+762,938,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1676,93.7,,,out/ocr/938_p5.txt,2026-11-16T16:18:46+00:00,
+763,938,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1660,95.3,,,out/ocr/938_p6.txt,2026-11-16T16:18:46+00:00,
+764,938,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1468,94.9,,,out/ocr/938_p7.txt,2026-11-16T16:18:46+00:00,
+765,938,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1772,94.5,,,out/ocr/938_p8.txt,2026-11-16T16:18:46+00:00,
+766,938,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1578,95.2,,,out/ocr/938_p9.txt,2026-11-16T16:18:46+00:00,
+767,938,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1647,94.7,,,out/ocr/938_p10.txt,2026-11-16T16:18:46+00:00,
+768,938,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1609,95.0,,,out/ocr/938_p11.txt,2026-11-16T16:18:46+00:00,
+769,938,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1407,95.0,,,out/ocr/938_p12.txt,2026-11-16T16:18:46+00:00,
+770,938,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1575,91.1,,,out/ocr/938_p13.txt,2026-11-16T16:18:46+00:00,
+771,938,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1925,93.2,,,out/ocr/938_p14.txt,2026-11-16T16:18:46+00:00,
+772,938,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",699,91.4,,,out/ocr/938_p15.txt,2026-11-16T16:18:46+00:00,
+773,938,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1257,95.2,,,out/ocr/938_p16.txt,2026-11-16T16:18:46+00:00,
+774,938,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1363,94.7,,,out/ocr/938_p17.txt,2026-11-16T16:18:46+00:00,
+775,938,18,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1604,95.5,,,out/ocr/938_p18.txt,2026-11-16T16:18:46+00:00,
+776,938,19,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1542,95.1,,,out/ocr/938_p19.txt,2026-11-16T16:18:46+00:00,
+777,938,20,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1338,87.4,,,out/ocr/938_p20.txt,2026-11-16T16:18:46+00:00,
+778,938,21,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1305,94.3,,,out/ocr/938_p21.txt,2026-11-16T16:18:46+00:00,
+779,938,22,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1570,91.5,,,out/ocr/938_p22.txt,2026-11-16T16:18:46+00:00,
+780,938,23,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1704,94.0,,,out/ocr/938_p23.txt,2026-11-16T16:18:46+00:00,
+781,938,24,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1549,91.4,,,out/ocr/938_p24.txt,2026-11-16T16:18:46+00:00,
+782,938,25,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",715,89.3,,,out/ocr/938_p25.txt,2026-11-16T16:18:46+00:00,
+783,938,26,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",963,94.4,,,out/ocr/938_p26.txt,2026-11-16T16:18:46+00:00,
+784,938,27,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1020,93.6,,,out/ocr/938_p27.txt,2026-11-16T16:18:46+00:00,
+785,938,28,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",429,92.7,,,out/ocr/938_p28.txt,2026-11-16T16:18:46+00:00,
+786,938,29,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1587,94.9,,,out/ocr/938_p29.txt,2026-11-16T16:18:46+00:00,
+787,938,30,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1532,95.2,,,out/ocr/938_p30.txt,2026-11-16T16:18:46+00:00,
+788,938,31,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",907,93.7,,,out/ocr/938_p31.txt,2026-11-16T16:18:46+00:00,
+789,938,32,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",925,94.9,,,out/ocr/938_p32.txt,2026-11-16T16:18:46+00:00,
+790,938,33,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1013,93.0,,,out/ocr/938_p33.txt,2026-11-16T16:18:46+00:00,
+791,938,34,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",522,83.4,,,out/ocr/938_p34.txt,2026-11-16T16:18:46+00:00,
+792,940,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1411,90.5,,,out/ocr/940_p1.txt,2026-11-16T16:18:46+00:00,
+793,940,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1601,90.8,,,out/ocr/940_p2.txt,2026-11-16T16:18:46+00:00,
+794,940,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1531,92.5,,,out/ocr/940_p3.txt,2026-11-16T16:18:46+00:00,
+795,940,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1770,92.0,,,out/ocr/940_p4.txt,2026-11-16T16:18:46+00:00,
+796,940,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1745,91.1,,,out/ocr/940_p5.txt,2026-11-16T16:18:46+00:00,
+797,940,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1780,90.6,,,out/ocr/940_p6.txt,2026-11-16T16:18:46+00:00,
+798,940,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1749,92.6,,,out/ocr/940_p7.txt,2026-11-16T16:18:46+00:00,
+799,940,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1421,92.6,,,out/ocr/940_p8.txt,2026-11-16T16:18:46+00:00,
+800,940,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1622,90.7,,,out/ocr/940_p9.txt,2026-11-16T16:18:46+00:00,
+801,940,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1816,92.1,,,out/ocr/940_p10.txt,2026-11-16T16:18:46+00:00,
+802,940,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1569,91.1,,,out/ocr/940_p11.txt,2026-11-16T16:18:46+00:00,
+803,940,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1654,89.9,,,out/ocr/940_p12.txt,2026-11-16T16:18:46+00:00,
+804,940,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1474,92.4,,,out/ocr/940_p13.txt,2026-11-16T16:18:46+00:00,
+805,940,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1542,91.5,,,out/ocr/940_p14.txt,2026-11-16T16:18:46+00:00,
+806,940,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1622,88.7,,,out/ocr/940_p15.txt,2026-11-16T16:18:46+00:00,
+807,940,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2023,92.2,,,out/ocr/940_p16.txt,2026-11-16T16:18:46+00:00,
+808,940,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1309,86.9,,,out/ocr/940_p17.txt,2026-11-16T16:18:46+00:00,
+809,940,18,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1303,90.1,,,out/ocr/940_p18.txt,2026-11-16T16:18:46+00:00,
+810,940,19,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1461,89.6,,,out/ocr/940_p19.txt,2026-11-16T16:18:46+00:00,
+811,940,20,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1752,94.0,,,out/ocr/940_p20.txt,2026-11-16T16:18:46+00:00,
+812,940,21,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1719,92.5,,,out/ocr/940_p21.txt,2026-11-16T16:18:46+00:00,
+813,940,22,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1601,90.7,,,out/ocr/940_p22.txt,2026-11-16T16:18:46+00:00,
+814,940,23,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",840,86.9,,,out/ocr/940_p23.txt,2026-11-16T16:18:46+00:00,
+815,940,24,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1306,90.7,,,out/ocr/940_p24.txt,2026-11-16T16:18:46+00:00,
+816,940,25,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1420,88.3,,,out/ocr/940_p25.txt,2026-11-16T16:18:46+00:00,
+817,940,26,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1698,92.2,,,out/ocr/940_p26.txt,2026-11-16T16:18:46+00:00,
+818,940,27,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1629,91.6,,,out/ocr/940_p27.txt,2026-11-16T16:18:46+00:00,
+819,940,28,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1052,87.7,,,out/ocr/940_p28.txt,2026-11-16T16:18:46+00:00,
+820,940,29,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",800,89.5,,,out/ocr/940_p29.txt,2026-11-16T16:18:46+00:00,
+821,940,30,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1043,90.3,,,out/ocr/940_p30.txt,2026-11-16T16:18:46+00:00,
+822,940,31,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1176,90.1,,,out/ocr/940_p31.txt,2026-11-16T16:18:46+00:00,
+823,940,32,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",835,82.1,,,out/ocr/940_p32.txt,2026-11-16T16:18:46+00:00,
+824,940,33,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",357,87.5,,,out/ocr/940_p33.txt,2026-11-16T16:18:46+00:00,
+825,940,34,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1580,92.6,,,out/ocr/940_p34.txt,2026-11-16T16:18:46+00:00,
+826,940,35,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1665,92.2,,,out/ocr/940_p35.txt,2026-11-16T16:18:46+00:00,
+827,940,36,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1660,90.4,,,out/ocr/940_p36.txt,2026-11-16T16:18:46+00:00,
+828,940,37,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",789,91.3,,,out/ocr/940_p37.txt,2026-11-16T16:18:46+00:00,
+829,940,38,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1051,86.8,,,out/ocr/940_p38.txt,2026-11-16T16:18:46+00:00,
+830,940,39,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",545,93.5,,,out/ocr/940_p39.txt,2026-11-16T16:18:46+00:00,
+831,940,40,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1169,86.5,,,out/ocr/940_p40.txt,2026-11-16T16:18:46+00:00,
+832,940,41,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",653,83.3,,,out/ocr/940_p41.txt,2026-11-16T16:18:46+00:00,
+833,940,42,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",173,90.6,,,out/ocr/940_p42.txt,2026-11-16T16:18:46+00:00,
+834,940,43,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",337,87.5,,,out/ocr/940_p43.txt,2026-11-16T16:18:46+00:00,
+835,941,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1396,92.2,,,out/ocr/941_p1.txt,2026-11-16T16:18:46+00:00,
+836,941,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1501,92.4,,,out/ocr/941_p2.txt,2026-11-16T16:18:46+00:00,
+837,941,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1603,90.7,,,out/ocr/941_p3.txt,2026-11-16T16:18:46+00:00,
+838,941,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1779,92.1,,,out/ocr/941_p4.txt,2026-11-16T16:18:46+00:00,
+839,941,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1742,92.4,,,out/ocr/941_p5.txt,2026-11-16T16:18:46+00:00,
+840,941,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1776,91.2,,,out/ocr/941_p6.txt,2026-11-16T16:18:46+00:00,
+841,941,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1739,92.7,,,out/ocr/941_p7.txt,2026-11-16T16:18:46+00:00,
+842,941,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1346,90.2,,,out/ocr/941_p8.txt,2026-11-16T16:18:46+00:00,
+843,941,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1604,92.0,,,out/ocr/941_p9.txt,2026-11-16T16:18:46+00:00,
+844,941,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1792,91.1,,,out/ocr/941_p10.txt,2026-11-16T16:18:46+00:00,
+845,941,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1585,91.7,,,out/ocr/941_p11.txt,2026-11-16T16:18:46+00:00,
+846,941,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1676,90.3,,,out/ocr/941_p12.txt,2026-11-16T16:18:46+00:00,
+847,941,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1477,90.8,,,out/ocr/941_p13.txt,2026-11-16T16:18:46+00:00,
+848,941,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1664,90.4,,,out/ocr/941_p14.txt,2026-11-16T16:18:46+00:00,
+849,941,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1640,87.8,,,out/ocr/941_p15.txt,2026-11-16T16:18:46+00:00,
+850,941,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2065,91.7,,,out/ocr/941_p16.txt,2026-11-16T16:18:46+00:00,
+851,941,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1221,87.9,,,out/ocr/941_p17.txt,2026-11-16T16:18:46+00:00,
+852,941,18,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1328,88.7,,,out/ocr/941_p18.txt,2026-11-16T16:18:46+00:00,
+853,941,19,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1499,90.2,,,out/ocr/941_p19.txt,2026-11-16T16:18:46+00:00,
+854,941,20,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1745,93.9,,,out/ocr/941_p20.txt,2026-11-16T16:18:46+00:00,
+855,941,21,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1686,93.8,,,out/ocr/941_p21.txt,2026-11-16T16:18:46+00:00,
+856,941,22,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1617,91.0,,,out/ocr/941_p22.txt,2026-11-16T16:18:46+00:00,
+857,941,23,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",812,88.1,,,out/ocr/941_p23.txt,2026-11-16T16:18:46+00:00,
+858,941,24,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1231,88.4,,,out/ocr/941_p24.txt,2026-11-16T16:18:46+00:00,
+859,941,25,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1412,88.0,,,out/ocr/941_p25.txt,2026-11-16T16:18:46+00:00,
+860,941,26,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1680,92.7,,,out/ocr/941_p26.txt,2026-11-16T16:18:46+00:00,
+861,941,27,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1675,92.7,,,out/ocr/941_p27.txt,2026-11-16T16:18:46+00:00,
+862,941,28,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1258,87.9,,,out/ocr/941_p28.txt,2026-11-16T16:18:46+00:00,
+863,941,29,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",777,87.0,,,out/ocr/941_p29.txt,2026-11-16T16:18:46+00:00,
+864,941,30,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1067,91.0,,,out/ocr/941_p30.txt,2026-11-16T16:18:46+00:00,
+865,941,31,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1187,90.3,,,out/ocr/941_p31.txt,2026-11-16T16:18:46+00:00,
+866,941,32,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",846,81.8,,,out/ocr/941_p32.txt,2026-11-16T16:18:46+00:00,
+867,941,33,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",360,86.8,,,out/ocr/941_p33.txt,2026-11-16T16:18:46+00:00,
+868,941,34,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1596,92.8,,,out/ocr/941_p34.txt,2026-11-16T16:18:46+00:00,
+869,941,35,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1674,90.5,,,out/ocr/941_p35.txt,2026-11-16T16:18:46+00:00,
+870,941,36,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1378,83.7,,,out/ocr/941_p36.txt,2026-11-16T16:18:46+00:00,
+871,941,37,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1361,91.6,,,out/ocr/941_p37.txt,2026-11-16T16:18:46+00:00,
+872,941,38,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1061,88.3,,,out/ocr/941_p38.txt,2026-11-16T16:18:46+00:00,
+873,941,39,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",547,93.2,,,out/ocr/941_p39.txt,2026-11-16T16:18:46+00:00,
+874,941,40,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1187,90.0,,,out/ocr/941_p40.txt,2026-11-16T16:18:46+00:00,
+875,941,41,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",655,83.5,,,out/ocr/941_p41.txt,2026-11-16T16:18:46+00:00,
+876,941,42,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",204,38.3,,,out/ocr/941_p42.txt,2026-11-16T16:18:46+00:00,
+877,951,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",436,93.7,,,out/ocr/951_p1.txt,2026-11-16T16:18:46+00:00,
+878,951,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1094,95.3,,,out/ocr/951_p2.txt,2026-11-16T16:18:46+00:00,
+879,951,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",954,95.9,,,out/ocr/951_p3.txt,2026-11-16T16:18:46+00:00,
+880,951,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1886,96.1,,,out/ocr/951_p4.txt,2026-11-16T16:18:46+00:00,
+881,951,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2049,96.3,,,out/ocr/951_p5.txt,2026-11-16T16:18:46+00:00,
+882,951,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1406,95.2,,,out/ocr/951_p6.txt,2026-11-16T16:18:46+00:00,
+883,951,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2263,96.4,,,out/ocr/951_p7.txt,2026-11-16T16:18:46+00:00,
+884,951,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1377,95.3,,,out/ocr/951_p8.txt,2026-11-16T16:18:46+00:00,
+885,951,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1168,95.1,,,out/ocr/951_p9.txt,2026-11-16T16:18:46+00:00,
+886,951,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",893,94.3,,,out/ocr/951_p10.txt,2026-11-16T16:18:46+00:00,
+887,951,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",631,96.0,,,out/ocr/951_p11.txt,2026-11-16T16:18:46+00:00,
+888,951,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",300,75.5,,,out/ocr/951_p12.txt,2026-11-16T16:18:46+00:00,
+889,951,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1827,89.5,,,out/ocr/951_p13.txt,2026-11-16T16:18:46+00:00,
+890,951,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1314,86.4,,,out/ocr/951_p14.txt,2026-11-16T16:18:46+00:00,
+891,951,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",275,87.4,,,out/ocr/951_p15.txt,2026-11-16T16:18:46+00:00,
+892,951,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1250,96.1,,,out/ocr/951_p16.txt,2026-11-16T16:18:46+00:00,
+893,951,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2034,93.6,,,out/ocr/951_p17.txt,2026-11-16T16:18:46+00:00,
+894,951,18,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1845,90.7,,,out/ocr/951_p18.txt,2026-11-16T16:18:46+00:00,
+895,951,19,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1348,89.8,,,out/ocr/951_p19.txt,2026-11-16T16:18:46+00:00,
+896,951,20,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1727,92.4,,,out/ocr/951_p20.txt,2026-11-16T16:18:46+00:00,
+897,951,21,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1427,94.2,,,out/ocr/951_p21.txt,2026-11-16T16:18:46+00:00,
+898,951,22,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1318,92.1,,,out/ocr/951_p22.txt,2026-11-16T16:18:46+00:00,
+899,951,23,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2153,94.7,,,out/ocr/951_p23.txt,2026-11-16T16:18:46+00:00,
+900,951,24,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1332,93.7,,,out/ocr/951_p24.txt,2026-11-16T16:18:46+00:00,
+901,955,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",406,92.5,,,out/ocr/955_p1.txt,2026-11-16T16:18:46+00:00,
+902,955,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1279,95.2,,,out/ocr/955_p2.txt,2026-11-16T16:18:46+00:00,
+903,955,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",999,95.2,,,out/ocr/955_p3.txt,2026-11-16T16:18:46+00:00,
+904,955,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1413,94.7,,,out/ocr/955_p4.txt,2026-11-16T16:18:46+00:00,
+905,955,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1393,95.6,,,out/ocr/955_p5.txt,2026-11-16T16:18:46+00:00,
+906,955,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1188,94.2,,,out/ocr/955_p6.txt,2026-11-16T16:18:46+00:00,
+907,955,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",979,95.6,,,out/ocr/955_p7.txt,2026-11-16T16:18:46+00:00,
+908,955,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",727,96.2,,,out/ocr/955_p8.txt,2026-11-16T16:18:46+00:00,
+909,955,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",242,95.8,,,out/ocr/955_p9.txt,2026-11-16T16:18:46+00:00,
+910,955,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",788,92.7,,,out/ocr/955_p10.txt,2026-11-16T16:18:46+00:00,
+911,955,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1302,95.5,,,out/ocr/955_p11.txt,2026-11-16T16:18:46+00:00,
+912,955,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",536,84.1,,,out/ocr/955_p12.txt,2026-11-16T16:18:46+00:00,
+913,955,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1101,94.0,,,out/ocr/955_p13.txt,2026-11-16T16:18:46+00:00,
+914,955,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2165,95.1,,,out/ocr/955_p14.txt,2026-11-16T16:18:46+00:00,
+915,955,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1318,93.9,,,out/ocr/955_p15.txt,2026-11-16T16:18:46+00:00,
+916,955,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1839,95.3,,,out/ocr/955_p16.txt,2026-11-16T16:18:46+00:00,
+917,955,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",639,93.8,,,out/ocr/955_p17.txt,2026-11-16T16:18:46+00:00,
+918,957,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",587,90.3,,,out/ocr/957_p1.txt,2026-11-16T16:18:46+00:00,
+919,960,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1565,95.7,,,out/ocr/960_p1.txt,2026-11-16T16:18:46+00:00,
+920,960,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1165,94.7,,,out/ocr/960_p2.txt,2026-11-16T16:18:46+00:00,
+921,960,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1352,95.5,,,out/ocr/960_p3.txt,2026-11-16T16:18:46+00:00,
+922,960,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",184,96.2,,,out/ocr/960_p4.txt,2026-11-16T16:18:46+00:00,
+923,971,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",270,88.1,,,out/ocr/971_p1.txt,2026-11-16T16:18:46+00:00,
+924,977,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",358,93.5,,,out/ocr/977_p1.txt,2026-11-16T16:18:46+00:00,
+925,977,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",975,95.2,,,out/ocr/977_p2.txt,2026-11-16T16:18:46+00:00,
+926,977,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1977,95.3,,,out/ocr/977_p3.txt,2026-11-16T16:18:46+00:00,
+927,977,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1482,95.6,,,out/ocr/977_p4.txt,2026-11-16T16:18:46+00:00,
+928,977,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1067,94.4,,,out/ocr/977_p5.txt,2026-11-16T16:18:46+00:00,
+929,977,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1457,93.9,,,out/ocr/977_p6.txt,2026-11-16T16:18:46+00:00,
+930,977,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1362,92.9,,,out/ocr/977_p7.txt,2026-11-16T16:18:46+00:00,
+931,977,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1355,94.1,,,out/ocr/977_p8.txt,2026-11-16T16:18:46+00:00,
+932,977,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1391,95.1,,,out/ocr/977_p9.txt,2026-11-16T16:18:46+00:00,
+933,977,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",735,95.6,,,out/ocr/977_p10.txt,2026-11-16T16:18:46+00:00,
+934,977,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",308,85.5,,,out/ocr/977_p11.txt,2026-11-16T16:18:46+00:00,
+935,977,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1864,87.5,,,out/ocr/977_p12.txt,2026-11-16T16:18:46+00:00,
+936,977,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1422,79.4,,,out/ocr/977_p13.txt,2026-11-16T16:18:46+00:00,
+937,977,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",234,96.1,,,out/ocr/977_p14.txt,2026-11-16T16:18:46+00:00,
+938,977,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",656,94.8,,,out/ocr/977_p15.txt,2026-11-16T16:18:46+00:00,
+939,982,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1464,65.6,,,out/ocr/982_p1.txt,2026-11-16T16:18:46+00:00,
+940,991,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",487,95.5,,,out/ocr/991_p1.txt,2026-11-16T16:18:46+00:00,
+941,991,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",879,96.0,,,out/ocr/991_p2.txt,2026-11-16T16:18:46+00:00,
+942,991,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1325,95.0,,,out/ocr/991_p3.txt,2026-11-16T16:18:46+00:00,
+943,991,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",991,94.8,,,out/ocr/991_p4.txt,2026-11-16T16:18:46+00:00,
+944,991,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",703,95.9,,,out/ocr/991_p5.txt,2026-11-16T16:18:46+00:00,
+945,991,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",591,96.0,,,out/ocr/991_p6.txt,2026-11-16T16:18:46+00:00,
+946,991,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1392,94.7,,,out/ocr/991_p7.txt,2026-11-16T16:18:46+00:00,
+947,991,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1087,93.4,,,out/ocr/991_p8.txt,2026-11-16T16:18:46+00:00,
+948,991,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1737,96.5,,,out/ocr/991_p9.txt,2026-11-16T16:18:46+00:00,
+949,991,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1718,95.3,,,out/ocr/991_p10.txt,2026-11-16T16:18:46+00:00,
+950,991,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1470,95.6,,,out/ocr/991_p11.txt,2026-11-16T16:18:46+00:00,
+951,991,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",314,95.5,,,out/ocr/991_p12.txt,2026-11-16T16:18:46+00:00,
+952,991,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",257,91.9,,,out/ocr/991_p13.txt,2026-11-16T16:18:46+00:00,
+953,991,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1424,86.5,,,out/ocr/991_p14.txt,2026-11-16T16:18:46+00:00,
+954,991,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",543,72.7,,,out/ocr/991_p15.txt,2026-11-16T16:18:46+00:00,
+955,1074,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1552,67.5,,,out/ocr/1074_p1.txt,2026-11-16T16:18:46+00:00,
+956,1077,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",366,92.0,,,out/ocr/1077_p1.txt,2026-11-16T16:18:46+00:00,
+957,1077,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1053,94.8,,,out/ocr/1077_p2.txt,2026-11-16T16:18:46+00:00,
+958,1077,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1046,92.6,,,out/ocr/1077_p3.txt,2026-11-16T16:18:46+00:00,
+959,1077,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",229,94.8,,,out/ocr/1077_p4.txt,2026-11-16T16:18:46+00:00,
+960,1077,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2111,95.6,,,out/ocr/1077_p5.txt,2026-11-16T16:18:46+00:00,
+961,1077,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1260,94.7,,,out/ocr/1077_p6.txt,2026-11-16T16:18:46+00:00,
+962,1077,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1149,94.2,,,out/ocr/1077_p7.txt,2026-11-16T16:18:46+00:00,
+963,1077,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",532,94.2,,,out/ocr/1077_p8.txt,2026-11-16T16:18:46+00:00,
+964,1077,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",479,93.5,,,out/ocr/1077_p9.txt,2026-11-16T16:18:46+00:00,
+965,1077,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",2172,95.1,,,out/ocr/1077_p10.txt,2026-11-16T16:18:46+00:00,
+966,1077,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",692,96.3,,,out/ocr/1077_p11.txt,2026-11-16T16:18:46+00:00,
+967,1077,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1411,95.7,,,out/ocr/1077_p12.txt,2026-11-16T16:18:46+00:00,
+968,1077,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1055,95.1,,,out/ocr/1077_p13.txt,2026-11-16T16:18:46+00:00,
+969,1077,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",270,95.5,,,out/ocr/1077_p14.txt,2026-11-16T16:18:46+00:00,
+970,1077,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1288,95.6,,,out/ocr/1077_p15.txt,2026-11-16T16:18:46+00:00,
+971,1077,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",995,94.4,,,out/ocr/1077_p16.txt,2026-11-16T16:18:46+00:00,
+972,1077,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",239,94.8,,,out/ocr/1077_p17.txt,2026-11-16T16:18:46+00:00,
+973,1077,18,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1306,96.0,,,out/ocr/1077_p18.txt,2026-11-16T16:18:46+00:00,
+974,1077,19,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",592,94.6,,,out/ocr/1077_p19.txt,2026-11-16T16:18:46+00:00,
+975,1077,20,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",268,95.3,,,out/ocr/1077_p20.txt,2026-11-16T16:18:46+00:00,
+976,1110,1,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1365,94.2,,,out/ocr/1110_p1.txt,2026-11-16T16:18:46+00:00,
+977,1110,2,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1497,91.8,,,out/ocr/1110_p2.txt,2026-11-16T16:18:46+00:00,
+978,1110,3,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1511,94.7,,,out/ocr/1110_p3.txt,2026-11-16T16:18:46+00:00,
+979,1110,4,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1797,93.9,,,out/ocr/1110_p4.txt,2026-11-16T16:18:46+00:00,
+980,1110,5,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1647,94.6,,,out/ocr/1110_p5.txt,2026-11-16T16:18:46+00:00,
+981,1110,6,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1621,94.3,,,out/ocr/1110_p6.txt,2026-11-16T16:18:46+00:00,
+982,1110,7,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1598,95.6,,,out/ocr/1110_p7.txt,2026-11-16T16:18:46+00:00,
+983,1110,8,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1679,93.5,,,out/ocr/1110_p8.txt,2026-11-16T16:18:46+00:00,
+984,1110,9,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1556,94.7,,,out/ocr/1110_p9.txt,2026-11-16T16:18:46+00:00,
+985,1110,10,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1750,94.9,,,out/ocr/1110_p10.txt,2026-11-16T16:18:46+00:00,
+986,1110,11,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1564,94.1,,,out/ocr/1110_p11.txt,2026-11-16T16:18:46+00:00,
+987,1110,12,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1391,95.3,,,out/ocr/1110_p12.txt,2026-11-16T16:18:46+00:00,
+988,1110,13,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1673,92.4,,,out/ocr/1110_p13.txt,2026-11-16T16:18:46+00:00,
+989,1110,14,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1924,90.7,,,out/ocr/1110_p14.txt,2026-11-16T16:18:46+00:00,
+990,1110,15,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",235,93.6,,,out/ocr/1110_p15.txt,2026-11-16T16:18:46+00:00,
+991,1110,16,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1351,94.5,,,out/ocr/1110_p16.txt,2026-11-16T16:18:46+00:00,
+992,1110,17,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1404,92.2,,,out/ocr/1110_p17.txt,2026-11-16T16:18:46+00:00,
+993,1110,18,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1645,94.8,,,out/ocr/1110_p18.txt,2026-11-16T16:18:46+00:00,
+994,1110,19,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1539,95.0,,,out/ocr/1110_p19.txt,2026-11-16T16:18:46+00:00,
+995,1110,20,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",950,87.6,,,out/ocr/1110_p20.txt,2026-11-16T16:18:46+00:00,
+996,1110,21,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1313,94.5,,,out/ocr/1110_p21.txt,2026-11-16T16:18:46+00:00,
+997,1110,22,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1506,91.6,,,out/ocr/1110_p22.txt,2026-11-16T16:18:46+00:00,
+998,1110,23,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1665,94.8,,,out/ocr/1110_p23.txt,2026-11-16T16:18:46+00:00,
+999,1110,24,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1406,90.0,,,out/ocr/1110_p24.txt,2026-11-16T16:18:46+00:00,
+1000,1110,25,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",615,91.4,,,out/ocr/1110_p25.txt,2026-11-16T16:18:46+00:00,
+1001,1110,26,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1016,94.5,,,out/ocr/1110_p26.txt,2026-11-16T16:18:46+00:00,
+1002,1110,27,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",938,93.1,,,out/ocr/1110_p27.txt,2026-11-16T16:18:46+00:00,
+1003,1110,28,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",395,88.3,,,out/ocr/1110_p28.txt,2026-11-16T16:18:46+00:00,
+1004,1110,29,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1744,94.8,,,out/ocr/1110_p29.txt,2026-11-16T16:18:46+00:00,
+1005,1110,30,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",1738,94.0,,,out/ocr/1110_p30.txt,2026-11-16T16:18:46+00:00,
+1006,1110,31,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",503,91.0,,,out/ocr/1110_p31.txt,2026-11-16T16:18:46+00:00,
+1007,1110,32,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",934,91.4,,,out/ocr/1110_p32.txt,2026-11-16T16:18:46+00:00,
+1008,1110,33,tesseract-300ppi-psm3,"tesseract 5.3.4 (eng, LSTM)",526,83.1,,,out/ocr/1110_p33.txt,2026-11-16T16:18:46+00:00,
+1009,20,1,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0012,0.0026,out/bench_text/20_p1_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1010,20,1,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0008,0.0051,out/bench_text/20_p1_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1011,20,4,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0022,0.0056,out/bench_text/20_p4_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0037
+1012,20,4,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0018,0.0056,out/bench_text/20_p4_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0056
+1013,31,51,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0959,0.0058,out/bench_text/31_p51_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1014,31,51,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0959,0.0058,out/bench_text/31_p51_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1015,31,95,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.5275,0.0351,out/bench_text/31_p95_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.3026
+1016,31,95,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.5102,0.0351,out/bench_text/31_p95_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.3509
+1017,31,125,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.1145,0.0018,out/bench_text/31_p125_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1018,31,125,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.1145,0.0018,out/bench_text/31_p125_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1019,31,138,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.1646,0.0061,out/bench_text/31_p138_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.003
+1020,31,138,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.1649,0.0091,out/bench_text/31_p138_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0046
+1021,31,140,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.4992,0.0133,out/bench_text/31_p140_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0033
+1022,31,140,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.4867,0.0083,out/bench_text/31_p140_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0033
+1023,31,194,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0891,0.0103,out/bench_text/31_p194_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0052
+1024,31,194,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.088,0.0,out/bench_text/31_p194_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1025,43,39,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.8571,0.0,out/bench_text/43_p39_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.675
+1026,43,39,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.4694,0.025,out/bench_text/43_p39_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.35
+1027,43,54,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.4624,0.0055,out/bench_text/43_p54_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0055
+1028,43,54,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.4624,0.0,out/bench_text/43_p54_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1029,53,1,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.4971,0.0837,out/bench_text/53_p1_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0239
+1030,53,1,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.4976,0.0956,out/bench_text/53_p1_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0279
+1031,434,3,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0317,0.0,out/bench_text/434_p3_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1032,434,3,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0317,0.0,out/bench_text/434_p3_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1033,538,6,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0211,0.0,out/bench_text/538_p6_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1034,538,6,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0219,0.0,out/bench_text/538_p6_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1035,542,9,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0,0.0,out/bench_text/542_p9_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1036,542,9,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0,0.0,out/bench_text/542_p9_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1037,542,14,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0,0.0,out/bench_text/542_p14_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1038,542,14,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0,0.0,out/bench_text/542_p14_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1039,573,3,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.221,0.0,out/bench_text/573_p3_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1040,573,3,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.221,0.0,out/bench_text/573_p3_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1041,585,1,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0,0.0,out/bench_text/585_p1_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1042,585,1,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0,0.0,out/bench_text/585_p1_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1043,607,3,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.1034,0.0,out/bench_text/607_p3_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1044,607,3,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.1034,0.0,out/bench_text/607_p3_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1045,610,2,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.1237,0.0066,out/bench_text/610_p2_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1046,610,2,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.1232,0.0033,out/bench_text/610_p2_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0033
+1047,687,9,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0165,0.0272,out/bench_text/687_p9_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1048,687,9,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0165,0.0272,out/bench_text/687_p9_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1049,729,2,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.3264,0.0,out/bench_text/729_p2_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1050,729,2,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.3255,0.0065,out/bench_text/729_p2_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0065
+1051,729,4,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0393,0.0,out/bench_text/729_p4_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1052,729,4,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0399,0.0034,out/bench_text/729_p4_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1053,763,6,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.1538,0.005,out/bench_text/763_p6_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.005
+1054,763,6,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.1531,0.0,out/bench_text/763_p6_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1055,771,1,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.001,0.0,out/bench_text/771_p1_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1056,771,1,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0,0.0,out/bench_text/771_p1_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1057,771,4,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0,0.0,out/bench_text/771_p4_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1058,771,4,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0,0.0,out/bench_text/771_p4_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1059,822,5,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0455,0.0,out/bench_text/822_p5_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1060,822,5,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0455,0.0,out/bench_text/822_p5_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1061,827,6,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0,0.0,out/bench_text/827_p6_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1062,827,6,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0,0.0,out/bench_text/827_p6_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1063,832,1,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0374,0.0,out/bench_text/832_p1_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1064,832,1,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0363,0.0,out/bench_text/832_p1_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1065,884,3,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0503,0.0146,out/bench_text/884_p3_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0292
+1066,884,3,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0486,0.0,out/bench_text/884_p3_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1067,885,5,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0588,0.073,out/bench_text/885_p5_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.063
+1068,885,5,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0588,0.073,out/bench_text/885_p5_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.063
+1069,913,4,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.029,0.0041,out/bench_text/913_p4_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0082
+1070,913,4,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.029,0.0041,out/bench_text/913_p4_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1071,953,1,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0468,0.0036,out/bench_text/953_p1_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0036
+1072,953,1,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0456,0.0036,out/bench_text/953_p1_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0036
+1073,961,3,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0419,0.003,out/bench_text/961_p3_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.003
+1074,961,3,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0443,0.003,out/bench_text/961_p3_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.003
+1075,1026,5,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.1125,0.0,out/bench_text/1026_p5_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1076,1026,5,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.1183,0.0,out/bench_text/1026_p5_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1077,1051,4,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0541,0.0236,out/bench_text/1051_p4_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0034
+1078,1051,4,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0541,0.0236,out/bench_text/1051_p4_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0034
+1079,1059,7,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0482,0.0,out/bench_text/1059_p7_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1080,1059,7,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0482,0.0,out/bench_text/1059_p7_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1081,1075,2,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.2914,0.0,out/bench_text/1075_p2_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1082,1075,2,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.2945,0.0059,out/bench_text/1075_p2_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0059
+1083,1083,2,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.3196,0.0054,out/bench_text/1083_p2_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1084,1083,2,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.3435,0.0109,out/bench_text/1083_p2_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0109
+1085,1139,1,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0,0.0,out/bench_text/1139_p1_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1086,1139,1,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0009,0.0058,out/bench_text/1139_p1_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0058
+1087,1151,1,tesseract-300ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0507,0.0133,out/bench_text/1151_p1_tess300.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1088,1151,1,tesseract-200ppi-psm3 vs layer,"tesseract 5.3.4 (eng, LSTM)",,,0.0485,0.0133,out/bench_text/1151_p1_tess200.txt,2026-11-16T16:18:46+00:00,benchmark; extra-word rate 0.0
+1089,3,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0205,out/layer_audit_text/3_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0205, digits layer/ocr=6/6, flag=False"
+1090,11,2,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0089,out/layer_audit_text/11_p2_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0089, digits layer/ocr=7/6, flag=False"
+1091,20,6,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/20_p6_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=11/11, flag=False"
+1092,23,4,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0031,out/layer_audit_text/23_p4_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0031, digits layer/ocr=17/17, flag=False"
+1093,31,93,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/31_p93_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1094,43,33,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0118,out/layer_audit_text/43_p33_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0118, digits layer/ocr=13/12, flag=False"
+1095,47,43,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0064,out/layer_audit_text/47_p43_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0064, digits layer/ocr=11/11, flag=False"
+1096,53,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0254,out/layer_audit_text/53_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0254, digits layer/ocr=10/10, flag=False"
+1097,59,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/59_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=14/14, flag=False"
+1098,67,2,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0037,out/layer_audit_text/67_p2_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0037, digits layer/ocr=15/15, flag=False"
+1099,73,3,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0065,out/layer_audit_text/73_p3_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0065, digits layer/ocr=6/5, flag=False"
+1100,225,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0051,out/layer_audit_text/225_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0051, digits layer/ocr=16/15, flag=False"
+1101,268,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0057,out/layer_audit_text/268_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0057, digits layer/ocr=55/46, flag=False"
+1102,332,5,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.013,out/layer_audit_text/332_p5_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.013, digits layer/ocr=12/13, flag=False"
+1103,342,2,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0063,out/layer_audit_text/342_p2_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0063, digits layer/ocr=27/26, flag=False"
+1104,359,10,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0023,out/layer_audit_text/359_p10_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0023, digits layer/ocr=11/11, flag=False"
+1105,391,3,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/391_p3_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=9/9, flag=False"
+1106,406,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/406_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=13/13, flag=False"
+1107,407,5,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/407_p5_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=15/15, flag=False"
+1108,420,3,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/420_p3_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=19/19, flag=False"
+1109,434,5,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/434_p5_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=6/5, flag=False"
+1110,451,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/451_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=9/9, flag=False"
+1111,473,3,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0186,out/layer_audit_text/473_p3_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0186, digits layer/ocr=38/37, flag=False"
+1112,477,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/477_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=24/23, flag=False"
+1113,489,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/489_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=12/12, flag=False"
+1114,492,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/492_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=8/8, flag=False"
+1115,493,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/493_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=21/21, flag=False"
+1116,496,4,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0057,out/layer_audit_text/496_p4_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0057, digits layer/ocr=22/23, flag=False"
+1117,511,3,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/511_p3_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1118,518,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/518_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=13/13, flag=False"
+1119,521,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/521_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1120,524,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/524_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=6/6, flag=False"
+1121,526,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/526_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=10/10, flag=False"
+1122,527,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/527_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=6/6, flag=False"
+1123,528,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/528_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=7/7, flag=False"
+1124,529,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/529_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=7/7, flag=False"
+1125,530,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/530_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=8/8, flag=False"
+1126,532,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/532_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=6/6, flag=False"
+1127,534,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/534_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=6/6, flag=False"
+1128,538,3,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/538_p3_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=23/23, flag=False"
+1129,542,13,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0052,out/layer_audit_text/542_p13_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0052, digits layer/ocr=6/6, flag=False"
+1130,543,3,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/543_p3_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=19/19, flag=False"
+1131,544,4,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/544_p4_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=16/16, flag=False"
+1132,547,12,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/547_p12_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=20/20, flag=False"
+1133,551,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/551_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1134,557,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/557_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1135,558,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/558_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1136,559,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/559_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1137,563,5,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/563_p5_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=16/16, flag=False"
+1138,568,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/568_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1139,573,2,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0019,out/layer_audit_text/573_p2_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0019, digits layer/ocr=9/9, flag=False"
+1140,578,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/578_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=9/9, flag=False"
+1141,579,2,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/579_p2_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=18/18, flag=False"
+1142,584,4,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/584_p4_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=20/20, flag=False"
+1143,585,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/585_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1144,588,4,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0123,out/layer_audit_text/588_p4_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0123, digits layer/ocr=15/16, flag=False"
+1145,594,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/594_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1146,596,2,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/596_p2_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=55/54, flag=False"
+1147,597,5,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/597_p5_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=7/7, flag=False"
+1148,607,3,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/607_p3_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=29/29, flag=False"
+1149,610,3,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0046,out/layer_audit_text/610_p3_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0046, digits layer/ocr=16/16, flag=False"
+1150,613,6,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/613_p6_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=16/16, flag=False"
+1151,616,4,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/616_p4_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=15/15, flag=False"
+1152,617,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/617_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1153,618,4,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/618_p4_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=46/46, flag=False"
+1154,634,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/634_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=10/10, flag=False"
+1155,636,7,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0049,out/layer_audit_text/636_p7_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0049, digits layer/ocr=11/11, flag=False"
+1156,646,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/646_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=14/14, flag=False"
+1157,647,2,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/647_p2_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=8/8, flag=False"
+1158,648,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/648_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1159,651,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/651_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1160,660,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/660_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=6/6, flag=False"
+1161,662,4,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/662_p4_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=13/13, flag=False"
+1162,663,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/663_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=9/9, flag=False"
+1163,664,8,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/664_p8_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=21/21, flag=False"
+1164,665,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/665_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1165,666,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/666_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=17/17, flag=False"
+1166,667,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/667_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=14/14, flag=False"
+1167,669,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/669_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1168,670,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/670_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=9/9, flag=False"
+1169,671,3,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0047,out/layer_audit_text/671_p3_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0047, digits layer/ocr=14/14, flag=False"
+1170,678,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/678_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=9/9, flag=False"
+1171,687,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/687_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=11/11, flag=False"
+1172,690,2,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/690_p2_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=29/28, flag=False"
+1173,691,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/691_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=14/14, flag=False"
+1174,693,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/693_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1175,700,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/700_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1176,703,3,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/703_p3_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=21/21, flag=False"
+1177,704,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/704_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1178,706,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/706_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=10/10, flag=False"
+1179,714,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/714_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=34/33, flag=False"
+1180,716,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/716_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=12/12, flag=False"
+1181,718,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/718_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=12/12, flag=False"
+1182,727,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/727_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=9/9, flag=False"
+1183,729,4,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/729_p4_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=29/29, flag=False"
+1184,735,12,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0105,out/layer_audit_text/735_p12_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0105, digits layer/ocr=16/17, flag=False"
+1185,739,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/739_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=6/6, flag=False"
+1186,740,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/740_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=9/9, flag=False"
+1187,741,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/741_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=8/8, flag=False"
+1188,745,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/745_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=16/16, flag=False"
+1189,749,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/749_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=7/7, flag=False"
+1190,751,2,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/751_p2_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=15/15, flag=False"
+1191,752,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/752_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1192,756,5,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/756_p5_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=8/8, flag=False"
+1193,762,4,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/762_p4_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=17/17, flag=False"
+1194,763,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/763_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=23/23, flag=False"
+1195,764,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/764_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1196,766,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/766_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1197,769,2,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/769_p2_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=27/27, flag=False"
+1198,771,5,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/771_p5_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=6/5, flag=False"
+1199,781,4,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/781_p4_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=6/5, flag=False"
+1200,784,6,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/784_p6_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=7/7, flag=False"
+1201,786,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/786_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1202,787,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/787_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=14/13, flag=False"
+1203,791,3,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/791_p3_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=9/9, flag=False"
+1204,795,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/795_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1205,806,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/806_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=6/6, flag=False"
+1206,808,3,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0365,out/layer_audit_text/808_p3_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0365, digits layer/ocr=20/20, flag=False"
+1207,815,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/815_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=8/8, flag=False"
+1208,822,6,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/822_p6_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=19/19, flag=False"
+1209,824,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/824_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=9/9, flag=False"
+1210,827,5,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0034,out/layer_audit_text/827_p5_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0034, digits layer/ocr=29/29, flag=False"
+1211,829,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/829_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=7/7, flag=False"
+1212,832,4,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0446,out/layer_audit_text/832_p4_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0446, digits layer/ocr=16/16, flag=False"
+1213,842,7,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/842_p7_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=11/11, flag=False"
+1214,849,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0028,out/layer_audit_text/849_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0028, digits layer/ocr=11/11, flag=False"
+1215,853,6,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/853_p6_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=18/18, flag=False"
+1216,857,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/857_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1217,863,9,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0101,out/layer_audit_text/863_p9_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0101, digits layer/ocr=4/4, flag=False"
+1218,871,3,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0208,out/layer_audit_text/871_p3_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0208, digits layer/ocr=9/9, flag=False"
+1219,873,3,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0031,out/layer_audit_text/873_p3_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0031, digits layer/ocr=11/11, flag=False"
+1220,874,3,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/874_p3_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=22/22, flag=False"
+1221,875,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/875_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=14/13, flag=False"
+1222,877,5,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/877_p5_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=17/17, flag=False"
+1223,880,2,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0048,out/layer_audit_text/880_p2_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0048, digits layer/ocr=22/22, flag=False"
+1224,884,4,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0312,out/layer_audit_text/884_p4_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0312, digits layer/ocr=21/21, flag=False"
+1225,885,16,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.1488,out/layer_audit_text/885_p16_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.1488, digits layer/ocr=0/26, flag=True"
+1226,889,17,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.4634,out/layer_audit_text/889_p17_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.4634, digits layer/ocr=9/17, flag=True"
+1227,892,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/892_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=10/10, flag=False"
+1228,895,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/895_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=4/4, flag=False"
+1229,896,5,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/896_p5_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=28/27, flag=False"
+1230,898,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/898_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=8/8, flag=False"
+1231,903,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/903_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=6/6, flag=False"
+1232,910,2,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/910_p2_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=28/27, flag=False"
+1233,912,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/912_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=9/9, flag=False"
+1234,913,8,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0035,out/layer_audit_text/913_p8_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0035, digits layer/ocr=8/8, flag=False"
+1235,916,2,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0188,out/layer_audit_text/916_p2_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0188, digits layer/ocr=22/15, flag=False"
+1236,918,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/918_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=9/9, flag=False"
+1237,921,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/921_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1238,927,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/927_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=6/6, flag=False"
+1239,929,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0154,out/layer_audit_text/929_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0154, digits layer/ocr=5/5, flag=False"
+1240,930,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/930_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=15/15, flag=False"
+1241,953,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0036,out/layer_audit_text/953_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0036, digits layer/ocr=14/14, flag=False"
+1242,954,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/954_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1243,959,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/959_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=11/11, flag=False"
+1244,961,3,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.003,out/layer_audit_text/961_p3_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.003, digits layer/ocr=10/10, flag=False"
+1245,976,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0099,out/layer_audit_text/976_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0099, digits layer/ocr=8/8, flag=False"
+1246,978,8,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/978_p8_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=12/12, flag=False"
+1247,981,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/981_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=27/21, flag=False"
+1248,984,3,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/984_p3_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1249,985,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0233,out/layer_audit_text/985_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0233, digits layer/ocr=15/15, flag=False"
+1250,990,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.025,out/layer_audit_text/990_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.025, digits layer/ocr=19/17, flag=False"
+1251,1001,3,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1001_p3_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=25/25, flag=False"
+1252,1012,6,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1012_p6_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=7/7, flag=False"
+1253,1015,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1015_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=7/7, flag=False"
+1254,1017,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1017_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1255,1020,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0047,out/layer_audit_text/1020_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0047, digits layer/ocr=8/7, flag=False"
+1256,1022,2,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1022_p2_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=12/12, flag=False"
+1257,1026,2,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1026_p2_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=27/26, flag=False"
+1258,1040,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1040_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=10/10, flag=False"
+1259,1044,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1044_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=3/3, flag=False"
+1260,1051,6,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0265,out/layer_audit_text/1051_p6_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0265, digits layer/ocr=12/12, flag=False"
+1261,1058,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1058_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=9/9, flag=False"
+1262,1059,2,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0057,out/layer_audit_text/1059_p2_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0057, digits layer/ocr=21/21, flag=False"
+1263,1060,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0046,out/layer_audit_text/1060_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0046, digits layer/ocr=7/7, flag=False"
+1264,1072,4,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1072_p4_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=10/10, flag=False"
+1265,1075,2,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1075_p2_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=28/28, flag=False"
+1266,1078,2,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0224,out/layer_audit_text/1078_p2_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0224, digits layer/ocr=29/29, flag=False"
+1267,1079,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0544,out/layer_audit_text/1079_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0544, digits layer/ocr=29/30, flag=True"
+1268,1081,3,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1081_p3_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=5/5, flag=False"
+1269,1082,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1082_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=3/3, flag=False"
+1270,1083,2,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1083_p2_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=29/28, flag=False"
+1271,1085,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1085_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=13/12, flag=False"
+1272,1087,2,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0024,out/layer_audit_text/1087_p2_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0024, digits layer/ocr=25/24, flag=False"
+1273,1088,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0079,out/layer_audit_text/1088_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0079, digits layer/ocr=10/10, flag=False"
+1274,1094,2,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1094_p2_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=17/17, flag=False"
+1275,1103,3,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1103_p3_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=46/46, flag=False"
+1276,1118,3,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1118_p3_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=18/18, flag=False"
+1277,1119,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1119_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=6/6, flag=False"
+1278,1120,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1120_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=7/7, flag=False"
+1279,1139,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1139_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=7/7, flag=False"
+1280,1140,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1140_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=7/7, flag=False"
+1281,1143,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0326,out/layer_audit_text/1143_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0326, digits layer/ocr=17/17, flag=False"
+1282,1145,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1145_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=17/17, flag=False"
+1283,1146,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0036,out/layer_audit_text/1146_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0036, digits layer/ocr=16/16, flag=False"
+1284,1147,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1147_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=14/14, flag=False"
+1285,1150,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1150_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=36/35, flag=False"
+1286,1151,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1151_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=15/14, flag=False"
+1287,1158,2,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1158_p2_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=1/1, flag=False"
+1288,1161,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0,out/layer_audit_text/1161_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0, digits layer/ocr=14/14, flag=False"
+1289,1163,1,pdftotext layer vs tesseract-300ppi,"poppler 24.02 pdftotext + tesseract 5.3.4 (eng, LSTM)",,,,0.0761,out/layer_audit_text/1163_p1_layer.txt,2026-11-16T16:18:46+00:00,"layer audit; OCR words missing from layer=0.0761, digits layer/ocr=21/24, flag=True"
+1290,190,21,tesseract-300ppi-psm1 (auto-rotate),"tesseract 5.3.4 (eng, LSTM)",,81.2,,,verify/s3/tess190_p21_psm1.txt,2026-11-16T16:18:46+00:00,"same page psm3 = 53.6 conf, unreadable text; psm1 readable but digit errors in amounts and dates"
+1291,190,21,LLM vision transcription,"claude-opus-5-5 via page image (150 ppi, rotated)",,,,,verify/s3/llm190_p21.md,2026-11-16T16:18:46+00:00,top half of page; table structure and all figures captured; verified in Step 4
+1292,982,1,LLM vision transcription,claude-opus-5-5 via page image (130 ppi),,,,,verify/s3/llm982_p1.md,2026-11-16T16:18:46+00:00,captures colour-coded dates and B-week street column that Tesseract dropped; verified in Step 4

@@ -1,0 +1,32 @@
+an urban area, the average rate increases to 3.38 C/MVM. The average crash rate for four-lane
+undivided highways ranges from 2.66 C/MVM to 5.08 C/MVM, depending on whether the
+highway is in a rural or urban area. There are also other highway types in the study area,
+including three-lane and five-lane cross sections and some highways with partial access control.
+These highway types generally have lower crash rates than two-lane undivided rural highways
+and four-lane undivided highways. However, for planning purposes the two basic statewide
+rates provided in Table 15 should be sufficient for estimating the order of magnitude of the
+safety benefit of the new highway.
+
+Table 15: New York State Average Crash Rates by Highway Type
+
+re Access Urban Rural
+Facility Type | Controt_| (C/MVM) | (C/MVM) Notes
+> Lane Applies to majority of the Route 11
+Undivi Free 3.38 2.68 and SR 37 corridors, as well as most
+ndivided
+other study area roadways
+4 Lane Free 5.08 . Limited to a few segments in towns or
+Undivided . villages
+4 Lane Divided Full - 1.01 Applies to the new freeway facility
+
+In the No-Build scenario, the majority of the traffic travels on highways that have an average
+crash rate of 2.68 C/MVM. In population centers, the crash rates tend to be higher if it is
+assumed that the urban crash rates apply. The proposed alignment as a four-lane divided
+highway would have a significantly lower crash rate than any of the existing highway types in
+the Route 11 corridor. Therefore, in the Build scenario, when a portion of the traffic is shifted to
+this new highway type, the overall number of crashes is expected to decrease. Based on
+generalized estimates of traffic volumes on each roadway type, it is estimated that the annual
+number of crashes could be reduced by approximately 15 percent.
+
+36
+

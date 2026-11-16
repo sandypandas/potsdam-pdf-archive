@@ -1,0 +1,54 @@
+IV. FUTURE TRAFFIC AND SAFETY ASSESSMENTS
+
+The future year traffic analysis includes three major elements: Traffic Forecasts; Traffic
+Operations, and Traffic Safety. For each, the No-Build and Build conditions are compared for
+2034 (estimated time of completion [ETC]) and 2064 (ETC+30 years). The No-Build scenario
+assumes no significant corridor level improvements are made over the planning horizon, while
+the Build scenario assumes the construction of a new four-lane divided freeway facility. The
+interchanges for the Build scenario are presented in Table 12.
+
+Table 12: Proposed Alignment Interchanges
+
+Interchange Number __| Location
+
+1 _ Watertown — I-781
+2 Philadelphia — SR 26
+3 Gouverneur — SR 58
+4 De Kalb — SR 812
+5 Canton — SR 68
+6 West of Potsdam — CR 35
+7 East of Potsdam — SR 56
+8 Massena — SR 420
+9 Moira — SR 95
+_10 West of Malone ~— SR 37
+11 East of Malone — Route 11
+12 Ellenburg — SR 190 (Military Turnpike)
+13 Plattsburgh/Champlain — I-87
+
+The traffic forecasts were completed using a spreadsheet-based model and diversion estimates
+for parallel routes. The operational evaluation compares high-level operational characteristics,
+including an estimate of annual travel time saved for all vehicles and heavy vehicles only. The
+safety assessment compares the safety characteristics of the two scenarios based on roadway type
+
+and vehicle exposure (vehicle miles traveled).
+A. Traffic Projections
+
+Figure 9 shows a possible conceptual alignment for a new Watertown to Plattsburgh freeway
+with potential interchange locations as listed in Table 12. The figure also highlights a number of
+origin-destination points across the North Country that would be served by this new facility.
+
+The traffic volumes along the corridors that run parallel to the new highway were examined. For
+each general section, a cut line was established between the two sequential origin-destination
+points. This cut line was placed where the traffic volume was lowest so as to estimate the
+maximum through flow between the two points. Traffic along the proposed alignment includes
+diverted traffic from intermediate roads and developments in addition to traffic diverted from
+Route 11. As shown in Figures 10 and 11, these cut lines were established both along the
+
+Route 11 corridor and along the SR 37 corridor.
+
+26
+
+J
+
+ed
+

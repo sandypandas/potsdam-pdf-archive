@@ -1,0 +1,9 @@
+Payable Register
+Packet: APPKT01661 - Audit 12/20/21
+Payable Summary
+Type Count Gross Tax Shipping Discount Total Manual Payment Balance
+Credit Memo 3 -176.29 0.00 0.00 0.00 -176.29 0.00 -176.29
+Invoice 146 205,747.77 0.00 0.00 0.00 205,747.77 0.00 205,747.77
+Grand Total: 205,571.48 0.00 0.00 0.00 205,571.48 0.00 205,571.48
+12/15/2021 11:41:12 AM
+Page 68 of 70

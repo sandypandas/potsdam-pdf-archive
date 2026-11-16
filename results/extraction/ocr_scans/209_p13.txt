@@ -1,0 +1,36 @@
+Table 5: Route 11 Travel Time Per Mile
+
+Segment No. Route 11 Rural Segment Mle (aie/iniy r
+1 Route 342 to Philadelphia 1.0
+2 Philadelphia to Antwerp 1.0
+3 Antwerp to Somerville 1.0
+4 Somerville to Gouverneur 1.0
+5 Gouverneur to De Kalb County Line 1.7
+6 De Kalb County Line to Route 15 1.0
+7 Route 15 to Canton 1.0
+8 Canton to Potsdam 1.3
+9 Potsdam to Sanfordville 1.7
+10 Sandfordville to Stockholm Center 1.0
+
+1] Stockholm Center to Lawrenceville 1.0
+12 Lawrenceville to Moira 1.0
+13 Moira to Brushton 1.0
+14 Brushton to North Bangor 1.0
+15 North Bangor to Malone 1.0
+16 , Malone to Route 122 2.2
+17 Route 122 to Chateaugay 1.0
+18 Chateaugay to Clinton County Line 1.0
+19 Clinton County Line to Route 189 1.0
+20 Route 189 to Ellenburg Depot 1.0
+21 Ellenburg Depot to Champlain County Line 1.0
+22 Champlain County Line to Interstate 87 1.0
+23 Interstate 87 to Rouses Point 2.1
+
+The 2008 study conducted by Wilbur Smith Associates’ calculates travel time delay between
+major towns along the Route 11 corridor as the difference between free flow travel time and
+actual travel time from GPS data. As seen in Figure 2, a majority of the delays along Route 11
+are experienced in city, town, and village centers, including Watertown, Gouverneur, Canton,
+Potsdam, and Malone.
+
+Ibid.
+

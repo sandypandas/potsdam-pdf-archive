@@ -1,0 +1,11 @@
+Payable Register Packet: APPKT01559 - Audit 9/20/21
+
+Payable Summary
+
+Type Count Gross Tax Shipping Discount Total Manual Payment Balance
+credit memo nnn = — “AsLio . 300 - = _ a a . 500 sn “as1 10
+Invoice 148 249,805.42 0.00 0.00 0.00 249,805.42 0.00 249,805.42
+
+Grand Total: 249,654.32 0.00 0.00 0.00 249,654.32 0.00 249,654.32
+
+9/18/2021 1:37:01 PM Page 72 of 7S

@@ -1,0 +1,46 @@
+2. Do you know whether your critical facilities will be operational after a hazard event? No
+
+3. Is there enough data to determine which assets are subject to the greatest potential damages? Yes
+
+4. Is there enough data to determine whether significant elements of the community are vulnerable to potential hazards? Yes
+
+5. Is there enough data to determine whether certain areas of historic, environmental, political, or cultural significance are vulnerable
+to potential hazards? Yes
+
+6. Is there concern about a particular hazard because of its severity, repetitiveness, or likelihood of occurrence? Yes
+
+7. Is additional data needed to justify the expenditure of community or state funds for mitigation initiatives? No
+
+This table (Table 2) contains the total assessed value of structures and number of people in
+Potsdam and compares that to the same data categories within the floodplain. In terms of 2019
+USD, nearly $340 million worth of edifices in Potsdam are in danger, and 27% of Potsdam'’s
+structural value is within the hazard zone. Additionally, 4.6% of the population of Potsdam
+resides within the floodplain. Several assumptions were used to create this table. First, to verify
+the value of structures in Potsdam, the HP200 Climate Risk Assessment group spoke with
+village officials. To update the data, the group calculated what the current value of the structures
+would be in 2019 dollars instead of 2013 dollars based on changes in the Consumer Price Index
+(CPI). The second assumption made was that the number of people residing in the hazard area
+would not change dramatically as the population of Potsdam increases. Assuming this, the
+HP200 group updated the population of Potsdam, kept the number in the hazard area constant,
+and recalculated the increased value of structures. The old value for the percentage of people in
+the hazard area was 4.7%, so there is no statistical significance in a 0.1% change in population
+in the hazard area.
+
+Microbursts
+
+As defined by the US Department of Commerce & NOAA, “A microburst is a localized column of
+sinking air (downdraft) within a thunderstorm and is usually less than or equal to 2.5 miles in
+diameter. Microbursts can cause extensive damage at the surface, and in some instances, can
+be life-threatening. There are two primary types of microbursts: wet microbursts and dry
+microbursts. Wet microbursts are accompanied by significant precipitation and are common in
+the Southeast during the summer months.” By definition microbursts are hard to predict.
+
+Wind speeds are one of the major issues with Microburst storm events because maximum wind
+speeds can reach 100 MPH"®. The most recent well-noted microburst event in Potsdam
+occurred in 2012 when the town suffered devastating damages through the center of the village
+as can be seen in Figure 11. This storm caused major damage to local businesses. Optimally,
+as more data and information is collected on microburst events, predictions can be generated
+about when microbursts will happen in Upstate New York so that residents can plan accordingly
+for which times of the year they are at the highest risk.
+
+'S US Department of Commerce - NOAA

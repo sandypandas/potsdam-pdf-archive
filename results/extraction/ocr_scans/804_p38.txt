@@ -1,0 +1,20 @@
+Atmospheric Administration (NOAA). The first time phase (1995-2005) was chosen as a
+baseline set of data. This date range was chosen because the source used to collect data
+(NOAA) was not able to display data before 1995. A note has been made in Figure 12 that
+reflects the fact that wind storm data collection only began in 2001.
+
+The second data range analyzes the same weather events from 2006-2018. It contains the
+same content as the data in the first date range. This range of data was crucial in analyzing the
+trend in the data so that future projections could be obtained.
+
+Lastly, the third data set was a projection for what the estimated severity and frequency would
+be for the three major weather events analyzed. The methodology for calculating the cost and
+frequency of each event varied. These methodologies will be further analyzed in the projection
+section of the report. In order to make comparisons between time periods easier, all property
+damage values in the three date ranges have been adjusted to 2019 dollars. An inflation
+calculator'’ was used to determine these property damage values.
+
+"’ Staff, US Inflation Calculator. “US Inflation Calculator.” US Inflation Calculator, January 14, 2020.
+https://www.usinflationcalculator.com/.
+
+24

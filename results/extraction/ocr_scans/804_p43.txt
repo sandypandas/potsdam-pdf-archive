@@ -1,0 +1,44 @@
+of ‘98 looks like an outlier in this respect and it likely skews our data. Due to this being an
+extremely large difference in per event costs, an average cost of $2,669,899.29 was used for
+the 2019-2029 projection. We chose not to use a linear regression.
+
+For the flood events, a linear regression was the chosen method to project how many flood
+events would occur from 2019-2029. The calculations in Figure 12 show that 0.55 flood events
+per year happened during the first time period analyzed, and 0.62 flood events happened per
+year during the second time period. This yields an estimated annual flood event estimate of 0.69
+events per year from 2019-2029. Given that it is an eleven year period that is being analyzed,
+this 0.69 value will be multiplied by eleven to obtain 7.59. Based on the projections calculated,
+the expectation is that between seven and eight flood events will affect St. Lawrence County
+between 2019-2029. This is approximately an 11.3% increase compared to the date range of
+2006-2018. Linear regression was also used to estimate the total cost of the flood events. The
+per event cost of a flood event from 1995 to 2005 was $57,505, and the per event cost was
+$725,262 from 2006-2018. Based on the data obtained from 2006-2018, there is reason to
+believe that flooding will not only become more frequent, but also become more damaging and
+costly to those affected by it. For this reason, a per event cost of $1,393,018 was a reasonable
+cost estimation.
+
+Strong wind storms are defined by NOAA as having sustained winds over 30 knots
+(approximately 34.5 miles) per hour. In order to determine a future projection for wind storm
+events, the average estimated number of events per year from the two past time periods was
+taken. Numerically, the estimated 1.20 wind storms per year from 1995-2005 was averaged with
+the 1.08 wind storms per year from 2006-2018 for an average future projection of 1.14 wind
+storms per year from 2019-2029. Given that NOAA did not begin collecting data for strong wind
+storms until 2001, it was deemed that a linear regression for frequency was not the appropriate
+estimation method for this storm event. For this reason, an averaging technique was used to
+project future wind storm frequency.
+
+In regards to wind storm cost, a linear trend was the appropriate method to use given the data
+obtained from 1995-2018. From 1995-2005, the per event cost was $5,121, and $19,828 from
+2006-2018. Using linear regression, the model predicts that each strong wind storm will produce
+$34,535 in damages during the projected time frame.
+
+Conclusion
+
+Potsdam is at risk of multiple climate hazards caused by climate change. The most significant
+three hazards are flooding, ice storms, and microbursts. Past climate disasters have
+demonstrated how detrimental a climate event can be, such as the ice storm of ‘98 that left a
+lasting imprint on the people of Potsdam. Looking to the future, these climate hazards are
+increasing in strength and frequency making it imperative that the Town and Village of Potsdam
+be prepared.
+
+29

@@ -1,0 +1,253 @@
+Conceptual Cost Estimate for NCAI Mainline Alternative - INTERCHANGE
+
+item No. |
+
+[Units | Quantity] Unit Price |
+
+Item Cost |
+
+Remarks
+
+Description
+
+CLEARING AND GRUBBING
+
+201.06
+
+CLEARING AND GRUBBING
+
+1
+
+$18,000.00
+
+$18,000.00
+
+‘Assuming limits are 3 times as wide as regular
+section.
+
+rete PEM
+
+DE Sa RLS Scie ea
+
+EARTH
+
+WORK
+
+203.02
+
+UNCLASSIFIED EXCAVATION AND DISPOSAL
+
+105,000
+
+$7.00
+
+$735,000.00
+
+Taken from +781 average quantity per mile.
+(395129 CM/4.9 mile) x 1.308 C¥/CM. Unit price
+from 1-781 bid, using $9/CM x 0.765CM/CY for
+average.
+
+203.03
+
+EMBANKMENT IN PLACE
+
+221,000
+
+$4.00
+
+$884,000.00
+
+Taken from +781 average quantity per mile.
+(828973 CM/4.9 mile)x1.308 CY/CM. Unit price
+from 1-781 bid, using $5.5/CM x 0.765CM/CY for
+average.
+
+203.20
+
+SELECT GRANULAR SUBGRADE
+
+24,770
+
+$9.00
+
+$222,930.00
+
+Assuming 20" in depth. Unit price from I-781 bid,
+using $12/CM x.0.765CM/CY for average.
+
+FST RET OG ENE ta ee ati are
+
+PAVEMENT
+
+y t
+
+402.XXXX
+
+SUPERPAVE HMA TOP COURSE, 1.5" DEPTH
+
+TON
+
+6,030
+
+$66.00
+
+$397,980.00
+
+Assuming 76'-wide pavement and shoulders, 24'-
+wide ramp and shoulders X4, milling & resurfacing
+of cross road 600'x40'. Unit price from I-781 Item
+402.095201. Converted from $/Metric Ton to
+$/Ton.
+
+402. 00OXX
+
+SUPERPAVE HMA BINDER COURSE, 2" DEPTH
+
+TON
+
+8,040
+
+$57.00
+
+$458,280.00
+
+Assuming 76'-wide pavement and shoulders, 24'-
+wide ramp and shoulders X4, milling & resurfacing
+of cross road 600'x40'. Unit price from 1-781 Item
+402.195901. Converted from $/Metric Ton to
+$/Ton.
+
+402.XXXX
+
+SUPERPAVE BASE COURSE, 6" DEPTH
+
+TON
+
+14,620
+
+$51.00
+
+$745,620.00
+
+Assuming 48'-wide pavement, 15'-wide ramp X4.
+Unit price from 1-781 Item 402.376901. Converted
+from $/Metric Ton to $/Ton.
+
+402.XXXX
+
+DEPTH
+
+ASPHALT-TREATED PERMEABLE BASE COURSE, 4"
+
+TON
+
+9,750
+
+$429,000.00
+
+Assuming 48'-wide pavement, 15'-wide ramp X4.
+Unit price from I-781 Item 402.376901. Converted
+from $/Metric Ton to $/Ton.
+
+304.XXXX
+
+SUBBASE, 12" DEPTH
+
+46,490
+
+$18.00
+
+$836,820.00
+
+Assuming 76’-wide pavement and shoulders, 24'-
+wide ramp and shoulders X4. Unit price from I-781
+Item 304.14. Converted from $/CM to $/CY.
+
+402.XXXX
+
+PLANT PRODUCTION QUALITY ADJUSTMENT
+
+Qu
+
+1,435
+
+$54.00
+
+$77,463.00
+
+Assuming 5% quantity of top, binder, and base
+combined. Unit price from 1-781 Item
+402.00004218. Converted from $/Metric Ton to
+$/Ton.
+
+=
+
+490.XXXKX
+
+PRODUCTION COLD MILLING OF BITUMINOUS
+CONCRETE
+
+SY
+
+2,000
+
+$8,000.00
+
+Assuming 36'x500' of cross road will be milled.
+Unit price from NYSDOT Item 490.10120011.
+
+DRA!
+
+NAGE
+
+| a
+
+203.07
+
+SELECT GRANULAR FILL
+
+370)
+
+$17.00
+
+$6,290.00
+
+Assuming 2.5'x3' trench, minus plpe area. Unit
+price from I-781 Item 304.14. Converted from
+$/CM to S/CY.
+
+603.XXXX
+
+18" PIPE
+
+LF
+
+1,760
+
+$33.00
+
+$58,080.00
+
+Assuming 10 culverts within Interchange. Unit
+price from 1-781 Item 603.051416. Converted
+from $/M to $/LF.
+
+=
+
+CATCH BASINS
+
+EACH
+
+$950.00
+
+Assuming 2 at each end of the structure. Unit price}
+from NYSDOT Pay Item Catalog Price History Item
+
+$7,600.00
+
+604.02010011.
+
+a a
+
+x...

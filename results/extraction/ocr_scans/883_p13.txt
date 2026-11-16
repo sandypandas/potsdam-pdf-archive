@@ -1,0 +1,216 @@
+Payable Register
+
+Account
+10-8330-491
+10-8330-492
+
+10-8340-464
+
+10-8340-465
+10-8340-467
+10-8340-483
+10-8340-488
+10-8340-492
+
+10-9189-800
+
+Account
+
+15-1620-429
+
+15-1620-470
+
+15-1640-470
+
+15-8120-425
+15-8120-464
+15-8120-465
+
+15-8120-466
+
+15-8120-492
+15-8130-409
+15-8130-410
+15-8130-455
+
+15-8130-465
+15-8130-480
+
+15-8130-482
+15-8130-488
+15-8130-492
+15-9189-000
+
+Account
+18-8790-465
+
+18-3790-480
+18-9189-000
+
+Account
+
+30-0025-000
+
+Account
+
+31-7140-200
+31-7140-420
+31-7140-454
+
+31-7140-465
+31-7140-470
+31-7140-480
+
+31-7140-488
+31-7140-492
+
+Account Summary
+
+Name
+
+Chemicals
+
+Gas, Oil & Lube
+
+Vehicle Maintenance
+Equipment Maintenance
+Water Line Repairs
+Paving Materials
+
+Small Tools
+
+Gas, Oil And Lube
+
+FSA Administration
+
+Name
+
+Trash service
+
+Building Maintenance
+Building Maintenance
+Clothes
+
+Vehicle Maintenance
+Equipment Maintenance
+Pump Station Repairs
+Gas, Oil & Lube
+
+Sludge Hauling Services
+Grit Hauling & Tipping
+Uniform Contract
+Equipment Maintenance
+Special Services
+
+Lab Supplies
+
+Misc. Tools
+
+Gas, Oil & Lube
+
+Excess Fringes
+
+Name
+
+Equip. Maint. & Supplies
+Special Services
+
+Excess Fringes
+
+Name
+Towing Service Deposits
+
+Name
+
+Equipment
+
+Janitorial Supplies
+
+Trash Service
+Equipment Maintenance
+Building Maintenance
+Special Services
+
+Small Tools
+
+Gas, Oil And Lube
+
+Packet: APPKT01375 - Audit 3/15/21
+
+Amount
+5,291.74
+52.12
+1,520.68
+102.30
+682.22
+1,421.38
+68.08
+350.00
+92.37
+Total: 10,343.43
+
+Amount
+
+333.33
+240.96
+45.99
+99.90
+573.74
+201.82
+1.44
+231.52
+4,936.78
+127.01
+74.60
+187.90
+88.00
+1,023.05
+24.99
+100.00
+92.37
+Total: 8,383.40
+
+Amount
+
+280.28
+
+38.00
+
+15.00
+
+Total: 333.28
+
+Amount
+
+85.00
+Total: 85.00
+
+Amount
+
+1,124.90
+
+335.88
+
+167.66
+
+10.54
+
+807.74
+
+126.98
+
+8.48
+
+72.17
+
+Total: 2,654.35
+
+3/10/2021 1:1
+
+23
+
+9
+
+PM
+
+Page 28 of 29

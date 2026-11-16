@@ -1,0 +1,55 @@
+| Conceptual Cost Estimate for NCAI Mainline Alternative - ROADWAY SECTION
+| Item No. | Description [Units] Quantity] Unit Price | Item Cost | _Remarks
+- Pav Gant, Drier we ede een) GOMER © se) CLEAIe AND GRUBBING | OOPS RR Ce EP SAL
+Taken from I-781 average LS excluding outlier of
+201.06 CLEARING AND GRUBBING LS 1} $6,000.00) $6,000.00} $365,000, divided by 4.9 miles.
+NTE eth? SEARTHWORK Peas edad ae ee niece
+‘| Taken from I-781 average quantity per mile.
+(395129 CM/4.9 mile) x 1.308 CY/CM. Unit price
+from |-781 bid, using $9/CM x 0.765CM/CY for
+™203.02 UNCLASSIFIED EXCAVATION AND DISPOSAL cY 105,000 $7.00] $735,000.00|average.
+\ ; Taken from I-781 average quantity per mile.
+(828973 CM/4.9 mile)x1.308 CY/CM. Unit price
+~ from I-781 bid, using $5.5/CM x 0.765CM/CY for
+11203.03 EMBANKMENT IN PLACE cy 221,000 $4.00] $884,000.00 average.
+Assuming 20" in depth. Unit price from I-781 bid,
+203.20 |SELECT GRANULAR SUBGRADE CY 24,770 $9.00] $222,930.00 using $12/CM x 0.765CM/CY for average.
+é Be esi 7S SRE even | PAVEMENT : Abe Maisie wane
+i Assuming 76'-wide pavement and shoulders. Unit
+price from I-781 Item 402.095201. Converted from
+™9402.XXXX |SUPERPAVE HMA TOP COURSE, 1.5" DEPTH TON 3,640 $66.00] _ $240,240.00/$/Metric Ton to $/Ton.
+Assuming 76'-wide pavement and shoulders. Unit
+price from 1-781 Item 402.195901. Converted from
+402.XXXX |SUPERPAVE HMA BINDER COURSE, 2" DEPTH TON 4,850 $57.00] _ $276,450.00/$/Metric Ton to $/Ton.
+Assuming 48'-wide pavement. Unlt price from I-
+781 Item 402.376901. Converted from $/Metric
+402.XXXX |SUPERPAVE BASE COURSE, 6" DEPTH TON 9,190 $51.00] _ $468,690.00|Ton to $/Ton.
+Assuming 48'-wide pavement. Unit price from I-
+ASPHALT-TREATED PERMEABLE BASE COURSE, 781 Item 402.011901. Converted from $/Metric
+. 9402.XXXX | 4" DEPTH TON 6,120 $44.00]  $269,280.00|Ton to $/Ton.
+Assuming 76'-wide pavement and shoulders. Unit
+price from |-781 Item 304.14. Converted from
+304.XXXX |SUBBASE, 12" DEPTH cy 14,860 $18.00] _ $267,480.00/$/CM to $/CY.
+Assuming 5% quantity of top, binder, and base
+combined. Unit price from I-781 Item
+402.00004218. Converted from $/Metric Ton to
+| 402.XXXX [PLANT PRODUCTION QUALITY ADJUSTMENT Qu 884 $54.00 $47,736.00|$/Ton.
+DRAINAGE | i ae I
+Assuming 2.5'x3' trench, minus pipe area. Unit
+iJ price from I-781 Item 304.14. Converted from
+203.07 SELECT GRANULAR FILL cY 370 $17.00 $6,290.00|5/CM to $/CY.
+Assuming 10 culverts per mile. Unit price from I-
+781 Item 603.051416. Converted from $/M to
+ol 603.XXXX | 18" PIPE LF 1,760 $33.00 $58,080.00) 5/LF.
+Assuming 2 within a 1-mile section. Unit price
+from NYSDOT Pay Item Catalog Price History item
+604.XXXX [CATCH BASINS EACH 2 $950.00 $1,900.00] 604.02010011.
+Assuming 18"x24" dimension. Unit price from I- .
+1 605.XXXX |UNDERDRAIN FILTER CY 2,350) $32.00 $75,200.00|781 Item 605.1001, Converted from $/CM to $/CY.
+al . Assuming 6” pipe. Unit price from 1-781 Item
+605.XXXX |UNDERDRAIN PIPE LF 21,120 $2.40 $50,688.00]605.1701. Converted from $/M to $/LF.
+| GUIDERAIL, CONCRETE BARRIER, MEDIAN BARRIER .
+Assuming 40% of the roadway length and on both
+sides. Unit price from NYSDOT Pay Item Catalog
+606.16 CORRUGATED BEAM GUIDE RAILING LF 4,220 $13.00 $54,860.00) Price History.
+

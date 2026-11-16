@@ -1,0 +1,26 @@
+Development
+
+Authority Invoice Number: 097219
+OF N rth Billing Date: 3/8/21
+THEINO Account Number: 40POTSDAMV
+Country Project: 60-004
+Village of Potsdam
+PO Box 5168
+Potsdam, NY 13676
+Contact: Carrie M. Tuttle
+February 2021
+Project: Village of Potsdam WWTP Technical Services Agreement
+Current Current
+Hours Rate Amount
+Additional Services Provided
+Danielle S. Benati 1/25/2021 1.00 85.00 85.00
+Carrie M. Tuttle 1/26/2021 0.50 132.00 66.00
+Danielle S. Benati 1/26/2021 2.00 85.00 170.00
+Starr R. Carter 1/27/2021 1.00 85.00 85.00
+Danielle S. Benati 1/28/2021 2.00 85.00 170.00
+Danielle S. Benati 2/2/2021 1.50 85.00 127.50
+Danielle S. Benati 2/5/2021 0.50 85.00 42.50
+Danielle S. Benati 2/8/2021 1.00 85.00 85.00
+Danielle S. Benati 2/9/2021 0.50 85.00 42.50
+Danielle S. Benati 2/19/2021 0.50 85.00 42.50
+Starr R. Carter 2/19/2021 0.50 85.00 42.50

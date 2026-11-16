@@ -1,0 +1,34 @@
+Table 4 depicts the Property Damage Cost and Frequency of each event over three different
+time periods. The last column, labeled No. of Events Per Year (Estimate), is what was used to
+project all property damage cost and frequency values for the projected time period of
+2019-2029.
+
+Storm Event Cost Vs. Frequency 1995-2005
+
+® Ice Storm ($4,652,319.02)
+
+SDsllars:
+
+201
+
+st (Adjuste
+
+Flood ($345,032.65) ®
+Strong Wind ($30,728.42) |
+
+iency of Event
+
+Figure 11: 1995-2005 Storm Events
+Note on Graph Interpretation: The costs of the events represent the total cost of all the storms
+combined over this time period. For example, the six flood events that happened from 1995 to 2005
+produced a total damage of $345,032.65.
+
+The Ice Storm of 1998 was responsible for the most property damage ($4,652,319.02) during
+the first time period. There was only one major ice storm recorded during this period. Since
+2001 there have been six strong wind storms totaling in property damage costs of $30,728.42.
+In addition to this there were six flood events. The total property damage of these events
+combined was $354,032.65. This data set acts as the first part of building the projection data set
+for these storm events. Figure 11 analyzes storm event cost and frequency between the years
+2006 and 2018.
+
+26

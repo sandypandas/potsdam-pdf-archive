@@ -1,0 +1,57 @@
+~
+
+wt
+
+Be &_— CH CC
+
+Table 17: Benefit-Cost Analysis Results
+
+7% Discount Rate 3% Discount Rate
+Millions of Millions of
+BENEFITS 2014$ BENEFITS 2014$
+Travel Time Savings for Existing Travel Time Savings for Existing
+Users $2,283.2 Users $2,283.2
+Out of Pocket Cost Savings for Out of Pocket Cost Savings for
+Existing Users ($599.2) Existing Users ($599.2)
+Economic Value of Induced Trips $26.5 Economic Value of Induced Trips $26.5
+Safety Benefits $1,245.9 Safety Benefits $1,245.9
+Non-Carbon Emissions Reduction ($13.0) Non-Carbon Emission Savings ($13.0)
+Carbon Emissions Reduction ($22.7) Carbon Emission Savings ($22.7)
+TOTAL BENEFITS $2,930.0 TOTAL BENEFITS $2,930.0
+PV of Total Benefits $404.9 PV of Total Benefits $1,157.5
+COSTS COSTS
+Capital Costs $1,503.9 Capital Costs $1,503.9
+Maintenance Costs $471.4 Maintenance Costs $471.4
+TOTAL COSTS $1,975.3 TOTAL COSTS $1,975.3
+PV of Total Costs $855.6 PV of Total Costs $1,305.0
+Net Present Value (NPV) ($450.7) Net Present Value (NPV) ($147.5
+Benefit-Cost Ratio (BCR) 0.5 Benefit-Cost Ratio (BCR) 0.9
+
+The table above shows the benefits estimates by benefit category, and the following bullets
+
+summarize the results of the analysis.
+
+As noted previously, BCA is an industry-accepted
+
+approach to determining whether a project should proceed based on the societal benefits it is
+
+likely to generate.
+societal bénefits.
+
+The Benefit-Cost Ratio reflects what $1 of investment will generate in
+
+e Travel Time Savings for Existing Users, with non-discounted benefits of $2.3 billion, is
+the largest benefit category for the Project. This benefit accounts for the time savings
+combination of a shorter distance on the corridor as well as an increased average speed
+for those users on the freeway. The new roadway allows for a faster average speed on the
+existing arterials, and thus a reduced travel time for all users.
+
+e Safety benefits account for the second highest category of benefits, $1.2 billion over
+thirty years due to diversion of vehicles from arterial roadways to the freeway. Four-lane
+divided highways with full access control have a much lower average accident rate than
+the two lane undivided, free access roadways that primarily comprise the current
+
+conditions.
+
+47
+

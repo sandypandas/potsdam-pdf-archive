@@ -1,0 +1,45 @@
+Delay in minutes between towns and cities are presented in Table 6. The greatest delays are
+experienced through the towns of Malone and Champlain due to delays experienced in urbanized
+areas along these segments.
+
+Table 6: Route 11 Delay Between Towns in Minutes
+
+From/To Watertown | Gouverneur | Canton | Potsdam Malone Champlain
+Watertown - 3.0 7.0 8.0 14.0 20.0
+Gouverneur 3.0 - 4.0 5.0 11.0 17.0
+
+Canton 7.0 4.0 - 1.0 7.0 13.0
+
+Potsdam 8.0 5.0 1.0 - 6.0 12.0
+
+Malone 14.0 11.0 7.0 6.0 - 6.0
+Champlain 20.0 17.0 13.0 12.0 6.0 -
+
+Source: Northern Tier Expressway Route 11 Corridor Study, Wilbur Smith Assoc., 2008.
+
+It should be noted that Canton has an at-grade railroad crossing at the intersection of Route 11
+and Jay Street. Although train crossings are infrequent, it has been observed that train crossings
+at this location can cause a total delay of approximately 10 minutes in both directions along
+Route 11.
+
+4. Safety
+
+According to crash data provided by NYSDOT, 2,554 reported crashes occurred along the Route
+11 corridor from April 2011 through March 2014, corresponding to an average of approximately
+851 crashes per year. As shown in Table 7, many of the crashes along the Route 11 corridor
+occur in St. Lawrence County, which contains the longest Route 11 segment length. As shown in
+Figure 3, the greatest concentrations of crashes occur in urban areas such as Watertown, Canton,
+Potsdam, and Malone.
+
+Table 7: 1999-2002 Total Crashes
+
+County Total Crashes Percentage
+Jefferson 579 23%
+St. Lawrence 908 36%
+Franklin 767 30%
+Clinton 300 12%
+Total 2,554 100%
+
+Source: NYSDOT Accident Location Information System — Dated 12/2014, 01/2015
+
+1]

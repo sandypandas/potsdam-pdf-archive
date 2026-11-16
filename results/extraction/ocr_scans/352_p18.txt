@@ -1,0 +1,18 @@
+18
+
+2017 FINAL 4/25/2016
+General Fund
+Actual Adopted 2/29/2016 Department Admin Adopted Change %Change
+
+ACCOUNT Budget Budget YTD Budget Budget Budget from from
+
+ACCOUNT: CODE: 2015 2016 2016 2017 2017 2017 2016 2016
+State Aid - CHIPS A3501.000 91,371 102,469 101,546 162,093 102,093 102,093 -376 -0.4%
+- State Aid - Youth A3820.000 0 0 0 Oo 0 0 QR ek
+State Aid - Police Special Grant A3900.000 0 0 5,000 0 0 0 Q FRR
+Justice Court Grant A3996.000 0 0 0 0 0 0 QO RRR
+RDS Subsidy A4960.001 22,810 20,000 21,437 15,000 15,000 15,000 ~-5,000 -25.0%
+Interfund from Water A503 1.002 23,669 170,000 0 -170,000  -100.0%
+Interfund from Hydro A503 1.004 0 0 0 0 0 0 Q RRNA
+Interfund from Empire Zone A503 1.007 0 0 0 145,535 145,535 145,535 145,535 #ee RRR
+Revenue TOTALS: 5,745,312 5,973,875 5,262,306 5,889,252 5,889,252 5,889,252 ~84,623 -14%

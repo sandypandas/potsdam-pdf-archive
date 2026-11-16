@@ -1,0 +1,29 @@
+P01 FINAL 4/16/2018
+General Fund
+Actual Adopted 2/28/2018 Department Admin Adopted Change “Change
+ACCOUNT Budget Budget YTD Budget Budget Budget from from
+ACCOUNT: CODE: 2017 2018 2018 2019 2019 2019 2018 2018
+
+Refund of Prior Yr. Exp. A2701.000 9,026 0 28,210 0 0 0 Q RRR RRR
+Electrical Charge - Gazebo A2704.001 210 150 150 150 150 150 0 0.0%
+Surcharge Lawns A2704.002 0 100 0 100 100 100 0 0.0%
+Gifts & Donations A2705.000 97,070 97,000 10 34,000 34,000 34,000 -63,000 -64.9%
+Gifts & Donations - Police A2707.000 0 100 0 100 100 100 0 0.0%
+Other Unclassified A2770.000 338 1,000 13,906 1,000 1,000 1,000 0 0.0%
+Museum- unclassified A2771.000 1,759 350 50 350 350 350 0 0.0%
+State Aid Per Capita A3001.000 121,925 121,900 120,938 121,900 121,900 121,900 0 0.0%
+Mortgage Tax A3005.000 23,096 20,000 25,192 20,000 20,000 20,000 0 0.0%
+Stat Archives Grant A3060.000 16,089 0 0 0 0 0 QR
+Other State Aid - Recreation A3389.000 8,073 0 0 0 0 0 Q BAR
+State Aid - CHIPS A3501.000 119,473 91,481 121,779 95,015 95,015 95,015 3,534 3.9%
+State Aid - Youth A3820.000 0 0 0 0 0 0 Q RRR RR
+State Aid - Police Special Grant A3900.000 4,788 9) 0 0 0 0 Q FRR R ERE
+Federal Seizures & Forfeitures A4930.000 4,945 0 2,543 0 0 0 Q Ree HE
+FEMA A4960.000 78,423 0 0 0 0 0 Qt oR sR
+RDS Subsidy A4960.001 31,146 20,000 11,727 10,000 10,000 10,000 -10,000 -50.0%
+Interfund from Reserve A5031.001 1,745 i) 700 0 0 0 Q RRR Ra
+Interfund from Hydro A5031.004 0 0 0 0 0 0 Q FRR RE
+Interfund from Empire Zone A503 1.007 145,535 0 0 0 0 0 QO FRR EEE
+Revenue TOTALS: 6,355,238 6,004,416 5,729,859 6,055,200 6,082,207 6,090,007 85,591 14%
+
+17

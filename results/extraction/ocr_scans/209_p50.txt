@@ -1,0 +1,47 @@
+road. Number, frequency and valuation of accidents are typically divided into fatal, injury and
+property damage only. Benefits vary based on facility, roadway classification, average speed,
+traffic volumes, and other factors.
+
+According to the U.S. DOT, the average value of a statistical life is $9.2 million in 2014. The
+average injury-accident cost is $106,737. These values increase by 1.07% per year to reflect the
+growth in real income. Property damage only accidents are valued at $3.927.
+
+Emissions Benefits
+
+Air pollution levels can increase or decrease as a result of a transportation infrastructure project.
+This analysis considers the total amount of volatile organic compounds, nitrogen oxides, fine
+particulate matter, sulfur dioxide, and carbon dioxide released into the atmosphere under the
+build and no-build alternatives. Emissions are typically a function of VMT and travel speed. As
+VMT increases, emissions generally increase. If a roadway is likely to increase the amount of
+vehicle travel, emissions are likely to increase generating an emissions cost. Speed plays a role
+as well, with vehicle emissions being most heavy at very low and very high speeds.
+
+For the analysis, the following costs per metric ton are assumed for different types of emissions:
+
+e Volatile Organic Compounds $1,999
+
+e Nitrogen Oxides $7,877
+
+e Fine Particulate Matter $360,383
+e Sulfur Dioxide $46,561
+e Carbon Dioxide $61'°
+
+5. Benefit-Cost Analysis Findings
+
+The table below summarizes benefits and costs associated with a potential freeway running
+parallel to the existing Routes 11 and 37 between Plattsburgh and Watertown. Annual costs and
+benefits are computed and summarized over the life-cycle of the project. Construction of the
+freeway is expected to occur in stages over 15 years, with operations of each segment available
+immediately after completion and continuing for 30 years after full completion. Benefits will
+accrue as each segment is completed.
+
+The non-discounted total costs of the project, both capital and operating, are $2.0 billion. At a
+seven percent discount rate, this investment is expected to result in $404.9 million in benefits,
+generating a benefit to cost ratio of 0.5. At a three percent discount rate, the same investment
+generates $1,157.5 million in benefits and a benefit to cost ratio of 0.9.
+
+'° The value for carbon dioxide is for the year 2034. The value of carbon dioxide changes annually according to the
+US DOT. Carbon emissions are also always discounted at a rate of 3%.
+
+46
+

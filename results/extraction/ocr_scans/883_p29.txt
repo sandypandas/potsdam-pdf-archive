@@ -1,0 +1,5 @@
+Final Statement Run Totals 03/10/2021
+
+Statements Printed: 1
+Hours: 1.40
+Fees: 241.00

@@ -1,0 +1,26 @@
+Payable Register
+
+Payable Summary
+
+Type Count Gross Tax
+
+Credit Memo 1 -50.68 0.00
+
+Invoice 87 79,927.88 0.00
+Grand Total: 79,877.20 0.00
+
+Shipping
+0.00
+0.00
+0.00
+
+Packet: APPKTO1008 - Audit 4/20/20
+
+Discount Total Manual Payment Balance
+~~ 0.00 -50.68 9.00 -50.68
+0.00 79,927.88 0.00 79,927.88
+0.00 79,877.20 0.00 79,877.20
+
+4/15/2020 2:09:57 PM
+
+Page 45 of 47

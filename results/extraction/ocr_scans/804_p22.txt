@@ -1,0 +1,39 @@
+baseline to better understand the impacts that climate change has on societal, economic, and
+physical systems of Potsdam.
+
+Temperature
+
+We have experienced a dramatic change in annual mean temperature since 1880 as shown in
+Figure 2. We report Canton, NY weather trends for which more historic weather data are
+available; the scant ten miles between towns makes these data representative of historic
+Potsdam weather conditions. Change in monthly annual mean temperature over the 138 year
+dataset is 0.17 degrees per decade (0.21°C/decade winter and 0.11°C/decade summer). These
+data indicate that climate change is significantly affecting the North Country.
+
+Se:
+GISS Surtace Temperature Analysis (v4)
+Station Data: Cantcn 4 Se (44,.5772N, 75.1097W}
+
+.. Canton 4 Se (44.5772N, 75.1097W) ID:USWV00014743
+
+xy
+
+Ui
+
+Annual Mean Temperatures (
+———
+
+| |
+[OT _GRON VA ade Aemegenicad
+
+Years
+
+Figure 2: Annual Mean Temperature Increase since 1880 in Canton, NY’. Note high
+variability over decades with a century-long increase in temperature.
+
+Number of days below freezing have also been decreasing in the northeast and are projected to
+further decrease as shown in Figure 3. Winters are getting milder and conditions are getting
+warmer.
+
+” "Data.GISS: GISS Surface Temperature Analysis: Station Data.” NASA. NASA. Accessed January 20, 2020.
+https://data.giss.nasa.gow/gistemp/station_data_v3/.

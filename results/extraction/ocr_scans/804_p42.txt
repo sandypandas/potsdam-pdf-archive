@@ -1,0 +1,40 @@
+Storm Event Cosi Vs. Frequency Projection 2019-2029
+
+512.000,000.00
+
+Ice Storm ($10,866,-490.12)
+Flood ($10,573,008.09)
+
+S10 GG0.060.G0
+
+98, 290.006.0060
+
+>b.CU,G00,.0G
+
+49,000,000.00
+
+Strong Wind ($433,074.16)
+
+wency Of fyent
+
+Figure 13: 2019-2029 Storm Events
+Figure 13 outlines what the future severity and frequency of these storms are from 2019 to 2029
+
+Using data from the first two date ranges, Figure 15 projects the property damage cost and
+frequency of each significant weather event.
+
+First, looking at the ice storm events, a projection of 0.37 ice storms per year was calculated.
+This value was obtained by doing a linear regression of the number of events per year
+(estimated). From 1995-2005, it was determined that 0.09 ice storms occurred each year. In the
+next date range, it was determined that ice storm events had increased to 0.23 events per year.
+The increase from 1995-2005 to 2006-2018 was 0.14 ice storm events. Using this information,
+we added the 0.14 event increase to the 0.23 event value from 2006-2018 to obtain the
+estimate of 0.37 ice storms per year. While it is not possible to have 0.37 of an ice storm, it
+should be noted that the number of ice storms expected in the 2019-2029 time frame will
+increase. While the storm frequency for ice storms was determined to be a linear increase, the
+total cost of ice storms was found to be an average between the per event cost of ice storms
+between 1995-2005 and 2006-2018. The per event cost of the ice storms between 1995 and
+2005 was $4,652,319.02. The per event cost of the ice storms between 2006 and 2018 was
+$687,479.56. It is difficult to predict the damage cost of ice storms going forward. The ice storm
+
+28

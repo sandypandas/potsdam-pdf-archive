@@ -1,0 +1,47 @@
+Payable Register
+
+Type Count
+— a = > ee
+Invoice 146
+
+Grand Total:
+
+Payable Summary
+
+Gross Tax Shipping
+
+7 -176.29 7 0.00 10
+205,747.77 0.00 0.00
+205,571.48 0.00 0.00
+
+0.00
+
+Discount
+
+0.00
+0.00
+0.00
+
+Total
+
+-176.29
+205,747.77
+205,571.48
+
+Packet: APPKT01661 - Audit 12/20/21
+
+Manual Payment
+
+0.00
+
+0.00
+0.00
+
+Balance
+-176.29
+205,747.77
+205,571.48
+
+12/15/2021 11:41:12 AM
+
+Dane BR af TN

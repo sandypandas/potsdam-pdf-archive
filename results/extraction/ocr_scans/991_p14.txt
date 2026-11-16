@@ -1,0 +1,97 @@
+Payable Register Packet: APPKT01716 - Audit 2/7/22
+Account Summary
+
+Account NAME is Amount
+Og Q-426 Telephone Service 76.02
+Q5-1410-426 Telephone 50.68
+QS-1410-461 Advertising 82.85
+Q5-1620-428 Gas Service 1,999.04
+05-1910-426 Telephone Service 456.55
+Q5-1910-455, Uniform Rental 199.99
+05-1910-465 Software/IT Services 2,490.00
+05-1910-477 Actuarial Services 1,800.00
+Internet 399.95
+
+Telephone Service 202.72
+
+Vehicle Maintenance 4,878.60
+
+Special Services 941.85
+
+Gas, Oil And Lube 1,526.23
+
+Police Station Lease 7,069.95
+
+Equipment 625.44
+
+Telephone Service 76.02
+
+Gas Service 1,164.60
+
+Telephone Service 175.12
+
+Equipment 387.50
+
+Telephone Service 50.68
+
+Vehicle Maintenance 590.98
+
+Equipment Maintenance 424.99
+
+Paving Materials 821.95
+
+Comestibles 136.01
+
+Gas, Oil And Lube 188.61
+
+Salt 8,743.18
+
+Airport Equipment 2,743.07
+
+Airport Telephone 50.68
+
+Special Services 110.00
+
+Gas, Oil & Lube 46.81
+
+Travel & Training 12.88
+
+Telephone 76.02
+
+05-6326-460 Dues & Memberships 250.00
+05-7450-426 Telephone Service 25.34
+QS-9189-800 FSA Admin 257.76
+Total: : 39,132.07
+
+Account. . wou Name nn a” . sn . Amount
+10-8330-200 Equipment 54.96
+Laboratory Services 435.00
+
+Telephone Service 50.68
+
+Gas Service 5,036.32
+
+Laboratory Supplies 216.84
+
+Chemicals 3,066.68
+
+Gas, Oil & Lube 24.66
+
+Vehicle Maintenance 1,682.14
+
+Equipment Maintenance 2,123.38
+
+FSA Administration 62.37
+
+Tota: its 12,753.03
+
+Account oo élame . a cee AMOUNT
+45-8120-492 Gas, Oil & Lube 1,550.00
+1S-8130-409 Sludge Hauling Services 4,853.65
+15-8130-410 Grit Hauling & Tipping 153.67
+15-8130-413 Lab Services 1,410.00
+15-8130-426 Telephone Service 50.68
+415-8130-428 Gas Service 2,598.27
+
+2/2/2022 2:14:57 PM Page
+

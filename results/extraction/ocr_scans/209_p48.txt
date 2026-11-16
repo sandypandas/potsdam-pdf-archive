@@ -1,0 +1,51 @@
+The specific methodology developed for this analysis is consistent with United States
+Department of Transportation (USDOT) guidelines. The methodology involves:
+
+e Establishing existing and future conditions under build and no-build scenarios;
+
+e Measuring benefits in dollar terms, whenever possible, and expressing benefits and costs
+in acommon unit of measurement;
+
+e Incorporating USDOT guidance for the valuation of travel time savings, safety benefits,
+and reductions in air emissions, while relying on industry best practices for the valuation
+of other transportation benefits.
+
+3. Cost Estimates for Plattsburgh to Watertown Freeway
+
+A key consideration in structuring the BCA relates to the timing of construction of the
+improvements. For the new freeway, total construction cost is estimated at $1.25 billion. Right
+of way acquisition, including land for environmental mitigation, is anticipated to cost an
+additional $111 million (or 8% of the total construction cost) and design is expected to cost an
+additional $145 million (15% of total construction cost), resulting in a total estimated capital cost
+of $1.50 billion.’ For purposes of this analysis, it is assumed that right-of-way acquisition and
+design will begin in 2015 and take 4 years, with the $257 million in costs allocated evenly each
+year. It is assumed that construction will begin in 2019 and take 15 years with completion for
+opening in 2034. It is assumed that construction will occur in 12 segments, starting with the
+congested areas of Watertown, Canton, Potsdam, and Malone with the interim segments being
+completed from west to east over the 15 year timeframe. The timing and duration of construction
+of each segment is shown in the table below. The construction costs are calculated on a per-mile
+basis.
+
+Table 16: Construction Segments, Timing, and Cost
+
+Distance Construction | Construction Opening | Construction
+SEGMENT (miles) Start End Year Cost
+
+Watertown (I-781) to Philadelphia 11 2019 2019 2020 $91,459,600
+Philadelphia to Gouverneur 18 2024 2025 2026 -$149,661,163
+Gouverneur to De Kalb 15 2025 2026 2027 $124,717,636
+De Kalb to Canton 10 2020 2020 2021 $83,145,091
+Canton to West of Potsdam 10 2021 2021 2022 $83,145,091
+ws to East of Potsdam 4 2022 2022 2023 $33,258,036
+East of Potsdam (NY 56) to Route 420 12 2026 2027 2028 $99,774,109
+Route 420 to Moira 15 2027 2028 2029 $124.717.636
+Moira to West of Malone (NY 37) 11 2028 2029 2030 $91,459,600
+West of Malone (NY 37) to East of Malone 6 2023 2023 2024 $49,887,054
+East of Malone to Ellenburg 18 2030 2031 2032 $149,661,163
+Ellenburg to Champlain (I-87) 20 2032 2033 2034 $166,290,181
+
+” Note that due to the early stage of design, this cost excludes additional environmental mitigation such as noise
+walls, culverts for migrating animals or any other potentially necessary environmental mitigation.
+
+44
+

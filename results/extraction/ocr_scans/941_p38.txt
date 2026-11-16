@@ -1,0 +1,28 @@
+018 FINAL 4/26/2017
+Trash Fund
+Last Years Adopted 02/28/17 Department Adminstrative Adopted Change %Change
+ACCOUNT Actual Budget YTD Budget Budget Budget from from
+ACCOUNT: CODE: 2016 2017 2017 2018 2018 2018 2017 2017
+Appropriations
+OPERATING EXPENSES Q FRR
+Postage M8260.421 712 625 524 625 625 625 0 0.0%
+Special Services M8260.480 184,692 204,293 154,695 210,000 210,000 210,000 5,707 2.8%
+Service Contracts M8260.485 1,126 1,200 1,194 1,200 1,200 1,200 0 0.0%
+Office Supplies M8260.490 0 0 0 0 0 0 QR Re
+Bag Sales M8260.497 7,700 12,000 11,030 12,000 12,000 12,000 0 0.0%
+SUB-TOTAL: 194,230 218,118 167,443 223,825 223,825 223,825 5,707 2.6%
+FRINGES
+Retirement M9010.800 0 0 0 0 0 0 Q RARE
+Social Security M9030.800 0 0 0 0 0 0 Q RRR
+Workman's Comp. M9040.800 0 0 0 0 0 0 Q HRA
+Group Life Insurance M9045 .800 0 0 0 0 0 0 Q RRR
+Health & Dental Insurance M9060.800 0 0 0 0 0 0 Q Rise
+Pharmacy M9060.80i 0 0 0 0 0 0 QR
+Disability M9070.800 0 0 0 0 0 0 Q RRR RRR
+Excess Fringes M9189.000 0 0 0 0 0 0 Q FRR
+SUB-TOTAL: 0 0 0 0 0 0 Q FRR RRR
+Other Budgetary Purposes
+Other Budgetary Purposes M9620.401 0 10,350 0 10,500 10,500 10,500 150 14%
+SUB-TOTAL: 0 10,350 0 10,500 10,500 10,500 0 0.0%
+Appropriation TOTALS: 194,230 228,468 167,443 234,325 234,325 234,325 5,857 2.6%
+Trash Fund Page # } 4/26/2017

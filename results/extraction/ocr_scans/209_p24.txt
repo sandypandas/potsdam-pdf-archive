@@ -1,0 +1,78 @@
+Table 9: Public Parks/Recreation Resources
+
+Map Reference |
+Municipal Recreation Resources
+
+1 Santaway Village Park
+
+Jack Williams Community Park
+
+State Recreation Resources
+
+1,2,3,4,5,6,7,8,9, 10,11 State Forest Preserve
+12 State Boat Launch
+13 Chateaugay State Fish Hatchery
+14 Robert Moses State Park
+15,16,17,18,19,20,21,22,23,24,25,26,27,28,29, State Reforestation Area
+
+30,31,32,33,34,35,36,37
+
+38 Upper and Lower Lakes State Wildlife
+Management Area
+
+39 Fish Creek Marsh State Wildlife
+Management Area
+
+40 Wilson Hill State Wildlife Management Area
+
+41 Lake Alice State Wildlife Management Area
+
+42 Lewis Preservation State Wildlife
+Management Area
+
+43 Croil Island State Park (undeveloped)
+
+44 Yellow Lake State Multiple Use Area
+
+45,46,47,48,49,50,51,52,53,54,55,56,57,58,59, State Reforestation Area
+
+60,61,62,63,64,65,66
+
+67 Indian River State Wildlife Management
+
+Area
+
+68 River Road Fishing Access
+
+69 Sixberry Lake Fishing Access
+
+70 Moon Lake Fishing Access
+
+71,80,81,82,84,85 Chazy Highlands Wild Forest
+
+72 Little Salmon River Access
+
+73 Oxbox Fishing Access
+
+74 Lake of the Woods Waterway Access
+
+75 Unclassified
+
+76 Saranac River Access
+
+77 Franklin 10 State Forest
+
+78 Salmon River Waterway Access
+
+79 Clinton County Detached Parcel
+
+83 Millsite Lake Fishing Access
+
+86 Yellow Lake Waterway Access
+
+87 Grass Lake Fishing Access
+
+20
+
+ro
+

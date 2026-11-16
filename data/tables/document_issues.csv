@@ -1,0 +1,920 @@
+file_no,issue_code,detail
+3,TITLE_MISSING,
+3,AUTHOR_MISSING,
+3,NO_CONTENT_DATE,
+3,NOT_PDFA,
+3,PDF_SYNTAX_WARNING,Syntax Error: Can't get Fields array<0a>
+11,TITLE_TEMPLATE,ZONING BOARD OF APPEALS
+11,AUTHOR_INCONSISTENT,LORI QUEOR
+11,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+11,NOT_PDFA,
+20,TITLE_TEMPLATE,ZONING BOARD OF APPEALS
+20,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+20,NOT_PDFA,
+20,TYPE_UNCLASSIFIED,
+23,TITLE_TEMPLATE,ZONING BOARD OF APPEALS
+23,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+23,NOT_PDFA,
+23,TYPE_UNCLASSIFIED,
+31,TITLE_MISSING,
+31,AUTHOR_MISSING,
+31,NO_CONTENT_DATE,
+31,FONTS_NOT_EMBEDDED,17 of 41 not embedded
+31,NOT_PDFA,
+33,NO_TEXT_LAYER,"43 page(s), image only"
+33,TITLE_MISSING,
+33,AUTHOR_MISSING,
+33,NOT_PDFA,
+33,TYPE_UNCLASSIFIED,
+43,TITLE_FILENAME,PotsdamDraftReport1.pub
+43,NO_CONTENT_DATE,
+43,FONTS_NOT_EMBEDDED,3 of 21 not embedded
+43,NOT_PDFA,
+43,EXACT_DUPLICATE,same bytes as 47.pdf
+44,NO_TEXT_LAYER,"1 page(s), image only"
+44,TITLE_MISSING,
+44,AUTHOR_MISSING,
+44,NOT_PDFA,
+44,TYPE_UNCLASSIFIED,
+47,TITLE_FILENAME,PotsdamDraftReport1.pub
+47,NO_CONTENT_DATE,
+47,FONTS_NOT_EMBEDDED,3 of 21 not embedded
+47,NOT_PDFA,
+47,EXACT_DUPLICATE,same bytes as 43.pdf
+48,NO_TEXT_LAYER,"24 page(s), image only"
+48,TITLE_MISSING,
+48,AUTHOR_MISSING,
+48,NOT_PDFA,
+48,TYPE_UNCLASSIFIED,
+53,AUTHOR_MISSING,
+53,NO_CONTENT_DATE,
+53,NOT_PDFA,
+53,EXACT_DUPLICATE,same bytes as 54.pdf
+57,NO_TEXT_LAYER,"7 page(s), image only"
+57,TITLE_MISSING,
+57,AUTHOR_MISSING,
+57,NOT_PDFA,
+57,TYPE_UNCLASSIFIED,
+59,TITLE_MISSING,
+59,AUTHOR_MISSING,
+59,NO_CONTENT_DATE,
+59,NOT_PDFA,
+67,TITLE_TEMPLATE,ZONING BOARD OF APPEALS
+67,AUTHOR_INCONSISTENT,LORI QUEOR
+67,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+67,NOT_PDFA,
+70,NO_TEXT_LAYER,"5 page(s), image only"
+70,NOT_PDFA,
+70,EXACT_DUPLICATE,same bytes as 69.pdf
+70,TYPE_UNCLASSIFIED,
+71,NO_TEXT_LAYER,"32 page(s), image only"
+71,TITLE_MISSING,
+71,AUTHOR_MISSING,
+71,NOT_PDFA,
+71,TYPE_UNCLASSIFIED,
+73,TITLE_TEMPLATE,ZONING BOARD OF APPEALS
+73,AUTHOR_INCONSISTENT,LORI QUEOR
+73,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+73,NOT_PDFA,
+110,NO_TEXT_LAYER,"54 page(s), image only"
+110,TITLE_MISSING,
+110,AUTHOR_MISSING,
+110,NOT_PDFA,
+110,TYPE_UNCLASSIFIED,
+190,NO_TEXT_LAYER,"37 page(s), image only"
+190,TITLE_MISSING,
+190,AUTHOR_MISSING,
+190,NOT_PDFA,
+190,TYPE_UNCLASSIFIED,
+205,NO_TEXT_LAYER,"6 page(s), image only"
+205,TITLE_MISSING,
+205,AUTHOR_MISSING,
+205,NOT_PDFA,
+205,TYPE_UNCLASSIFIED,
+209,NO_TEXT_LAYER,"93 page(s), image only"
+209,TITLE_MISSING,
+209,AUTHOR_MISSING,
+209,NOT_PDFA,
+209,TYPE_UNCLASSIFIED,
+210,NO_TEXT_LAYER,"4 page(s), image only"
+210,TITLE_MISSING,
+210,AUTHOR_MISSING,
+210,NOT_PDFA,
+210,TYPE_UNCLASSIFIED,
+225,TITLE_TEMPLATE,ZONING BOARD OF APPEALS
+225,AUTHOR_INCONSISTENT,LORI QUEOR
+225,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+225,NOT_PDFA,
+232,NO_TEXT_LAYER,"45 page(s), image only"
+232,TITLE_MISSING,
+232,AUTHOR_MISSING,
+232,NOT_PDFA,
+232,TYPE_UNCLASSIFIED,
+249,NO_TEXT_LAYER,"21 page(s), image only"
+249,TITLE_MISSING,
+249,AUTHOR_MISSING,
+249,NOT_PDFA,
+249,TYPE_UNCLASSIFIED,
+254,NO_TEXT_LAYER,"22 page(s), image only"
+254,TITLE_MISSING,
+254,AUTHOR_MISSING,
+254,NOT_PDFA,
+254,TYPE_UNCLASSIFIED,
+263,NO_TEXT_LAYER,"42 page(s), image only"
+263,TITLE_MISSING,
+263,AUTHOR_MISSING,
+263,NOT_PDFA,
+263,TYPE_UNCLASSIFIED,
+268,TITLE_FILENAME,potsdamfees.xlsx
+268,NOT_PDFA,
+287,NO_TEXT_LAYER,"1 page(s), image only"
+287,TITLE_MISSING,
+287,AUTHOR_MISSING,
+287,NOT_PDFA,
+287,TYPE_UNCLASSIFIED,
+292,NO_TEXT_LAYER,"52 page(s), image only"
+292,TITLE_MISSING,
+292,AUTHOR_MISSING,
+292,NOT_PDFA,
+292,TYPE_UNCLASSIFIED,
+311,NO_TEXT_LAYER,"4 page(s), image only"
+311,TITLE_MISSING,
+311,AUTHOR_MISSING,
+311,NOT_PDFA,
+311,TYPE_UNCLASSIFIED,
+315,NO_TEXT_LAYER,"6 page(s), image only"
+315,TITLE_MISSING,
+315,AUTHOR_MISSING,
+315,NOT_PDFA,
+315,TYPE_UNCLASSIFIED,
+316,NO_TEXT_LAYER,"4 page(s), image only"
+316,TITLE_MISSING,
+316,AUTHOR_MISSING,
+316,NOT_PDFA,
+316,TYPE_UNCLASSIFIED,
+319,NO_TEXT_LAYER,"7 page(s), image only"
+319,TITLE_MISSING,
+319,AUTHOR_MISSING,
+319,NOT_PDFA,
+319,TYPE_UNCLASSIFIED,
+320,NO_TEXT_LAYER,"2 page(s), image only"
+320,TITLE_MISSING,
+320,AUTHOR_MISSING,
+320,NOT_PDFA,
+320,TYPE_UNCLASSIFIED,
+332,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+332,FONTS_NOT_EMBEDDED,1 of 3 not embedded
+332,NOT_PDFA,
+342,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+342,FONTS_NOT_EMBEDDED,2 of 4 not embedded
+342,NOT_PDFA,
+352,NO_TEXT_LAYER,"43 page(s), image only"
+352,TITLE_MISSING,
+352,AUTHOR_MISSING,
+352,NOT_PDFA,
+352,TYPE_UNCLASSIFIED,
+359,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+359,FONTS_NOT_EMBEDDED,4 of 5 not embedded
+359,NOT_PDFA,
+387,NO_TEXT_LAYER,"10 page(s), image only"
+387,TITLE_MISSING,
+387,AUTHOR_MISSING,
+387,NOT_PDFA,
+387,TYPE_UNCLASSIFIED,
+391,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+391,FONTS_NOT_EMBEDDED,2 of 4 not embedded
+391,NOT_PDFA,
+406,TITLE_TEMPLATE,AGENDA - PUBLIC HEARING
+406,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+406,NOT_PDFA,
+407,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+407,FONTS_NOT_EMBEDDED,2 of 4 not embedded
+407,NOT_PDFA,
+420,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+420,FONTS_NOT_EMBEDDED,1 of 3 not embedded
+420,NOT_PDFA,
+434,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+434,FONTS_NOT_EMBEDDED,2 of 4 not embedded
+434,NOT_PDFA,
+451,TITLE_TEMPLATE,AGENDA - PUBLIC HEARING
+451,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+451,NOT_PDFA,
+473,TITLE_MISSING,
+473,AUTHOR_MISSING,
+473,NO_CONTENT_DATE,
+473,NOT_PDFA,
+473,EXACT_DUPLICATE,same bytes as 63.pdf
+477,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+477,FONTS_NOT_EMBEDDED,4 of 6 not embedded
+477,NOT_PDFA,
+489,TITLE_TEMPLATE,AGENDA - PUBLIC HEARING
+489,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+489,NOT_PDFA,
+492,FONTS_NOT_EMBEDDED,2 of 2 not embedded
+492,NOT_PDFA,
+493,FONTS_NOT_EMBEDDED,2 of 2 not embedded
+493,NOT_PDFA,
+496,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+496,FONTS_NOT_EMBEDDED,1 of 3 not embedded
+496,NOT_PDFA,
+511,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+511,FONTS_NOT_EMBEDDED,1 of 3 not embedded
+511,NOT_PDFA,
+518,TITLE_TEMPLATE,"A Special Meeting of the Village of Potsdam Board of Trustees was held on Monday, March 25, 2013 at 4:15 P"
+518,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+518,NOT_PDFA,
+521,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+521,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+521,NOT_PDFA,
+524,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+524,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+524,NOT_PDFA,
+526,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+526,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+526,NOT_PDFA,
+527,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+527,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+527,NOT_PDFA,
+528,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+528,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+528,NOT_PDFA,
+529,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+529,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+529,NOT_PDFA,
+530,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+530,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+530,NOT_PDFA,
+532,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+532,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+532,NOT_PDFA,
+534,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+534,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+534,NOT_PDFA,
+538,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+538,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+538,NOT_PDFA,
+542,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+542,FONTS_NOT_EMBEDDED,4 of 7 not embedded
+542,NOT_PDFA,
+543,TITLE_MISSING,
+543,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+543,NOT_PDFA,
+544,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+544,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+544,NOT_PDFA,
+547,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+547,FONTS_NOT_EMBEDDED,4 of 5 not embedded
+547,NOT_PDFA,
+551,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+551,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+551,NOT_PDFA,
+557,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+557,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+557,NOT_PDFA,
+558,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+558,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+558,NOT_PDFA,
+559,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+559,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+559,NOT_PDFA,
+563,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+563,FONTS_NOT_EMBEDDED,1 of 3 not embedded
+563,NOT_PDFA,
+568,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+568,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+568,NOT_PDFA,
+573,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+573,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+573,NOT_PDFA,
+578,TITLE_TEMPLATE,AGENDA - PUBLIC HEARING
+578,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+578,NOT_PDFA,
+579,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+579,FONTS_NOT_EMBEDDED,2 of 4 not embedded
+579,NOT_PDFA,
+584,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+584,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+584,NOT_PDFA,
+585,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+585,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+585,NOT_PDFA,
+588,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+588,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+588,NOT_PDFA,
+594,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+594,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+594,NOT_PDFA,
+596,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+596,FONTS_NOT_EMBEDDED,1 of 3 not embedded
+596,NOT_PDFA,
+597,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+597,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+597,NOT_PDFA,
+607,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+607,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+607,NOT_PDFA,
+610,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+610,FONTS_NOT_EMBEDDED,1 of 3 not embedded
+610,NOT_PDFA,
+611,NO_TEXT_LAYER,"43 page(s), image only"
+611,TITLE_MISSING,
+611,AUTHOR_MISSING,
+611,NOT_PDFA,
+611,EXACT_DUPLICATE,same bytes as 940.pdf
+611,TYPE_UNCLASSIFIED,
+613,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+613,FONTS_NOT_EMBEDDED,2 of 4 not embedded
+613,NOT_PDFA,
+615,NO_TEXT_LAYER,"4 page(s), image only"
+615,TITLE_MISSING,
+615,AUTHOR_MISSING,
+615,NOT_PDFA,
+615,TYPE_UNCLASSIFIED,
+616,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+616,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+616,NOT_PDFA,
+617,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+617,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+617,NOT_PDFA,
+618,TITLE_MISSING,
+618,FONTS_NOT_EMBEDDED,2 of 2 not embedded
+618,NOT_PDFA,
+634,TITLE_TEMPLATE,AGENDA - PUBLIC HEARING
+634,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+634,NOT_PDFA,
+636,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+636,FONTS_NOT_EMBEDDED,1 of 3 not embedded
+636,NOT_PDFA,
+646,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+646,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+646,NOT_PDFA,
+647,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+647,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+647,NOT_PDFA,
+648,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+648,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+648,NOT_PDFA,
+651,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+651,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+651,NOT_PDFA,
+654,NO_TEXT_LAYER,"1 page(s), image only"
+654,TITLE_MISSING,
+654,AUTHOR_MISSING,
+654,NOT_PDFA,
+654,TYPE_UNCLASSIFIED,
+660,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+660,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+660,NOT_PDFA,
+662,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+662,FONTS_NOT_EMBEDDED,1 of 3 not embedded
+662,NOT_PDFA,
+663,TITLE_TEMPLATE,AGENDA - PUBLIC HEARING
+663,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+663,NOT_PDFA,
+664,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+664,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+664,NOT_PDFA,
+665,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+665,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+665,NOT_PDFA,
+666,TITLE_MISSING,
+666,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+666,NOT_PDFA,
+667,TITLE_TEMPLATE,"A Special Meeting of the Village of Potsdam Board of Trustees was held on Monday, March 25, 2013 at 4:15 P"
+667,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+667,NOT_PDFA,
+669,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+669,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+669,NOT_PDFA,
+670,TITLE_TEMPLATE,AGENDA - PUBLIC HEARING
+670,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+670,NOT_PDFA,
+671,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+671,FONTS_NOT_EMBEDDED,1 of 3 not embedded
+671,NOT_PDFA,
+678,TITLE_TEMPLATE,AGENDA - PUBLIC HEARING
+678,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+678,NOT_PDFA,
+687,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+687,FONTS_NOT_EMBEDDED,4 of 6 not embedded
+687,NOT_PDFA,
+690,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+690,FONTS_NOT_EMBEDDED,1 of 3 not embedded
+690,NOT_PDFA,
+691,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+691,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+691,NOT_PDFA,
+693,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+693,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+693,NOT_PDFA,
+700,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+700,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+700,NOT_PDFA,
+703,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+703,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+703,NOT_PDFA,
+704,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+704,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+704,NOT_PDFA,
+706,TITLE_TEMPLATE,AGENDA - PUBLIC HEARING
+706,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+706,NOT_PDFA,
+714,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+714,FONTS_NOT_EMBEDDED,3 of 5 not embedded
+714,NOT_PDFA,
+716,TITLE_MISSING,
+716,AUTHOR_MISSING,
+716,NO_CONTENT_DATE,
+716,CREATION_DATE_RESAVED,2023-10-08 via macOS Version 13.4.1 (c) (Build 22F770820d) Quartz PDFContext
+716,NOT_PDFA,
+718,TITLE_TEMPLATE,AGENDA - PUBLIC HEARING
+718,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+718,NOT_PDFA,
+727,TITLE_TEMPLATE,AGENDA - PUBLIC HEARING
+727,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+727,NOT_PDFA,
+729,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+729,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+729,NOT_PDFA,
+735,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+735,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+735,NOT_PDFA,
+739,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+739,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+739,NOT_PDFA,
+739,EXACT_DUPLICATE,same bytes as 738.pdf
+740,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+740,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+740,NOT_PDFA,
+741,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+741,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+741,NOT_PDFA,
+743,NO_TEXT_LAYER,"6 page(s), image only"
+743,TITLE_MISSING,
+743,AUTHOR_MISSING,
+743,NOT_PDFA,
+743,TYPE_UNCLASSIFIED,
+745,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+745,FONTS_NOT_EMBEDDED,2 of 5 not embedded
+745,NOT_PDFA,
+749,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+749,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+749,NOT_PDFA,
+751,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+751,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+751,NOT_PDFA,
+752,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+752,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+752,NOT_PDFA,
+756,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+756,FONTS_NOT_EMBEDDED,3 of 6 not embedded
+756,NOT_PDFA,
+762,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+762,FONTS_NOT_EMBEDDED,1 of 3 not embedded
+762,NOT_PDFA,
+763,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+763,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+763,NOT_PDFA,
+764,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+764,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+764,NOT_PDFA,
+766,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+766,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+766,NOT_PDFA,
+769,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+769,FONTS_NOT_EMBEDDED,3 of 5 not embedded
+769,NOT_PDFA,
+771,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+771,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+771,NOT_PDFA,
+781,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+781,FONTS_NOT_EMBEDDED,1 of 3 not embedded
+781,NOT_PDFA,
+784,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+784,FONTS_NOT_EMBEDDED,2 of 4 not embedded
+784,NOT_PDFA,
+786,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+786,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+786,NOT_PDFA,
+787,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+787,FONTS_NOT_EMBEDDED,1 of 3 not embedded
+787,NOT_PDFA,
+791,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+791,FONTS_NOT_EMBEDDED,1 of 3 not embedded
+791,NOT_PDFA,
+793,NO_TEXT_LAYER,"6 page(s), image only"
+793,TITLE_MISSING,
+793,AUTHOR_MISSING,
+793,NOT_PDFA,
+793,TYPE_UNCLASSIFIED,
+795,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+795,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+795,NOT_PDFA,
+804,NO_TEXT_LAYER,"72 page(s), image only"
+804,TITLE_MISSING,
+804,AUTHOR_MISSING,
+804,NOT_PDFA,
+804,TYPE_UNCLASSIFIED,
+806,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+806,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+806,NOT_PDFA,
+808,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+808,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+808,NOT_PDFA,
+815,TITLE_TEMPLATE,AGENDA - PUBLIC HEARING
+815,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+815,NOT_PDFA,
+820,NO_TEXT_LAYER,"8 page(s), image only"
+820,TITLE_MISSING,
+820,AUTHOR_MISSING,
+820,NOT_PDFA,
+820,TYPE_UNCLASSIFIED,
+822,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+822,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+822,NOT_PDFA,
+824,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+824,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+824,NOT_PDFA,
+827,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+827,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+827,NOT_PDFA,
+829,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+829,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+829,NOT_PDFA,
+832,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+832,FONTS_NOT_EMBEDDED,3 of 4 not embedded
+832,NOT_PDFA,
+842,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+842,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+842,NOT_PDFA,
+844,NO_TEXT_LAYER,"1 page(s), image only"
+844,TITLE_MISSING,
+844,AUTHOR_MISSING,
+844,NOT_PDFA,
+844,TYPE_UNCLASSIFIED,
+849,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+849,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+849,NOT_PDFA,
+853,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+853,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+853,NOT_PDFA,
+857,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+857,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+857,NOT_PDFA,
+858,NO_TEXT_LAYER,"18 page(s), image only"
+858,TITLE_MISSING,
+858,AUTHOR_MISSING,
+858,NOT_PDFA,
+858,TYPE_UNCLASSIFIED,
+860,NO_TEXT_LAYER,"1 page(s), image only"
+860,TITLE_MISSING,
+860,AUTHOR_MISSING,
+860,NOT_PDFA,
+860,EXACT_DUPLICATE,same bytes as 859.pdf
+860,TYPE_UNCLASSIFIED,
+863,TITLE_MISSING,
+863,AUTHOR_MISSING,
+863,NO_CONTENT_DATE,
+863,FONTS_NOT_EMBEDDED,2 of 4 not embedded
+863,NOT_PDFA,
+863,TYPE_UNCLASSIFIED,
+865,NO_TEXT_LAYER,"3 page(s), image only"
+865,TITLE_MISSING,
+865,AUTHOR_MISSING,
+865,NOT_PDFA,
+865,TYPE_UNCLASSIFIED,
+871,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+871,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+871,NOT_PDFA,
+873,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+873,FONTS_NOT_EMBEDDED,1 of 3 not embedded
+873,NOT_PDFA,
+874,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+874,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+874,NOT_PDFA,
+875,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+875,FONTS_NOT_EMBEDDED,1 of 3 not embedded
+875,NOT_PDFA,
+877,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+877,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+877,NOT_PDFA,
+880,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+880,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+880,NOT_PDFA,
+883,NO_TEXT_LAYER,"29 page(s), image only"
+883,TITLE_MISSING,
+883,AUTHOR_MISSING,
+883,NOT_PDFA,
+883,TYPE_UNCLASSIFIED,
+884,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+884,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+884,NOT_PDFA,
+885,AUTHOR_MISSING,
+885,NOT_PDFA,
+889,TITLE_MISSING,
+889,AUTHOR_MISSING,
+889,NOT_PDFA,
+892,TITLE_TEMPLATE,AGENDA - PUBLIC HEARING
+892,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+892,NOT_PDFA,
+895,TITLE_MISSING,
+895,NOT_PDFA,
+895,TYPE_UNCLASSIFIED,
+896,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+896,FONTS_NOT_EMBEDDED,3 of 5 not embedded
+896,NOT_PDFA,
+898,TITLE_TEMPLATE,AGENDA - PUBLIC HEARING
+898,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+898,NOT_PDFA,
+903,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+903,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+903,NOT_PDFA,
+910,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+910,FONTS_NOT_EMBEDDED,3 of 5 not embedded
+910,NOT_PDFA,
+912,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+912,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+912,NOT_PDFA,
+913,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+913,FONTS_NOT_EMBEDDED,3 of 4 not embedded
+913,NOT_PDFA,
+916,TITLE_MISSING,
+916,NO_CONTENT_DATE,
+916,NOT_PDFA,
+916,TYPE_UNCLASSIFIED,
+918,TITLE_TEMPLATE,AGENDA - PUBLIC HEARING
+918,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+918,NOT_PDFA,
+921,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+921,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+921,NOT_PDFA,
+927,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+927,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+927,NOT_PDFA,
+929,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+929,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+929,NOT_PDFA,
+930,TITLE_MISSING,
+930,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+930,NOT_PDFA,
+938,NO_TEXT_LAYER,"34 page(s), image only"
+938,TITLE_MISSING,
+938,AUTHOR_MISSING,
+938,NOT_PDFA,
+938,TYPE_UNCLASSIFIED,
+940,NO_TEXT_LAYER,"43 page(s), image only"
+940,TITLE_MISSING,
+940,AUTHOR_MISSING,
+940,NOT_PDFA,
+940,EXACT_DUPLICATE,same bytes as 611.pdf
+940,TYPE_UNCLASSIFIED,
+941,NO_TEXT_LAYER,"42 page(s), image only"
+941,TITLE_MISSING,
+941,AUTHOR_MISSING,
+941,NOT_PDFA,
+941,EXACT_DUPLICATE,same bytes as 471.pdf
+941,TYPE_UNCLASSIFIED,
+951,NO_TEXT_LAYER,"24 page(s), image only"
+951,TITLE_MISSING,
+951,AUTHOR_MISSING,
+951,NOT_PDFA,
+951,TYPE_UNCLASSIFIED,
+953,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+953,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+953,NOT_PDFA,
+954,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+954,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+954,NOT_PDFA,
+955,NO_TEXT_LAYER,"17 page(s), image only"
+955,TITLE_MISSING,
+955,AUTHOR_MISSING,
+955,NOT_PDFA,
+955,TYPE_UNCLASSIFIED,
+957,NO_TEXT_LAYER,"1 page(s), image only"
+957,TITLE_MISSING,
+957,AUTHOR_MISSING,
+957,NOT_PDFA,
+957,TYPE_UNCLASSIFIED,
+959,TITLE_TEMPLATE,AGENDA - PUBLIC HEARING
+959,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+959,NOT_PDFA,
+960,NO_TEXT_LAYER,"4 page(s), image only"
+960,TITLE_MISSING,
+960,AUTHOR_MISSING,
+960,NOT_PDFA,
+960,TYPE_UNCLASSIFIED,
+961,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+961,FONTS_NOT_EMBEDDED,3 of 5 not embedded
+961,NOT_PDFA,
+971,NO_TEXT_LAYER,"1 page(s), image only"
+971,AUTHOR_MISSING,
+971,CREATION_DATE_RESAVED,2023-10-08 via macOS Version 13.4.1 (c) (Build 22F770820d) Quartz PDFContext
+971,NOT_PDFA,
+971,LOW_RES_SCAN,82 ppi
+971,TYPE_UNCLASSIFIED,
+976,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+976,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+976,NOT_PDFA,
+976,TYPE_UNCLASSIFIED,
+977,NO_TEXT_LAYER,"15 page(s), image only"
+977,TITLE_MISSING,
+977,AUTHOR_MISSING,
+977,NOT_PDFA,
+977,TYPE_UNCLASSIFIED,
+978,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+978,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+978,NOT_PDFA,
+981,TITLE_MISSING,
+981,AUTHOR_MISSING,
+981,CREATION_DATE_RESAVED,2023-10-08 via macOS Version 13.4.1 (c) (Build 22F770820d) Quartz PDFContext
+981,NOT_PDFA,
+982,NO_TEXT_LAYER,"1 page(s), image only"
+982,TITLE_MISSING,
+982,AUTHOR_MISSING,
+982,NOT_PDFA,
+982,EXACT_DUPLICATE,same bytes as 980.pdf
+982,TYPE_UNCLASSIFIED,
+984,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+984,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+984,NOT_PDFA,
+985,TITLE_MISSING,
+985,FONTS_NOT_EMBEDDED,2 of 4 not embedded
+985,NOT_PDFA,
+985,TYPE_UNCLASSIFIED,
+990,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+990,FONTS_NOT_EMBEDDED,1 of 3 not embedded
+990,NOT_PDFA,
+991,NO_TEXT_LAYER,"15 page(s), image only"
+991,TITLE_MISSING,
+991,AUTHOR_MISSING,
+991,NOT_PDFA,
+991,EXACT_DUPLICATE,same bytes as 992.pdf
+991,TYPE_UNCLASSIFIED,
+1001,TITLE_MISSING,
+1001,AUTHOR_MISSING,
+1001,CREATION_DATE_RESAVED,2023-10-08 via macOS Version 13.4.1 (c) (Build 22F770820d) Quartz PDFContext
+1001,NOT_PDFA,
+1012,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+1012,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+1012,NOT_PDFA,
+1015,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+1015,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+1015,NOT_PDFA,
+1017,TITLE_TEMPLATE,"An Executive Session of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 7:44 P"
+1017,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+1017,NOT_PDFA,
+1020,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+1020,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+1020,NOT_PDFA,
+1022,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+1022,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+1022,NOT_PDFA,
+1026,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+1026,FONTS_NOT_EMBEDDED,2 of 4 not embedded
+1026,NOT_PDFA,
+1040,TITLE_MISSING,
+1040,AUTHOR_MISSING,
+1040,NO_CONTENT_DATE,
+1040,CREATION_DATE_RESAVED,2023-10-08 via macOS Version 13.4.1 (c) (Build 22F770820d) Quartz PDFContext
+1040,NOT_PDFA,
+1040,TYPE_UNCLASSIFIED,
+1044,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+1044,NOT_PDFA,
+1051,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+1051,FONTS_NOT_EMBEDDED,3 of 5 not embedded
+1051,NOT_PDFA,
+1058,TITLE_TEMPLATE,AGENDA - PUBLIC HEARING
+1058,FONTS_NOT_EMBEDDED,2 of 3 not embedded
+1058,NOT_PDFA,
+1059,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+1059,FONTS_NOT_EMBEDDED,3 of 4 not embedded
+1059,NOT_PDFA,
+1060,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+1060,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+1060,NOT_PDFA,
+1072,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+1072,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+1072,NOT_PDFA,
+1074,NO_TEXT_LAYER,"1 page(s), image only"
+1074,TITLE_MISSING,
+1074,AUTHOR_MISSING,
+1074,NOT_PDFA,
+1074,EXACT_DUPLICATE,same bytes as 1073.pdf
+1074,TYPE_UNCLASSIFIED,
+1075,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+1075,FONTS_NOT_EMBEDDED,1 of 3 not embedded
+1075,NOT_PDFA,
+1077,NO_TEXT_LAYER,"20 page(s), image only"
+1077,TITLE_MISSING,
+1077,AUTHOR_MISSING,
+1077,NOT_PDFA,
+1077,TYPE_UNCLASSIFIED,
+1078,TITLE_MISSING,
+1078,AUTHOR_MISSING,
+1078,CREATION_DATE_RESAVED,2023-10-08 via macOS Version 13.4.1 (c) (Build 22F770820d) Quartz PDFContext
+1078,NOT_PDFA,
+1079,TITLE_MISSING,
+1079,AUTHOR_MISSING,
+1079,CREATION_DATE_RESAVED,2023-10-08 via macOS Version 13.4.1 (c) (Build 22F770820d) Quartz PDFContext
+1079,NOT_PDFA,
+1081,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+1081,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+1081,NOT_PDFA,
+1082,TITLE_MISSING,
+1082,AUTHOR_MISSING,
+1082,NO_CONTENT_DATE,
+1082,CREATION_DATE_RESAVED,2023-10-08 via macOS Version 13.4.1 (c) (Build 22F770820d) Quartz PDFContext
+1082,NOT_PDFA,
+1083,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+1083,FONTS_NOT_EMBEDDED,1 of 3 not embedded
+1083,NOT_PDFA,
+1085,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+1085,FONTS_NOT_EMBEDDED,2 of 4 not embedded
+1085,NOT_PDFA,
+1087,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+1087,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+1087,NOT_PDFA,
+1088,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+1088,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+1088,NOT_PDFA,
+1094,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+1094,FONTS_NOT_EMBEDDED,1 of 3 not embedded
+1094,NOT_PDFA,
+1103,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+1103,FONTS_NOT_EMBEDDED,2 of 4 not embedded
+1103,NOT_PDFA,
+1110,NO_TEXT_LAYER,"33 page(s), image only"
+1110,TITLE_MISSING,
+1110,AUTHOR_MISSING,
+1110,NOT_PDFA,
+1110,EXACT_DUPLICATE,same bytes as 1109.pdf
+1110,TYPE_UNCLASSIFIED,
+1118,TITLE_TEMPLATE,"Trustee Tischler Moved and Trustee Warr Seconded a resolution approving the partial expenditures for the month of January 2014 in the amount of $207,981"
+1118,FONTS_NOT_EMBEDDED,2 of 4 not embedded
+1118,NOT_PDFA,
+1119,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+1119,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+1119,NOT_PDFA,
+1120,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+1120,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+1120,NOT_PDFA,
+1139,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+1139,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+1139,NOT_PDFA,
+1140,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+1140,FONTS_NOT_EMBEDDED,1 of 1 not embedded
+1140,NOT_PDFA,
+1143,TITLE_MISSING,
+1143,AUTHOR_MISSING,
+1143,NO_CONTENT_DATE,
+1143,CREATION_DATE_RESAVED,2023-10-08 via macOS Version 13.4.1 (c) (Build 22F770820d) Quartz PDFContext
+1143,NOT_PDFA,
+1145,TITLE_MISSING,
+1145,AUTHOR_MISSING,
+1145,CREATION_DATE_RESAVED,2023-10-08 via macOS Version 13.4.1 (c) (Build 22F770820d) Quartz PDFContext
+1145,NOT_PDFA,
+1146,TITLE_MISSING,
+1146,AUTHOR_MISSING,
+1146,CREATION_DATE_RESAVED,2023-10-08 via macOS Version 13.4.1 (c) (Build 22F770820d) Quartz PDFContext
+1146,NOT_PDFA,
+1147,TITLE_MISSING,
+1147,AUTHOR_MISSING,
+1147,CREATION_DATE_RESAVED,2023-10-08 via macOS Version 13.4.1 (c) (Build 22F770820d) Quartz PDFContext
+1147,NOT_PDFA,
+1150,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+1150,FONTS_NOT_EMBEDDED,2 of 4 not embedded
+1150,NOT_PDFA,
+1151,TITLE_TEMPLATE,POINT OUT THE LOCATION OF THE EXITS ON THE NORTH AND EAST WALLS OF THE BOARD ROOM
+1151,FONTS_NOT_EMBEDDED,2 of 4 not embedded
+1151,NOT_PDFA,
+1158,TITLE_TEMPLATE,"A Public Hearing of the Village of Potsdam Board of Trustees was held on Monday, January 21, 2013 at 6:45 P"
+1158,FONTS_NOT_EMBEDDED,1 of 2 not embedded
+1158,NOT_PDFA,
+1161,TITLE_MISSING,
+1161,FONTS_NOT_EMBEDDED,2 of 4 not embedded
+1161,NOT_PDFA,
+1161,EXACT_DUPLICATE,"same bytes as 1156.pdf, 1157.pdf"
+1163,TITLE_MISSING,
+1163,NO_CONTENT_DATE,
+1163,FONTS_NOT_EMBEDDED,2 of 6 not embedded
+1163,NOT_PDFA,
+885,TEXT_LAYER_DEFECTIVE,pages 5-25 contain no digits in layer; OCR recovers them (e.g. 'founded in 1806')
+43,IMAGE_ONLY_PAGES,"pages 65, 73-77 image only (maps)"
+47,IMAGE_ONLY_PAGES,exact copy of 43.pdf; same image-only pages
+863,IMAGE_ONLY_PAGES,pages 5-7 image only
+889,TEXT_IN_IMAGES,survey charts: labels exist only as images (p17)
+44,OCR_HARD_CONTENT,street map
+982,OCR_HARD_CONTENT,colour-coded calendar; B-week column dropped by OCR
+190,OCR_HARD_CONTENT,rotated financial spreadsheet
+209,OCR_HARD_CONTENT,tables/charts on low-confidence pages
+110,ROTATED_PAGES,3 page(s); confirmed by OSD or best-of-4-rotations OCR test
+190,ROTATED_PAGES,3 page(s); confirmed by OSD or best-of-4-rotations OCR test
+209,ROTATED_PAGES,38 page(s); confirmed by OSD or best-of-4-rotations OCR test
+249,ROTATED_PAGES,1 page(s); confirmed by OSD or best-of-4-rotations OCR test
+263,ROTATED_PAGES,1 page(s); confirmed by OSD or best-of-4-rotations OCR test
+292,ROTATED_PAGES,4 page(s); confirmed by OSD or best-of-4-rotations OCR test
+352,ROTATED_PAGES,1 page(s); confirmed by OSD or best-of-4-rotations OCR test
+883,ROTATED_PAGES,3 page(s); confirmed by OSD or best-of-4-rotations OCR test
+941,ROTATED_PAGES,1 page(s); confirmed by OSD or best-of-4-rotations OCR test
+615,HALFTONE_BACKGROUND,p1: 95% of words lost
+232,HANDWRITING,"p35: all handwritten values misread, incl. amount $42.13 read as 472,13"

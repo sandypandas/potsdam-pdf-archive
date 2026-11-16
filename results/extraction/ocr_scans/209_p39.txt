@@ -1,0 +1,50 @@
+B. Travel Times and Traffic Operations
+
+The high-level operational analysis considered two primary elements: travel time and
+volume/capacity ratios. The new freeway alignment could be expected to reduce travel times for
+many trips in the corridor. It would reduce travel times more for longer trips, with smaller
+reductions for shorter trips. It is estimated that travelers crossing much of the corridor could
+save as much as 30 to 35 minutes in travel time, possibly more during peak travel times. Short
+trips might only be reduced by a few minutes.
+
+Travel time savings will depend greatly on the origin and destination of the trip. For example,
+travelers between the east side of Canton and downtown Potsdam would be better served by the
+existing Route 11, rather than going northwest to access the new freeway and then traveling into
+town from the new interchange outside Potsdam. Thus, it is important to recognize that many
+local trips (which compose much of the Route 11 corridor traffic) are likely to remain on Route
+11 and other local roadways. However, there will be an overall reduction in travel time for
+drivers in the corridor with a new grade-separated facility. In addition, the proposed alignment
+could result in a decrease in through traffic along the Route 11 corridor, which could result in a
+decrease in travel time delay. An order-of-magnitude estimate of potential travel time savings
+for all vehicles in the corridor ranges from 5 percent to 10 percent. ,
+
+The preliminary 2064 daily volume forecasts on the proposed freeway range from 1,800 to
+7,100 vehicles per day (vpd). The projected volumes indicate that the proposed highway
+alignment would be expected to function at level of service (LOS) A, or free-flow conditions,
+throughout 30-year planning horizon. The maximum planning level capacity of a proposed four-
+lane freeway is as much as 60,000 vpd. Traffic volumes of approximately 29,000 are consistent
+with LOS B, which is near free-flow conditions.
+
+The volumes on the existing two-lane highways in the vicinity of population centers in the
+Watertown-Plattsburgh corridor are projected to operate generally in the LOS B to C range
+(4,700 to 8,400 vpd) throughout the planning horizon based on rural planning level capacities for
+undeveloped areas. However, the LOS for some highway segments could degrade to LOS D,
+corresponding to an increase in traffic volume to 14,300 vpd. With the proposed alignment, the
+reduced volumes on the existing highways could improve the levels of service on nearly all rural
+segments outside of the developed areas to LOS B.
+
+Cc. Safety Assessment
+
+The proposed freeway facility, a four-lane divided highway, will attract traffic from Route 11 as
+well as several other North Country roadways. Table 15 presents statewide average crash rates
+by highway type for two major highway types found in the study area. It also presents the
+statewide average crash rate information for a rural four-lane divided highway with full access
+control. By estimating the volume of traffic traveling on each highway types in the No-Build and
+Build scenarios, it is possible to assess the potential safety benefits of the new roadway.
+
+Most of the highways in the North Country area (including most of the Route 11 corridor) are
+
+two-lane undivided rural highways with no access controls. The typical crash rate for this type of
+highway is 2.68 crashes per million vehicle miles (C/MVM). Where a two-lane highway enters
+
+35

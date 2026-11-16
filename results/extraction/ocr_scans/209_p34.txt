@@ -1,0 +1,42 @@
+Once maximum through flows were established, traffic volume diversion to the proposed
+alignment was estimated. To estimate the percentage of diverted traffic from Route 11, the
+California diversion curve equation was used. This is a generalized formula that estimates
+diverted traffic volumes between two points based on the change in travel distance and travel
+time. Estimates were made for the travel distance key points and for the travel time the same key
+points. Then new values for travel distance and travel time were estimated based on the
+proposed alignment using generalized assumptions about average speed.
+
+General traffic diversion percentages were developed that ranged from 15 percent to 45 percent
+depending on the length of the trip and the amount of time that could be saved. For many trips, a
+25 percent to 30 percent diversion was likely. The 15 percent diversion values were applied to
+traffic on the SR 37 corridor due to the longer travel distance to the proposed alignment. A
+relatively conservative value of 40 percent was applied to the Route 11 corridor cut lines as an
+initial estimate. The resulting volumes likely overstate the diverted traffic. However, induced
+demand in the corridor was not considered in the traffic diversion calculations. Therefore, using
+a conservative diversion percentage compensates for the inability to estimate new regional
+cross-state traffic that could potentially divert from Interstate 90, Highway 401 in Canada, or
+other highways. Table 13and Table 14 present the estimated 2014 No-Build and Build traffic
+volumes.
+
+Traffic has not increased substantially in the Route 11 corridor over the last decade and has
+decreased in a few locations. Therefore, a nominal growth rate of 0.5 percent was assumed for
+background growth in the corridor. A slightly higher growth rate of 1.0 percent was assumed for
+truck traffic. Based on these growth rates, the future traffic was estimated for each existing cut
+line section as well as each segment of the proposed freeway. The ETC for the freeway is 2034
+(20 years from the current year) and the planning horizon is 30 years from completion or 2064
+(ETC+30). The projected traffic volumes for these years are presented in Table 13 and Table 14.
+The volumes are also presented on Figure 10and Figure 11.
+
+As shown, the volume of traffic on the proposed alignment is estimated to be between 1,400 and
+5,500 AADT depending on the location. It is important to note that these are preliminary,
+generalized estimates based simply on traffic count data and simplified diversion estimates. If
+more detailed information and analysis become available, these estimates may be further refined.
+However, the estimated traffic volumes yield a general basis for feasibility level planning.
+
+30
+
+ey
+
+=
+
+ma &— C

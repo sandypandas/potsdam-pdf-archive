@@ -1,0 +1,32 @@
+=
+—
+Conceptual Cost Estimate for NCAI Mainline Alternative - INTERCHANGE
+ttem No. Description Units | Quantity | Unit Price tem Cost Remarks
+oa! Unit price from NYSDOT Pay Item Catalog Price
+685.XXXX [EPOXY PAVEMENT SYMBOLS . EACH 10: $80.00 $800.00} History, Item 685.04.
+UTILITY WORK
+L_]
+STRUCTURES
+STRUCTURES ON INTERSTATE HIGHWAY OVER Assuming 102'X41', 16.5' above cross road.’Cost
+CROSS ROADS EACH 2] $550,000.00} $1,100,000.00 | from Bridge Shoulder Break Cost estimate.
+MISCELLANEOUS
+| | |
+"]
+TOTAL: $6,818,763.00
+General Assumptions:
+ry 1 All mainline interchanges are in diamond shapes, and connected to the crossing roads with 4 ramps
+2 An interchange is about 1 mile tong and 600 ft wide.
+4 Mainline is carried by dual structures over the crossing road. A structure is about 100' long and 41' wide
+3 This interchange cost estimate includes 1 mile of mainline, 4 ramps, and the dual structures.
+ry 5 Ramps and auxiliary lanes are 2500' long and 15' wide.
+6 Cross road under the new structures will need milling and resurfacing
+"7
+wd
+a
+K
+/
+kk
+bo
+i
+bon
+

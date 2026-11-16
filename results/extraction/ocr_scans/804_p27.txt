@@ -1,0 +1,64 @@
+do not have the resources to “shelter in place” or to evacuate the region during a climate
+emergency.
+
+As discussed in the literature, resilience is the ability to rebound from a disruption in a system as
+shown in Figure 8.
+
+Performance
+
+4
+y(t)
+Vi tf
+
+} Disruption
+
+LEGEND
+‘ty _ :time of disruption
+Vg Poe poeeitiome [estate on enon fas partial recovery | t, _ :time of recovery to
+steady state
+| St :time to recover from
+disruption
+‘Yi minimum post-
+disruption performance
+y(t) : performance of system
+‘Yq  : post-disruption partially
+H restored performance
+Time ‘Yq = post-disruption restored
+at performance
+time to recover from disruption
+
+full recovery
+
+maximum
+drop in
+performance
+
+Cle neon ne
+‘
+
+Figure 8. General form of reliance curve for resilience defined as rebound.’
+
+Generally, the deeper the disruption the longer it will take to recover. This kind of disruption and
+rebound can be characterized for many measures of performance, including economic
+performance. For the Northern NY area, this is particularly acute as the above statistics indicate
+that wealth reserves are relatively low. Further, as evidenced in past climate events, businesses
+across the area ceased their operations for an extended period as they recover from
+infrastructure damages. During these periods of time, while needing to make substantial
+financial outlays for repairs, they are also without an income stream. Additionally, workers are
+furloughed throughout, resulting in a lack of personal income to address home or personal
+damages as a result of these weather or other climatic events.
+
+As a case study, the Ice Storm of 1998 is highly illustrative of this effect. During this event,
+businesses were recovering from the damages for several months. The storms took out power
+lines and caused damage to telephone poles, roads, and other infrastructure. With the loss of
+power, businesses had a difficult time running at their maximum when there was often no other
+power source available. Furthermore, the response to the power outages and damages was
+often slow, causing a delay in restoration of the power and ultimately more damage across the
+Town of Potsdam. Physical and infrastructure storm damage was only part of the story however,
+as these storms caused other types of damage beyond the initial impact of the storm. For
+instance, short term and long term economic prosperity of the affected businesses was also
+
+" Mansi, Azad M., Erwin, Dan, Sievers, Michael, “Constructing Models for Systems Resilience:
+Challenges, Concepts, and Formal Methods”, Systems, 24 January 2020
+
+13

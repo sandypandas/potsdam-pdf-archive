@@ -1,0 +1,11 @@
+doc_type,series,description
+minutes - board meeting,Board of Trustees minutes,"Regular, special and annual meeting minutes"
+minutes - public hearing,Board of Trustees minutes,Minutes of public hearings
+minutes - executive session,Board of Trustees minutes,Minutes of executive sessions
+agenda - board meeting,Board of Trustees agendas,Agendas for regular/special meetings
+agenda - public hearing,Board of Trustees agendas,Agendas for public hearings
+application / form,Forms and applications,Blank or completed applications and forms
+report / plan,Reports and plans,"Studies, plans, RFP and planning reports"
+public notice,Notices,Legal and public notices
+other,Unclassified,Text present but no rule matched; needs human review
+unknown (no text layer),Unclassified,Image-only; type cannot be read until OCR

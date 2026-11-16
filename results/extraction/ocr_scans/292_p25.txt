@@ -1,0 +1,44 @@
+Development
+= } Authority
+He North
+
+Country
+
+MEMORANDUM
+TO: Lori Queor, Clerk/Treasurer, Village of Potsdam
+CC: Carrie Tuttle, Director of Engineering
+FROM: Star Carter, GIS Analyst
+DATE: 1/4/2016
+SUBJECT: Eastern St. Lawrence County Regional GIS Project Update - November
+
+Scanning Hardcopy Records: all partners 100% complete
+- Authority staff returned all records to partners
+
+Digitizing Scanned Drawings: __ % complete Field Verification: |—§ % complete
+
+- V. Potsdam: 100% - V. Potsdam: 99%
+
+- TT. Potsdam: 100% - TT. Potsdam: 100%
+
+- TT. Brasher: 50% - TT. Brasher: 0%
+
+- V. Hermon: 100% - V. Hermon: 50%
+
+-  T. Norfolk: 90% - T. Norfolk: 0%
+
+-  T. Piercefield: 0% - T. Piercefield: 0%
+
+-  T. Stockholm: 10% - TT. Stockholm: 0%
+
+Database Development: Ongoing for all partners
+
+Web-based Portal Development: Not started
+
+Summary:
+
+Authority GIS staff will continue to digitize scanned records and populate databases with attribute information
+from hardcopy records. Field verification work continued until the end of December, however, winter
+
+weather will now suspend field work until Spring. Web-based Portal Development work will begin in January.
+
+Project on track for June 30 completion.

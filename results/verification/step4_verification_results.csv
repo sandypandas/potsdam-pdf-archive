@@ -1,0 +1,22 @@
+file,page,method,ref_words,missed_words,spurious_words,word_recall,ref_numbers,numbers_wrong_or_missing,number_recall,result,notes
+544.pdf,1,pdftotext layer,443,0,0,1.0,12,0,1.0,accurate,born-digital minutes
+521.pdf,1,pdftotext layer,130,0,0,1.0,5,0,1.0,accurate,keeps source typo 'Execution Session'
+496.pdf,1,pdftotext layer,138,0,0,1.0,41,0,1.0,accurate,hidden private-use bullet glyph at start
+3.pdf,1,pdftotext layer,148,5,0,0.9662,7,1,0.8571,minor errors,logo text exists only as image [rule said 'major errors'; overridden: only logo/header image text missing]
+43.pdf,57,pdftotext layer,129,0,0,1.0,7,0,1.0,accurate,report page
+916.pdf,1,pdftotext layer,345,10,1,0.971,14,1,0.9286,minor errors,logo/header text and date in images; stray 'FD' [rule said 'major errors'; overridden: only logo/header image text missing]
+885.pdf,5,pdftotext layer,405,32,24,0.921,22,22,0.0,major errors,defective layer: digits and t/r/s in italic font dropped
+249.pdf,8,tesseract 300ppi psm3,236,0,0,1.0,20,0,1.0,accurate,"scan 200 ppi, minutes with money table"
+249.pdf,12,tesseract 300ppi psm3,127,1,0,0.9921,5,0,1.0,minor errors,"scan 200 ppi, minutes"
+960.pdf,1,tesseract 300ppi psm3,308,0,0,1.0,11,0,1.0,accurate,"scan 300 ppi, minutes"
+611.pdf,17,tesseract 300ppi psm3,272,16,35,0.9412,190,15,0.9211,major errors,"scan 200 ppi, budget table"
+977.pdf,11,tesseract 300ppi psm3,53,7,9,0.8679,29,3,0.8966,major errors,"scan 300 ppi, payables table; reading order scrambled"
+232.pdf,35,tesseract 300ppi psm3,54,12,18,0.7778,4,4,0.0,unusable,printed form with handwritten entries
+615.pdf,1,tesseract 300ppi psm3,912,870,22,0.0461,19,18,0.0526,unusable,dense text on halftone grey background
+292.pdf,49,tesseract 300ppi psm3,360,349,357,0.0306,38,33,0.1316,unusable,page stored sideways; OSD missed it
+292.pdf,49,tesseract 300ppi psm3 after rotation,360,84,80,0.7667,38,13,0.6579,unusable,same page rotated upright first
+190.pdf,21,tesseract 300ppi psm1 (auto-rotate),189,65,3,0.6561,91,33,0.6374,unusable,scored on top half of page only (reference covers top half)
+190.pdf,21,LLM vision transcription,189,0,0,1.0,91,0,1.0,accurate,all values re-checked in 300 ppi crops; 0 discrepancies
+982.pdf,1,LLM vision transcription,247,0,0,1.0,54,0,1.0,accurate,52 colour-coded dates re-checked in 200 ppi crops; 0 discrepancies
+982.pdf,1,tesseract 300ppi psm3,247,97,276,0.6073,54,1,0.9815,unusable,colour meaning lost; B-week street column dropped
+209.pdf,69,tesseract 300ppi psm3,,,,,,,,unusable,sideways colour map; not word-scored

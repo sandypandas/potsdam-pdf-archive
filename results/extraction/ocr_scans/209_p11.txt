@@ -1,0 +1,12 @@
+ety
+
+3. Travel Time and Traffic Operations
+
+Travel time along the entire Route 11 corridor from Watertown to Champlain is approximately
+3 hours with some seasonal variation due to inclement weather conditions such as heavy snow
+accumulation typical to the area and increased travel demand during peak tourist seasons. In the
+2008 study’, travel time is calculated as both free flow travel time based on free flow speed and
+actual travel time’ based on GPS data from NYSDOT. Along Route 11, free flow speed is
+assumed to be 60 miles per hour (mph) along rural segments and 40 mph along urbanized
+segments. Table 4 shows free flow travel time along Route 11 segments from Watertown to
+Champlain.

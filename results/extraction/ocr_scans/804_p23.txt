@@ -1,0 +1,48 @@
+Figure 3. Number of days per year below freezing since 1950 with projections to future based
+on a range of model results. Gray bars for historical data are relative to the 1961-1990 average.
+Data and graph from hitos://toolkit.climate.gov/reqions/northeast
+
+Massena, NY, located approximately 20 miles north of Potsdam has experienced an average
+
+seasonal temperature increase as well. Figure 4 shows linear curve fits for average seasonal
+temperatures in Massena dating since 1950.
+
+Massena NY
+25
+a0 : 2 > w=O.0127« - 5.7598
+15
+
+a y =0,0129x - 19.009
+
+y = D.UL74x - 27.966
+
+y = D.01S7x - 25.339
+
+1840 1950 i960 Loyd 2980 199g 2008 2010 — 2020 2030
+
+Seasonal Avg Temps {deg. C)
+
+y = 0.0259x - 59.124
+
+-10
+
+“15 ;
+D-J-F (A fl B-J-A
+5-O-N *  metANn Linear {1-J-A}
+Linear {5-O-N}] Linear (mean) Linear (tvl-a-M)
+
+Figure 4: Seasonal Average Temperature Change in Massena, NY from Mid 1940 - 2019
+
+According to the data, winter (bottom data in blue, Dec-Feb) is warming at a rate of 0.26
+degrees celsius every ten years (°C/decade), which is substantially faster than other seasons.
+Spring (orange, Mar-May) is warming at a rate of 0.16°C/decade. Summer (top in gray, June-
+Aug) is warming at a rate of 0.13°C/decade. Fall (yellow, Sept- Nov) is warming at a rate of
+0.14°C/decade. The overall annual warming rate is 0.17°C/decade.
+
+Precipitation
+
+Winter storms are an increasing cause of concern for Potsdam as the winter season has
+become more severe. Therefore, consideration must be given to the changes in precipitation for
+the region. Rainfall is becoming more variable across the North Country and throughout the
+northeast. Snowfall used to be more consistent and accumulate, and total precipitation arrives
+in fewer more severe storms. There are more thaws than the area historically experienced.

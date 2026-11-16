@@ -1,0 +1,31 @@
+Invoice Number: 050749
+
+Billing Date: 4/4/16
+Account Number: 40POTSDAMV
+Project: 60-291
+
+Village of Potsdam
+
+PO Box 5168
+Potsdam, NY 13676
+
+Contact: Carrie M. Tuttle
+
+December 2015
+Project: Village of Potsdam GIS Development
+
+Hours. Rate Kmount
+Additional Services Provided
+
+Carrie M. Tuttle 9/24/2015 1.00 100.00 100.00
+Carrie M. Tuttle 9/30/2015 1.00 100.60 100.00
+Carrie M. Tuttle 10/6/2015 0.50 100.00 50.00
+Carrie M. Tuttle 10/15/2015 1.00 100.00 100.00
+Carrie M. Tuttle 41/6/2015 0.50 100.00 50.00
+Christina M. lifingworth 12/2/2015 1.00 41.00 41.00
+Christina M. Illingworth 12/7/2015 9.00 41.00 368,00
+David L. Smith 42/7/2015 9.00 41.00 369.00
+Manasseh M. Burt 12/7/2015 9.00 65.00 585.00
+Christina M. litingworth 12/8/2015 8.00 41.00 328.00
+
+David 1. Smith 12/8/2015 8.00 41.00 328.00
