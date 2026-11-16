@@ -158,4 +158,4 @@ The full plan is in [`docs/Potsdam_Preservation_Governance_Plan.pdf`](docs/Potsd
 
 ## Credits
 
-Prepared by Sandipan (Sandy) Das, Nathan Hellman and Ian Dahlquist for a course assignment at Iowa State University, November 2026.
+Prepared by Sandipan (Sandy) Das, Nathan Hellman, and Ian Dahlquist for a course assignment at Iowa State University, November 2026.
