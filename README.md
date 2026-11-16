@@ -158,4 +158,4 @@ The full plan is in [`docs/Potsdam_Preservation_Governance_Plan.pdf`](docs/Potsd
 
 ## Credits
 
-Prepared by Sandipan (Sandy) Das for a course assignment at Iowa State University, November 2026, with analysis support from Claude (Anthropic).
+Prepared by Sandipan (Sandy) Das for a course assignment at Iowa State University, November 2026.
